@@ -1,1363 +1,1363 @@
 <root>
-<str code="chklnk_choix_caddie_vign">Añadir los registros cuyo enlace está roto a la cesta: </str>
-<str code="chklnk_choix_caddie_autaut">Añadir los autores cuyo enlace está roto a la cesta: </str>
-<str code="chklnk_choix_caddie_autpub">Añadir las editoriales cuyo enlace está roto a la cesta: </str>
-<str code="chklnk_choix_caddie_autcol">Añadir las colecciones cuyo enlace está roto a la cesta: </str>
-<str code="chklnk_choix_caddie_autsco">Añadir las subcolecciones cuyo enlace está roto a la cesta: </str>
-<str code="chklnk_chk_authorities_thumbnail">Verificar las URL de las miniaturas de autoridad </str>
-<str code="chklnk_authorities_thumbnail">Compronbación de las URL de las miniaturas de autoridad</str>
-<str code="chklnk_choix_caddie_authorities_thumbnail">Añadir las autoridades cuyo enlace está roto a la cesta: </str>
-<str js="selector" code="selector_tab_simple_search">Búsqueda simple</str>
-<str js="selector" code="selector_tab_advanced_search">Búsqueda multicriterio</str>
-<str js="selector" code="selector_tab_add">Añadir</str>
-<str js="selector" code="selector_tab_results">Resultados</str>
-<str js="selector" code="selector_tab_hierarchical_search">Búsqueda jerárquica</str>
-<str js="selector" code="selector_tab_terms_search">Búsqueda por temas</str>
-<str js="selector" code="selector_tab_indexation_auto">Indexación automática</str>
-<str js="selector" code="selector_tab_search_concept">Búsqueda por conceptos</str>
-<str js="selector" code="selector_tab_linked_concept">Concepto(s) associado(s)</str>
-<str code="planificateur_catalog_scheduler_chklnk">Comprobaciones de enlaces</str>
-<str code="es_user_auth_none">No</str>
-<str js="indexation" code="indexation_in_progress">Indexación en curso</str>
-<str code="cms_clean_cache_img">Limpiar la caché de imágenes</str>
-<str code="cms_clean_cache_confirm_img">¿Está seguro de que quiere limpiar la caché de imágenes del portal?</str>
-<str code="import_authorities_type_concept">Conceptos</str>
-<str code="import_authorities_scheme">Seleccionar el esquema a utilizar para los conceptos</str>
-<str code="import_authorities_category_or_concept">¿Importar en categorías o conceptos?</str>
-<str code="import_authorities_grammar">Seleccionar la grámtica a utilizar para los conceptos</str>
-<str code="import_authorities_grammar_none">Alguna</str>
-<str code="import_authorities_scheme_undefine">Detección automática (recomendado para RAMEAU)</str>
+<str key="chklnk_choix_caddie_vign">Añadir los registros cuyo enlace está roto a la cesta: </str>
+<str key="chklnk_choix_caddie_autaut">Añadir los autores cuyo enlace está roto a la cesta: </str>
+<str key="chklnk_choix_caddie_autpub">Añadir las editoriales cuyo enlace está roto a la cesta: </str>
+<str key="chklnk_choix_caddie_autcol">Añadir las colecciones cuyo enlace está roto a la cesta: </str>
+<str key="chklnk_choix_caddie_autsco">Añadir las subcolecciones cuyo enlace está roto a la cesta: </str>
+<str key="chklnk_chk_authorities_thumbnail">Verificar las URL de las miniaturas de autoridad </str>
+<str key="chklnk_authorities_thumbnail">Compronbación de las URL de las miniaturas de autoridad</str>
+<str key="chklnk_choix_caddie_authorities_thumbnail">Añadir las autoridades cuyo enlace está roto a la cesta: </str>
+<str js="selector" key="selector_tab_simple_search">Búsqueda simple</str>
+<str js="selector" key="selector_tab_advanced_search">Búsqueda multicriterio</str>
+<str js="selector" key="selector_tab_add">Añadir</str>
+<str js="selector" key="selector_tab_results">Resultados</str>
+<str js="selector" key="selector_tab_hierarchical_search">Búsqueda jerárquica</str>
+<str js="selector" key="selector_tab_terms_search">Búsqueda por temas</str>
+<str js="selector" key="selector_tab_indexation_auto">Indexación automática</str>
+<str js="selector" key="selector_tab_search_concept">Búsqueda por conceptos</str>
+<str js="selector" key="selector_tab_linked_concept">Concepto(s) associado(s)</str>
+<str key="planificateur_catalog_scheduler_chklnk">Comprobaciones de enlaces</str>
+<str key="es_user_auth_none">No</str>
+<str js="indexation" key="indexation_in_progress">Indexación en curso</str>
+<str key="cms_clean_cache_img">Limpiar la caché de imágenes</str>
+<str key="cms_clean_cache_confirm_img">¿Está seguro de que quiere limpiar la caché de imágenes del portal?</str>
+<str key="import_authorities_type_concept">Conceptos</str>
+<str key="import_authorities_scheme">Seleccionar el esquema a utilizar para los conceptos</str>
+<str key="import_authorities_category_or_concept">¿Importar en categorías o conceptos?</str>
+<str key="import_authorities_grammar">Seleccionar la grámtica a utilizar para los conceptos</str>
+<str key="import_authorities_grammar_none">Alguna</str>
+<str key="import_authorities_scheme_undefine">Detección automática (recomendado para RAMEAU)</str>
 
-<str code="caddie_menu_action_transfert_to_location">Generar una transferencia</str>
-<str code="caddie_menu_action_transfert_to_location_select">Seleccionar un destino</str>
-<str code="caddie_menu_action_transfert_to_location_ok">Número de transferencias generadas</str>
-<str code="caddie_menu_action_transfert_to_location_see">Ver</str>
-<str code="caddie_menu_action_transfert_to_location_nok">Número de ejemplares en transferecias fallidas</str>
-<str code="caddie_menu_action_transfert_to_location_in_progress">Número de ejemplares en transferencias ya activas</str>
-<str code="list_ui_options_available_columns">Campos disponibles</str>
-<str code="list_ui_options_selected_columns">Campos seleccionados</str>
-<str code="template_id">Id</str>
-<str code="template_name">Nombre</str>
-<str code="template_description">Descripción</str>
-<str code="template_ajouter">Añadir una plantilla</str>
-<str code="template_modifier">Modificar la plantilla</str>
-<str code="template_modifier_erreur">No es posible modificar la plantilla</str>
-<str code="template_ajouter_erreur">No es posible añadir la plantilla</str>
-<str code="template_nom_erreur">La plantilla debe tener al menos un nombre</str>
-<str code="template_content">Plantilla</str>
-<str code="template_insert">Insertar</str>
-<str code="template_list_default">Plantilla por defecto</str>
-<str code="frbr">FRBR</str>
-<str code="modelling">Modelización</str>
-<str code="param_frbr">FRBR</str>
-<str code="param_modelling">Modelización</str>
-<str code="admin_menu_abonnements_status">Estado</str>
-<str code="docnum_statut_bulletinage_active">Activo en boletines</str>
-<str code="caddie_menu_action_transfert_to_location_is_here">Número de ejemplares ubicados en este destino</str>
-<str code="frbr_cataloging_itemslist_title">Lista de entidades</str>
-<str code="frbr_cataloging_graph_title">Gráfico</str>
-<str code="frbr_cataloging_search_title">Búsqueda</str>
-<str js="frbr" code="frbr_cataloging_edit_category">Editar una clasificación</str>
-<str js="frbr" code="frbr_cataloging_add_category">Añadir una clasificación</str>
-<str js="frbr" code="frbr_cataloging_edit_datanode">Editar un conjunto de datos</str>
-<str js="frbr" code="frbr_cataloging_add_datanode">Añadir un conjunto de datos</str>
-<str js="frbr" code="frbr_cataloging_confirm_datanode_delete">¿Desea borrar este conjunto de datos?</str>
-<str js="frbr" code="frbr_cataloging_confirm_category_delete">¿Desea borrar esta clasificación?</str>
-<str code="frbr_cataloging_form_category_parent">Clasificación padre</str>
-<str code="frbr_cataloging_form_label">Etiqueta </str>
-<str code="frbr_cataloging_form_save">Guardar</str>
-<str code="frbr_cataloging_form_delete">Suprimir</str>
-<str code="frbr_cataloging_form_rights">Permisos de usuario</str>
-<str code="frbr_cataloging_form_comment">Descripción</str>
-<str code="frbr_cataloging_schemes">Esquemas de catalogación</str>
-<str code="frbr_cataloging_scheme_new">Nuevo esquema de catalogación</str>
-<str code="frbr_cataloging_scheme_label">Etiqueta del esquema</str>
-<str code="frbr_cataloging_scheme_entity">Entidad</str>
-<str code="frbr_cataloging_scheme_linked_entity">Entidad relacionada</str>
-<str code="frbr_cataloging_scheme_choose_entity">Seleccionar una entidad</str>
-<str code="frbr_cataloging_scheme_entity_link">Relación</str>
-<str code="frbr_cataloging_scheme_entity_link_type">Tipo de relación</str>
-<str code="frbr_cataloging_scheme_choose_entity_link">Seleccionar una relación</str>
-<str code="frbr_cataloging_scheme_choose_entity_link_type">Seleccionar un tipo de relación</str>
-<str code="frbr_cataloging_scheme_start_entity">Entidad de inicio</str>
-<str code="frbr_cataloging_form_already_added">El elemento ya existe en la lista</str>
-<str code="empr_do_pret_resa">Prestar reservas comprobadas</str>
-<str code="empr_do_pret_refuse">Préstamos rechazados</str>
-<str code="empr_do_pret_refuse_forcage">Forzar los préstamos</str>
-<str code="empr_do_pret_refuse_resa_not_valid">Reserva no válida</str>
-<str code="group_prolonge_pret">Prolongar los préstamos</str>
-<str code="group_prolonge_pret_no_date">Seleccione una fecha de prolongación</str>
-<str code="group_prolonge_pret_confirm">¿Desea confirmar la prolongación de los préstamos para los miembros del grupo?</str>
-<str code="group_prolonge_pret_date_title">Fecha de prolongación</str>
-<str code="empr_group_responsable"> (Responsable)</str>
-<str code="group_encaissement_trop_percu">Importe restante no cobrado</str>
-<str js="frbr" code="frbr_cataloging_list_title">Lista de artículos</str>
-<str js="frbr" code="frbr_cataloging_link_an_entity">Vincular una entidad</str>
-<str js="frbr" code="frbr_cataloging_link_no_link_possible">No es posible relacionar estas dos entidades</str>
-<str js="frbr" code="frbr_cataloging_record">Registro</str>
-<str js="frbr" code="frbr_cataloging_author">Autor</str>
-<str js="frbr" code="frbr_cataloging_category">Categoria</str>
-<str js="frbr" code="frbr_cataloging_publisher">Editotial</str>
-<str js="frbr" code="frbr_cataloging_collection">Colección</str>
-<str js="frbr" code="frbr_cataloging_subcollection">Subcolección</str>
-<str js="frbr" code="frbr_cataloging_serie">Serie</str>
-<str js="frbr" code="frbr_cataloging_work">Título uniforme</str>
-<str js="frbr" code="frbr_cataloging_indexint">Indexación decimal</str>
-<str js="frbr" code="frbr_cataloging_concept">Concepto</str>
-<str js="frbr" code="frbr_cataloging_choice">Seleccione una entidad</str>
+<str key="caddie_menu_action_transfert_to_location">Generar una transferencia</str>
+<str key="caddie_menu_action_transfert_to_location_select">Seleccionar un destino</str>
+<str key="caddie_menu_action_transfert_to_location_ok">Número de transferencias generadas</str>
+<str key="caddie_menu_action_transfert_to_location_see">Ver</str>
+<str key="caddie_menu_action_transfert_to_location_nok">Número de ejemplares en transferecias fallidas</str>
+<str key="caddie_menu_action_transfert_to_location_in_progress">Número de ejemplares en transferencias ya activas</str>
+<str key="list_ui_options_available_columns">Campos disponibles</str>
+<str key="list_ui_options_selected_columns">Campos seleccionados</str>
+<str key="template_id">Id</str>
+<str key="template_name">Nombre</str>
+<str key="template_description">Descripción</str>
+<str key="template_ajouter">Añadir una plantilla</str>
+<str key="template_modifier">Modificar la plantilla</str>
+<str key="template_modifier_erreur">No es posible modificar la plantilla</str>
+<str key="template_ajouter_erreur">No es posible añadir la plantilla</str>
+<str key="template_nom_erreur">La plantilla debe tener al menos un nombre</str>
+<str key="template_content">Plantilla</str>
+<str key="template_insert">Insertar</str>
+<str key="template_list_default">Plantilla por defecto</str>
+<str key="frbr">FRBR</str>
+<str key="modelling">Modelización</str>
+<str key="param_frbr">FRBR</str>
+<str key="param_modelling">Modelización</str>
+<str key="admin_menu_abonnements_status">Estado</str>
+<str key="docnum_statut_bulletinage_active">Activo en boletines</str>
+<str key="caddie_menu_action_transfert_to_location_is_here">Número de ejemplares ubicados en este destino</str>
+<str key="frbr_cataloging_itemslist_title">Lista de entidades</str>
+<str key="frbr_cataloging_graph_title">Gráfico</str>
+<str key="frbr_cataloging_search_title">Búsqueda</str>
+<str js="frbr" key="frbr_cataloging_edit_category">Editar una clasificación</str>
+<str js="frbr" key="frbr_cataloging_add_category">Añadir una clasificación</str>
+<str js="frbr" key="frbr_cataloging_edit_datanode">Editar un conjunto de datos</str>
+<str js="frbr" key="frbr_cataloging_add_datanode">Añadir un conjunto de datos</str>
+<str js="frbr" key="frbr_cataloging_confirm_datanode_delete">¿Desea borrar este conjunto de datos?</str>
+<str js="frbr" key="frbr_cataloging_confirm_category_delete">¿Desea borrar esta clasificación?</str>
+<str key="frbr_cataloging_form_category_parent">Clasificación padre</str>
+<str key="frbr_cataloging_form_label">Etiqueta </str>
+<str key="frbr_cataloging_form_save">Guardar</str>
+<str key="frbr_cataloging_form_delete">Suprimir</str>
+<str key="frbr_cataloging_form_rights">Permisos de usuario</str>
+<str key="frbr_cataloging_form_comment">Descripción</str>
+<str key="frbr_cataloging_schemes">Esquemas de catalogación</str>
+<str key="frbr_cataloging_scheme_new">Nuevo esquema de catalogación</str>
+<str key="frbr_cataloging_scheme_label">Etiqueta del esquema</str>
+<str key="frbr_cataloging_scheme_entity">Entidad</str>
+<str key="frbr_cataloging_scheme_linked_entity">Entidad relacionada</str>
+<str key="frbr_cataloging_scheme_choose_entity">Seleccionar una entidad</str>
+<str key="frbr_cataloging_scheme_entity_link">Relación</str>
+<str key="frbr_cataloging_scheme_entity_link_type">Tipo de relación</str>
+<str key="frbr_cataloging_scheme_choose_entity_link">Seleccionar una relación</str>
+<str key="frbr_cataloging_scheme_choose_entity_link_type">Seleccionar un tipo de relación</str>
+<str key="frbr_cataloging_scheme_start_entity">Entidad de inicio</str>
+<str key="frbr_cataloging_form_already_added">El elemento ya existe en la lista</str>
+<str key="empr_do_pret_resa">Prestar reservas comprobadas</str>
+<str key="empr_do_pret_refuse">Préstamos rechazados</str>
+<str key="empr_do_pret_refuse_forcage">Forzar los préstamos</str>
+<str key="empr_do_pret_refuse_resa_not_valid">Reserva no válida</str>
+<str key="group_prolonge_pret">Prolongar los préstamos</str>
+<str key="group_prolonge_pret_no_date">Seleccione una fecha de prolongación</str>
+<str key="group_prolonge_pret_confirm">¿Desea confirmar la prolongación de los préstamos para los miembros del grupo?</str>
+<str key="group_prolonge_pret_date_title">Fecha de prolongación</str>
+<str key="empr_group_responsable"> (Responsable)</str>
+<str key="group_encaissement_trop_percu">Importe restante no cobrado</str>
+<str js="frbr" key="frbr_cataloging_list_title">Lista de artículos</str>
+<str js="frbr" key="frbr_cataloging_link_an_entity">Vincular una entidad</str>
+<str js="frbr" key="frbr_cataloging_link_no_link_possible">No es posible relacionar estas dos entidades</str>
+<str js="frbr" key="frbr_cataloging_record">Registro</str>
+<str js="frbr" key="frbr_cataloging_author">Autor</str>
+<str js="frbr" key="frbr_cataloging_category">Categoria</str>
+<str js="frbr" key="frbr_cataloging_publisher">Editotial</str>
+<str js="frbr" key="frbr_cataloging_collection">Colección</str>
+<str js="frbr" key="frbr_cataloging_subcollection">Subcolección</str>
+<str js="frbr" key="frbr_cataloging_serie">Serie</str>
+<str js="frbr" key="frbr_cataloging_work">Título uniforme</str>
+<str js="frbr" key="frbr_cataloging_indexint">Indexación decimal</str>
+<str js="frbr" key="frbr_cataloging_concept">Concepto</str>
+<str js="frbr" key="frbr_cataloging_choice">Seleccione una entidad</str>
 
-<str code="campaigns">Campañas de correo electrónico</str>
-<str code="campaigns_all">Todas</str>
-<str code="campaigns_types">Tipos</str>
-<str code="campaigns_labels">Etiquetas</str>
-<str code="campaigns_dates">Fechas</str>
-<str code="campaigns_ui_form_title">Campañas de correo</str>
-<str code="campaign_type">Tipo</str>
-<str code="campaign_type_dsi">D.S.I.</str>
-<str code="campaign_type_relances">Recordatorios</str>
-<str code="campaign_label">Etiqueta</str>
-<str code="campaign_date">Fecha</str>
-<str code="campaign_view_recipients_number">Número de destinatarios</str>
-<str code="campaign_view_opening_rate">Porcentaje de apertura</str>
-<str code="campaign_view_clicks_rate">Porcentaje de clics</str>
-<str code="campaign_view_clicks_by_links">Número de clics por enlace</str>
-<str code="campaign_view_opening_number">Número de aperturas</str>
-<str code="campaign_view_clicks_number">Número de clics</str>
-<str code="campaign_view_opening_and_clicks_by_days">Número de aperturas y clics por dia</str>
-<str code="campaign_view_clicks_by_links_type">Clics por tipo de enlace</str>
-<str code="dsi_ban_associated_campaign">Generar una campaña de correo electrónico</str>
-<str code="mails_waiting">Envío de cola/correo</str>
-<str code="consolidate">Consolidar</str>
-<str code="parperso_date_flottante">Fecha flotante</str>
-<str code="parperso_option_duration">Tiempo de búsqueda alrededor de la fecha</str>
-<str code="parperso_option_duration_d">Días</str>
-<str code="parperso_option_duration_m">Meses</str>
-<str code="parperso_option_duration_y">Años</str>
-<str code="parperso_option_duration_type0">Hacia</str>
-<str code="parperso_option_duration_type1">Antes</str>
-<str code="parperso_option_duration_type2">Después</str>
-<str code="parperso_option_duration_type3">Fecha exacta</str>
-<str code="parperso_option_duration_type4">Intervalo de fechas</str>
-<str code="parperso_option_duration_comment">Comentario: </str>
-<str code="parperso_option_duration_entre">Entre</str>
-<str code="parperso_option_duration_et">y</str>
-<str code="campaigns_delete_confirm">¿Desea suprimir esta(s) campaña(s) de correo electrónico?</str>
-<str code="campaigns_view_opening_and_clicks">Porcentaje de apertura y clics</str>
-<str code="campaign_view_opening_and_clicks_by_hours">Número de aperturas y clics por hora</str>
-<str code="campaign_view_opening_by_recipients_location">Clics por localización</str>
-<str code="campaign_view_opening_by_recipients_categ">Clics por categoría</str>
-<str code="campaign_view_opening_by_recipients_statut">Clics por estados</str>
-<str code="campaign_view_opening_by_recipients_codestat">Clics por código estadístico</str>
-<str code="campaigns_view_opening_by_recipients_location">Porcentaje de apertura por localización</str>
-<str code="campaigns_view_opening_by_recipients_categ">Porcentaje de apertura por categoría</str>
-<str code="campaigns_view_opening_by_recipients_statut">Porcentaje de apertura por estado</str>
-<str code="campaigns_view_opening_by_recipients_codestat">Porcentaje de apertura por código estadístico</str>
-<str code="list_ui_selection">Para la selección</str>
-<str code="list_ui_no_selected">No se ha seleccionado ninguna línea.</str>
-<str code="list_ui_no_filter">Sin filtro</str>
-<str code="compare">Comparar</str>
-<str code="campaigns_view_rate">Procentaje(%)</str>
-<str code="campaign_view_no_email_sent_number">Número de correos electrónicos no enviados</str>
-<str code="campaigns_view_clicks_by_recipients_location">Procentaje de clics por localización</str>
-<str code="campaigns_view_clicks_by_recipients_categ">Procentaje de clics por categoría</str>
-<str code="campaigns_view_clicks_by_recipients_statut">Procentaje de clics por estado</str>
-<str code="campaigns_view_clicks_by_recipients_codestat">Procentaje de clics por código estadístico</str>
-<str code="campaigns_dates_start">Después de la</str>
-<str code="campaigns_dates_end">Antes de</str>
-<str code="list_ui_options">Opciones</str>
-<str code="list_ui_options_move_available_to_selected">Mover a las columnas seleccionadas</str>
-<str code="list_ui_options_move_selected_to_available">Eliminar las columnas seleccionadas</str>
-<str code="list_ui_options_move_option_first">Mover al principio</str>
-<str code="list_ui_options_move_option_top">Mover arriba</str>
-<str code="list_ui_options_move_option_bottom">Mover abajo</str>
-<str code="list_ui_options_move_option_last">Mover al final</str>
-<str code="list_ui_options_group_by">Agrupar por</str>
-<str code="list_ui_datasets_my">Mis listas personalizadas</str>
-<str code="list_ui_datasets_shared">Listas personalizadas</str>
-<str code="apply">Aplicar</str>
-<str code="list_edit">Editando una lista</str>
-<str code="list_label">Etiqueta </str>
-<str code="list_label_mandatory">¿Desea dar un nombre personalizado a su lista personalizada?</str>
-<str code="list_autorisations">Visible para</str>
-<str code="list_default_selected">¿Seleccionado por defecto?</str>
-<str code="frbr_cataloging_title">Catalogación</str>
-<str code="cms_type_used_in_contribution">Este tipo de contenido editorial se utiliza en formularios de contribución. </str>
-<str code="list_applied_sort">Ordenar</str>
-<str code="list_applied_sort_asc">Orden ascendente</str>
-<str code="list_applied_sort_desc">Orden descendente</str>
-<str code="list_pager">Paginación</str>
-<str code="list_delete_confirm">¿Desea suprimir esta lista personalizada?</str>
-<str js="list" code="list_delete_confirm">¿Desea suprimir esta lista personalizada?</str>
-<str code="parperso_field_classement">Clasificación de campo</str>
-<str code="save_and_continue">Guardar y continuar</str>
-<str code="save_and_continue_concept">Guardar y crear un concepto</str>
-<str code="search_universe_description">Descripción</str>
-<str code="search_universe_opac_views">Vistas OPAC</str>
-<str code="parperso_option_duration_begin">Entre</str>
-<str code="parperso_option_duration_end">y</str>
-<str code="search_segment_add_set">Crear / modificar conjunto de datos</str>
-<str code="search_segment_set">Conjunto de datos</str>
-<str code="search_universes_empty_label">La etiqueta del segmento está vacía. Gracias por informarle. </str>
-<str js="search_universes" code="search_segment_set_not_save">Problema al guardar el conjunto de datos</str>
-<str js="search_universes" code="search_segment_confirm_delete">¿Desea suprimir este segmento de búsqueda?</str>
-<str js="search_universes" code="search_universe_confirm_delete">¿Está seguro de que desea eliminar este universo de búsqueda? </str>
-<str js="search_universes" code="search_universes_empty_label">Por favor complete la redacción.</str>
-<str js="search_universes" code="search_segment_advanced_search">Búsqueda avanzada</str>
-<str code="index_concept_label_autopostage">Conceptos auto-publicados</str>
-<str js="search_universes" code="search_segment_facet">Faceta</str>
-<str js="search_universes" code="search_segment_search_perso">Búsqueda predefinida</str>
-<str js="search_universes" code="search_segment_facet_not_save">Problema al registrar la faceta</str>
-<str code="mails_waiting_attachments">Directorio que se utilizará para almacenar archivos adjuntos </str>
-<str code="mails_waiting_max_by_send">Número máximo de correos electrónicos por envío</str>
-<str code="list_ui_search">Filtros / Ordenar</str>
-<str code="search_persopac_type">Tipo</str>
+<str key="campaigns">Campañas de correo electrónico</str>
+<str key="campaigns_all">Todas</str>
+<str key="campaigns_types">Tipos</str>
+<str key="campaigns_labels">Etiquetas</str>
+<str key="campaigns_dates">Fechas</str>
+<str key="campaigns_ui_form_title">Campañas de correo</str>
+<str key="campaign_type">Tipo</str>
+<str key="campaign_type_dsi">D.S.I.</str>
+<str key="campaign_type_relances">Recordatorios</str>
+<str key="campaign_label">Etiqueta</str>
+<str key="campaign_date">Fecha</str>
+<str key="campaign_view_recipients_number">Número de destinatarios</str>
+<str key="campaign_view_opening_rate">Porcentaje de apertura</str>
+<str key="campaign_view_clicks_rate">Porcentaje de clics</str>
+<str key="campaign_view_clicks_by_links">Número de clics por enlace</str>
+<str key="campaign_view_opening_number">Número de aperturas</str>
+<str key="campaign_view_clicks_number">Número de clics</str>
+<str key="campaign_view_opening_and_clicks_by_days">Número de aperturas y clics por dia</str>
+<str key="campaign_view_clicks_by_links_type">Clics por tipo de enlace</str>
+<str key="dsi_ban_associated_campaign">Generar una campaña de correo electrónico</str>
+<str key="mails_waiting">Envío de cola/correo</str>
+<str key="consolidate">Consolidar</str>
+<str key="parperso_date_flottante">Fecha flotante</str>
+<str key="parperso_option_duration">Tiempo de búsqueda alrededor de la fecha</str>
+<str key="parperso_option_duration_d">Días</str>
+<str key="parperso_option_duration_m">Meses</str>
+<str key="parperso_option_duration_y">Años</str>
+<str key="parperso_option_duration_type0">Hacia</str>
+<str key="parperso_option_duration_type1">Antes</str>
+<str key="parperso_option_duration_type2">Después</str>
+<str key="parperso_option_duration_type3">Fecha exacta</str>
+<str key="parperso_option_duration_type4">Intervalo de fechas</str>
+<str key="parperso_option_duration_comment">Comentario: </str>
+<str key="parperso_option_duration_entre">Entre</str>
+<str key="parperso_option_duration_et">y</str>
+<str key="campaigns_delete_confirm">¿Desea suprimir esta(s) campaña(s) de correo electrónico?</str>
+<str key="campaigns_view_opening_and_clicks">Porcentaje de apertura y clics</str>
+<str key="campaign_view_opening_and_clicks_by_hours">Número de aperturas y clics por hora</str>
+<str key="campaign_view_opening_by_recipients_location">Clics por localización</str>
+<str key="campaign_view_opening_by_recipients_categ">Clics por categoría</str>
+<str key="campaign_view_opening_by_recipients_statut">Clics por estados</str>
+<str key="campaign_view_opening_by_recipients_codestat">Clics por código estadístico</str>
+<str key="campaigns_view_opening_by_recipients_location">Porcentaje de apertura por localización</str>
+<str key="campaigns_view_opening_by_recipients_categ">Porcentaje de apertura por categoría</str>
+<str key="campaigns_view_opening_by_recipients_statut">Porcentaje de apertura por estado</str>
+<str key="campaigns_view_opening_by_recipients_codestat">Porcentaje de apertura por código estadístico</str>
+<str key="list_ui_selection">Para la selección</str>
+<str key="list_ui_no_selected">No se ha seleccionado ninguna línea.</str>
+<str key="list_ui_no_filter">Sin filtro</str>
+<str key="compare">Comparar</str>
+<str key="campaigns_view_rate">Procentaje(%)</str>
+<str key="campaign_view_no_email_sent_number">Número de correos electrónicos no enviados</str>
+<str key="campaigns_view_clicks_by_recipients_location">Procentaje de clics por localización</str>
+<str key="campaigns_view_clicks_by_recipients_categ">Procentaje de clics por categoría</str>
+<str key="campaigns_view_clicks_by_recipients_statut">Procentaje de clics por estado</str>
+<str key="campaigns_view_clicks_by_recipients_codestat">Procentaje de clics por código estadístico</str>
+<str key="campaigns_dates_start">Después de la</str>
+<str key="campaigns_dates_end">Antes de</str>
+<str key="list_ui_options">Opciones</str>
+<str key="list_ui_options_move_available_to_selected">Mover a las columnas seleccionadas</str>
+<str key="list_ui_options_move_selected_to_available">Eliminar las columnas seleccionadas</str>
+<str key="list_ui_options_move_option_first">Mover al principio</str>
+<str key="list_ui_options_move_option_top">Mover arriba</str>
+<str key="list_ui_options_move_option_bottom">Mover abajo</str>
+<str key="list_ui_options_move_option_last">Mover al final</str>
+<str key="list_ui_options_group_by">Agrupar por</str>
+<str key="list_ui_datasets_my">Mis listas personalizadas</str>
+<str key="list_ui_datasets_shared">Listas personalizadas</str>
+<str key="apply">Aplicar</str>
+<str key="list_edit">Editando una lista</str>
+<str key="list_label">Etiqueta </str>
+<str key="list_label_mandatory">¿Desea dar un nombre personalizado a su lista personalizada?</str>
+<str key="list_autorisations">Visible para</str>
+<str key="list_default_selected">¿Seleccionado por defecto?</str>
+<str key="frbr_cataloging_title">Catalogación</str>
+<str key="cms_type_used_in_contribution">Este tipo de contenido editorial se utiliza en formularios de contribución. </str>
+<str key="list_applied_sort">Ordenar</str>
+<str key="list_applied_sort_asc">Orden ascendente</str>
+<str key="list_applied_sort_desc">Orden descendente</str>
+<str key="list_pager">Paginación</str>
+<str key="list_delete_confirm">¿Desea suprimir esta lista personalizada?</str>
+<str js="list" key="list_delete_confirm">¿Desea suprimir esta lista personalizada?</str>
+<str key="parperso_field_classement">Clasificación de campo</str>
+<str key="save_and_continue">Guardar y continuar</str>
+<str key="save_and_continue_concept">Guardar y crear un concepto</str>
+<str key="search_universe_description">Descripción</str>
+<str key="search_universe_opac_views">Vistas OPAC</str>
+<str key="parperso_option_duration_begin">Entre</str>
+<str key="parperso_option_duration_end">y</str>
+<str key="search_segment_add_set">Crear / modificar conjunto de datos</str>
+<str key="search_segment_set">Conjunto de datos</str>
+<str key="search_universes_empty_label">La etiqueta del segmento está vacía. Gracias por informarle. </str>
+<str js="search_universes" key="search_segment_set_not_save">Problema al guardar el conjunto de datos</str>
+<str js="search_universes" key="search_segment_confirm_delete">¿Desea suprimir este segmento de búsqueda?</str>
+<str js="search_universes" key="search_universe_confirm_delete">¿Está seguro de que desea eliminar este universo de búsqueda? </str>
+<str js="search_universes" key="search_universes_empty_label">Por favor complete la redacción.</str>
+<str js="search_universes" key="search_segment_advanced_search">Búsqueda avanzada</str>
+<str key="index_concept_label_autopostage">Conceptos auto-publicados</str>
+<str js="search_universes" key="search_segment_facet">Faceta</str>
+<str js="search_universes" key="search_segment_search_perso">Búsqueda predefinida</str>
+<str js="search_universes" key="search_segment_facet_not_save">Problema al registrar la faceta</str>
+<str key="mails_waiting_attachments">Directorio que se utilizará para almacenar archivos adjuntos </str>
+<str key="mails_waiting_max_by_send">Número máximo de correos electrónicos por envío</str>
+<str key="list_ui_search">Filtros / Ordenar</str>
+<str key="search_persopac_type">Tipo</str>
 
-<str code="associated_campaign">Generar una campaña de correo electrónic</str>
-<str code="campaign_type_mailing">Envío</str>
-<str code="campaigns_descriptors">Descriptores</str>
-<str code="campaigns_tags">Etiquetas / Palabras clave</str>
-<str code="facettes_records">Registros</str>
-<str code="facettes_external_records">Registros externos</str>
-<str code="facettes_authorities">Autoridades</str>
-<str code="facette_type">Tipo</str>
-<str code="authors">Autores</str>
-<str code="categories">Categorías</str>
-<str code="publishers">Editoriales</str>
-<str code="collections">Colecciones</str>
-<str code="subcollections">Subcolecciones</str>
-<str code="series">Título de série</str>
-<str code="titres_uniformes">Títulos uniformes</str>
-<str code="indexint">Index. decimales</str>
-<str code="caddie_de_AUTHPERSO">Cesta de autoridades personalizadas</str>
-<str code="admin_opac_contact_form_parameter_permalink">Enlace permanenete OPAC :</str>
+<str key="associated_campaign">Generar una campaña de correo electrónic</str>
+<str key="campaign_type_mailing">Envío</str>
+<str key="campaigns_descriptors">Descriptores</str>
+<str key="campaigns_tags">Etiquetas / Palabras clave</str>
+<str key="facettes_records">Registros</str>
+<str key="facettes_external_records">Registros externos</str>
+<str key="facettes_authorities">Autoridades</str>
+<str key="facette_type">Tipo</str>
+<str key="authors">Autores</str>
+<str key="categories">Categorías</str>
+<str key="publishers">Editoriales</str>
+<str key="collections">Colecciones</str>
+<str key="subcollections">Subcolecciones</str>
+<str key="series">Título de série</str>
+<str key="titres_uniformes">Títulos uniformes</str>
+<str key="indexint">Index. decimales</str>
+<str key="caddie_de_AUTHPERSO">Cesta de autoridades personalizadas</str>
+<str key="admin_opac_contact_form_parameter_permalink">Enlace permanenete OPAC :</str>
 
-<str code="nettoyage_operations_reindex">Reindexar</str>
-<str code="nettoyage_operations_delete">Suprimir</str>
-<str code="nettoyage_operations_clean">Limpiar</str>
-<str code="nettoyage_operations_generate">Generar</str>
-<str code="nettoyage_operations_empty">Vacío</str>
-<str code="nettoyage_operations_password">Contraseña</str>
-<str code="camera_photo_fail_uploaded">Error de copia de seguridad</str>
+<str key="nettoyage_operations_reindex">Reindexar</str>
+<str key="nettoyage_operations_delete">Suprimir</str>
+<str key="nettoyage_operations_clean">Limpiar</str>
+<str key="nettoyage_operations_generate">Generar</str>
+<str key="nettoyage_operations_empty">Vacío</str>
+<str key="nettoyage_operations_password">Contraseña</str>
+<str key="camera_photo_fail_uploaded">Error de copia de seguridad</str>
 
-<str code="z3950_notice_id">Id de registro</str>
-<str code="bannette_tpl_unsubscribe">Desinscribirse </str>
-<str code="cms_cache_date">Fecha de la última generación</str>
-<str code="connecteurs_search_simple"><![CDATA[<a href='%s'>haz una búsqueda simple</a>]]></str>
-<str code="admin_menu_pnb">Préstamos electrónicos</str>
-<str code="admin_menu_pnb_param">Configuración</str>
-<str code="admin_pnb_param_title">Configuración del PNB</str>
-<str code="admin_pnb_param_login">Código de acceso</str>
-<str code="admin_pnb_param_password">Contraseña</str>
-<str code="admin_pnb_param_ftp_login">Código de acceso FTP</str>
-<str code="admin_pnb_param_ftp_password">Contraseña FTP</str>
-<str code="admin_pnb_param_ftp_server">Dirección del servidor FTP</str>
-<str code="categories_catal_title">Categorías</str>
-<str code="numeric_record">Registro electrónico</str>
-<str code="persofield_url_linktarget_default_checked">Marcado por defecto</str>
-<str code="planificateur_catalog_pnb">PNB</str>
-<str code="admin_menu_pnb_quotas_simultaneous_loans">Cuotas de préstamo</str>
-<str code="admin_menu_pnb_quotas_prolongation">Cuotas de prolongación</str>
-<str code="bannette_tpl_insert_nb_abonnes">Número de abonados</str>
-<str code="edit_menu_pnb">Préstamos electrónicos</str>
-<str code="edit_menu_pnb_orders">Pedidos</str>
-<str code="edit_pnb_order_id">Numéro de pedido</str>
-<str code="edit_pnb_order_line_id">Línea de pedido</str>
-<str code="edit_pnb_order_notice">Registro</str>
-<str code="edit_pnb_order_loan_max_duration">Duración máxima</str>
-<str code="edit_pnb_order_nb_loans">Número de préstamos</str>
-<str code="edit_pnb_order_nb_simultaneous_loans">Número de préstamos simultáneos restantes</str>
-<str code="edit_pnb_order_nb_consult_in_situ">Número de consultas in situ</str>
-<str code="edit_pnb_order_nb_consult_ex_situ">Número de consultas a distancia</str>
-<str code="edit_pnb_order_offer_date">Fecha de adquisición</str>
-<str code="edit_pnb_order_offer_duration">Duración</str>
-<str code="pnb_loan_failed">El préstamo ha fallado</str>
-<str code="pnb_loan_succeed">Documento prestado corréctamente</str>
-<str code="admin_pnb_param_dilicom_url">URL del servicio web Dilicom</str>
-<str code="admin_pnb_param_webservice_url">URL del servicio web para la gestión de préstamos OPAC</str>
-<str code="edit_pnb_order_nb_remaining_loans">Número de préstamos restantes</str>
-<str code="edit_pnb_order_offer_date_end">Fin de validez</str>
-<str code="notice_is_numeric_search">Electrónico</str>
-<str code="dsi_confirm_delete_equation_used_in_private_bannette">Esta ecuación se usa por defecto en cestas privados. ¿Confirmas la eliminación?</str>
-<str code="combine_extended_search">Búsquedas multicriterio</str>
-<str code="admin_contribution_area_quick_param">Configuración rápida</str>
-<str code="admin_contribution_area_quick_param_in_progress">Configuración rápida en curso...</str>
-<str code="caddie_menu_action_edit_panier">Modificar la cesta</str>
-<str code="empr_caddie_menu_action_edit_panier">Modificar la cesta</str>
-<str code="procs_options_text_max_help"><![CDATA[(Texto <= 255 ; Texto largo <= 65 535 ; Entero <= 11)]]></str>
-<str js="docnum" code="docnum_edit_title">Editar un documento electrónico</str>
-<str js="admin_parameters" code="admin_param_edit_popup_title">Edición de un parámetro</str>
-<str js="admin_parameters" code="admin_param_edit_quick_filter">Filtro rápido</str>
-<str js="admin_parameters" code="admin_param_edit_input_placeholder">Introduzca su búsqueda</str>
-<str code="admin_menu_pnb_drm_parameters">DRM</str>
-<str code="admin_pnb_drm_parameters_title">Lista de DRM</str>
-<str code="admin_pnb_drm_parameters_name">Nombre</str>
-<str code="admin_pnb_drm_parameters_prolonge">Prolongable</str>
-<str code="admin_pnb_drm_parameters_loan_duration">Duración del préstamo en días</str>
-<str code="admin_pnb_drm_acs">ACS (Adobe)</str>
-<str code="admin_pnb_drm_lcp">LCP</str>
-<str code="admin_pnb_drm_sony">SONY</str>
-<str code="pnb_ui_form_title">Pedidos PNB</str>
-<str js="edition_pnb" code="pnb_contact_link_title">Póngase en contacto con Dilicom con respecto a los pedidos seleccionados </str>
-<str js="edition_pnb" code="pnb_please_select_command">Seleccione un pedido</str>
-<str js="edition_pnb" code="pnb_contact_command_ref">Referencia del pedido</str>
-<str js="edition_pnb" code="pnb_contact_command_create_date">Pedido creado el</str>
-<str js="edition_pnb" code="pnb_contact_command_line_id">Identificador de la línea de pedido</str>
-<str js="edition_pnb" code="pnb_contact_gln">GLN de la comunidad</str>
-<str js="edition_pnb" code="pnb_contact_mail_title">Problemas con los siguientes pedidos</str>
-<str code="alert_pnb">Préstamos electrónicos</str>
-<str code="alert_pnb_end">Vencimiento de los pedidos</str>
-<str code="alert_pnb_saturation">Saturación</str>
-<str code="admin_pnb_alert">Gestión de las alertas</str>
-<str code="pnb_alert_end_offers">Número de días antes del vencimiento de los pedidos</str>
-<str code="pnb_alert_staturation_offers">Número de ejemplares restantes antes de la saturación del préstamo</str>
-<str code="pnb_edit_end_offers_filter">Pedidos en vencimiento</str>
-<str code="pnb_ui_form_title">Lista de los pedidos</str>
-<str code="pnb_edit_staturation_offers_filter">Pedidos en saturación</str>
-<str code="short_january">ene</str>
-<str code="short_february">feb</str>
-<str code="short_march">mar</str>
-<str code="short_april">abr</str>
-<str code="short_may">may</str>
-<str code="short_june">jun</str>
-<str code="short_july">jul</str>
-<str code="short_august">agos</str>
-<str code="short_september">sept</str>
-<str code="short_october">oct</str>
-<str code="short_november">nov</str>
-<str code="short_december">dic</str>
-<str code="print_size_selected_elements">Los registros seleccionados</str>
-<str code="print_size_selected_elements_authorities">Las autoridades seleccionadas</str>
-<str code="download_size_selected_elements">Los documentos electrónicos seleccionados</str>
-<str code="circ_pret_digital_expl">El préstamo de documentos electrónicos sólo es posible desde OPAC</str>
-<str code="circ_retour_digital_expl">Sólo el prestatario puede devolver un ejemplar de un documento electrónico</str>
-<str code="search_record_modifier">Modificador del registro</str>
-<str code="deflt_notice_statut_analysis">Estado de registro predeterminado en la creación de artículos </str>
-<str code="deflt_notice_statut_analysis_parent">Registro de boletín</str>
-<str code="procs_options_column_name">No devuelva el valor entre comillas</str>
+<str key="z3950_notice_id">Id de registro</str>
+<str key="bannette_tpl_unsubscribe">Desinscribirse </str>
+<str key="cms_cache_date">Fecha de la última generación</str>
+<str key="connecteurs_search_simple"><![CDATA[<a href='%s'>haz una búsqueda simple</a>]]></str>
+<str key="admin_menu_pnb">Préstamos electrónicos</str>
+<str key="admin_menu_pnb_param">Configuración</str>
+<str key="admin_pnb_param_title">Configuración del PNB</str>
+<str key="admin_pnb_param_login">Código de acceso</str>
+<str key="admin_pnb_param_password">Contraseña</str>
+<str key="admin_pnb_param_ftp_login">Código de acceso FTP</str>
+<str key="admin_pnb_param_ftp_password">Contraseña FTP</str>
+<str key="admin_pnb_param_ftp_server">Dirección del servidor FTP</str>
+<str key="categories_catal_title">Categorías</str>
+<str key="numeric_record">Registro electrónico</str>
+<str key="persofield_url_linktarget_default_checked">Marcado por defecto</str>
+<str key="planificateur_catalog_pnb">PNB</str>
+<str key="admin_menu_pnb_quotas_simultaneous_loans">Cuotas de préstamo</str>
+<str key="admin_menu_pnb_quotas_prolongation">Cuotas de prolongación</str>
+<str key="bannette_tpl_insert_nb_abonnes">Número de abonados</str>
+<str key="edit_menu_pnb">Préstamos electrónicos</str>
+<str key="edit_menu_pnb_orders">Pedidos</str>
+<str key="edit_pnb_order_id">Numéro de pedido</str>
+<str key="edit_pnb_order_line_id">Línea de pedido</str>
+<str key="edit_pnb_order_notice">Registro</str>
+<str key="edit_pnb_order_loan_max_duration">Duración máxima</str>
+<str key="edit_pnb_order_nb_loans">Número de préstamos</str>
+<str key="edit_pnb_order_nb_simultaneous_loans">Número de préstamos simultáneos restantes</str>
+<str key="edit_pnb_order_nb_consult_in_situ">Número de consultas in situ</str>
+<str key="edit_pnb_order_nb_consult_ex_situ">Número de consultas a distancia</str>
+<str key="edit_pnb_order_offer_date">Fecha de adquisición</str>
+<str key="edit_pnb_order_offer_duration">Duración</str>
+<str key="pnb_loan_failed">El préstamo ha fallado</str>
+<str key="pnb_loan_succeed">Documento prestado corréctamente</str>
+<str key="admin_pnb_param_dilicom_url">URL del servicio web Dilicom</str>
+<str key="admin_pnb_param_webservice_url">URL del servicio web para la gestión de préstamos OPAC</str>
+<str key="edit_pnb_order_nb_remaining_loans">Número de préstamos restantes</str>
+<str key="edit_pnb_order_offer_date_end">Fin de validez</str>
+<str key="notice_is_numeric_search">Electrónico</str>
+<str key="dsi_confirm_delete_equation_used_in_private_bannette">Esta ecuación se usa por defecto en cestas privados. ¿Confirmas la eliminación?</str>
+<str key="combine_extended_search">Búsquedas multicriterio</str>
+<str key="admin_contribution_area_quick_param">Configuración rápida</str>
+<str key="admin_contribution_area_quick_param_in_progress">Configuración rápida en curso...</str>
+<str key="caddie_menu_action_edit_panier">Modificar la cesta</str>
+<str key="empr_caddie_menu_action_edit_panier">Modificar la cesta</str>
+<str key="procs_options_text_max_help"><![CDATA[(Texto <= 255 ; Texto largo <= 65 535 ; Entero <= 11)]]></str>
+<str js="docnum" key="docnum_edit_title">Editar un documento electrónico</str>
+<str js="admin_parameters" key="admin_param_edit_popup_title">Edición de un parámetro</str>
+<str js="admin_parameters" key="admin_param_edit_quick_filter">Filtro rápido</str>
+<str js="admin_parameters" key="admin_param_edit_input_placeholder">Introduzca su búsqueda</str>
+<str key="admin_menu_pnb_drm_parameters">DRM</str>
+<str key="admin_pnb_drm_parameters_title">Lista de DRM</str>
+<str key="admin_pnb_drm_parameters_name">Nombre</str>
+<str key="admin_pnb_drm_parameters_prolonge">Prolongable</str>
+<str key="admin_pnb_drm_parameters_loan_duration">Duración del préstamo en días</str>
+<str key="admin_pnb_drm_acs">ACS (Adobe)</str>
+<str key="admin_pnb_drm_lcp">LCP</str>
+<str key="admin_pnb_drm_sony">SONY</str>
+<str key="pnb_ui_form_title">Pedidos PNB</str>
+<str js="edition_pnb" key="pnb_contact_link_title">Póngase en contacto con Dilicom con respecto a los pedidos seleccionados </str>
+<str js="edition_pnb" key="pnb_please_select_command">Seleccione un pedido</str>
+<str js="edition_pnb" key="pnb_contact_command_ref">Referencia del pedido</str>
+<str js="edition_pnb" key="pnb_contact_command_create_date">Pedido creado el</str>
+<str js="edition_pnb" key="pnb_contact_command_line_id">Identificador de la línea de pedido</str>
+<str js="edition_pnb" key="pnb_contact_gln">GLN de la comunidad</str>
+<str js="edition_pnb" key="pnb_contact_mail_title">Problemas con los siguientes pedidos</str>
+<str key="alert_pnb">Préstamos electrónicos</str>
+<str key="alert_pnb_end">Vencimiento de los pedidos</str>
+<str key="alert_pnb_saturation">Saturación</str>
+<str key="admin_pnb_alert">Gestión de las alertas</str>
+<str key="pnb_alert_end_offers">Número de días antes del vencimiento de los pedidos</str>
+<str key="pnb_alert_staturation_offers">Número de ejemplares restantes antes de la saturación del préstamo</str>
+<str key="pnb_edit_end_offers_filter">Pedidos en vencimiento</str>
+<str key="pnb_ui_form_title">Lista de los pedidos</str>
+<str key="pnb_edit_staturation_offers_filter">Pedidos en saturación</str>
+<str key="short_january">ene</str>
+<str key="short_february">feb</str>
+<str key="short_march">mar</str>
+<str key="short_april">abr</str>
+<str key="short_may">may</str>
+<str key="short_june">jun</str>
+<str key="short_july">jul</str>
+<str key="short_august">agos</str>
+<str key="short_september">sept</str>
+<str key="short_october">oct</str>
+<str key="short_november">nov</str>
+<str key="short_december">dic</str>
+<str key="print_size_selected_elements">Los registros seleccionados</str>
+<str key="print_size_selected_elements_authorities">Las autoridades seleccionadas</str>
+<str key="download_size_selected_elements">Los documentos electrónicos seleccionados</str>
+<str key="circ_pret_digital_expl">El préstamo de documentos electrónicos sólo es posible desde OPAC</str>
+<str key="circ_retour_digital_expl">Sólo el prestatario puede devolver un ejemplar de un documento electrónico</str>
+<str key="search_record_modifier">Modificador del registro</str>
+<str key="deflt_notice_statut_analysis">Estado de registro predeterminado en la creación de artículos </str>
+<str key="deflt_notice_statut_analysis_parent">Registro de boletín</str>
+<str key="procs_options_column_name">No devuelva el valor entre comillas</str>
 
-<str code="files">Administrar archivos</str>
-<str code="subst_files_management">Archivos sustitutos</str>
-<str code="file_source_code">Código fuente</str>
-<str code="file_setting">Archivo</str>
-<str code="misc_file_code">Código</str>
-<str code="misc_file_label">Etiqueta</str>
-<str code="misc_file_comment">Descripción</str>
-<str code="misc_file_visible">¿Visible?</str>
-<str js="misc" code="misc_subst_file_cancel">Anular</str>
-<str js="misc" code="misc_subst_file_save">Guardar</str>
-<str js="misc" code="misc_subst_file_save_success">Confirmación del guardado del archivo</str>
-<str js="misc" code="misc_subst_file_save_error">Imposible guardar el archivo :</str>
-<str js="misc" code="misc_subst_file_delete">Suprimir</str>
-<str js="misc" code="misc_subst_file_confirm_delete">¿Desea eliminar el archivo sustituido?</str>
-<str js="misc" code="misc_subst_file_delete_success">Confirmación de la eliminación del archivo :</str>
-<str js="misc" code="misc_subst_file_delete_error">Imposible eliminar el archivo :</str>
-<str code="substituate">Sustituir</str>
-<str code="search_segment_default">Segmento por defecto</str>
-<str code="deflt3type_produit">Tipo de producto predeterminado</str>
-<str code="acquisition_act_typ_err">¡No ha definido un tipo de producto! </str>
-<str code="search_extended_record_qualified_author">Autor calificado del registro </str>
-<str code="dsi_docwatch_datasource_monitoring_website_xdiff">NB : Si no desea utilizar expresiones XPath (opcional), debe activar la extensión PHP "xdiff".</str>
-<str code="dsi_docwatch_datasource_monitoring_website_xdiff_only">Este modo solo es aplicable con la extensión PHP "xdiff". Este último analiza el área de la página por área. </str>
-<str code="caddie_edition_advanced_mode">Modo avanzado</str>
-<str code="list_caddie_edition_show_list">Mostrar la lista</str>
-<str code="list_ui_initialization">Reinicializar</str>
-<str code="caddie_menu_action_supprpanier">Limpiar el panel</str>
-<str code="deflt_serials_docs_type">Soporte por defecto en boletines</str>
-<str code="connecteurs_delete_source_confirm">Eliminar esta fuente eliminará los registros sincronizados, ¿desea continuar? </str>
-<str code="admin_contribution_area_form_advanced">Avanzado</str>
-<str code="admin_contribution_area_form_comment">Comentario</str>
-<str code="admin_contribution_area_form_tooltip">Tooltip</str>
-<str code="admin_contribution_area_form_placeholder">Marcador de posición</str>
-<str code="abonnements_to_renew">Renovar</str>
-<str code="abonnements_outdated">Excedido</str>
-<str code="entity_currently_locked_title">Entidad bloqueada</str>
-<str code="entity_currently_locked">Esta entidad está actualmente bloqueada para su edición por  "!!entity_locked_username!!".</str>
-<str code="entity_currently_locked_unlock_question">¿Desea forzar la edición ?</str>
-<str code="locked_entity_save_error">Ocurrió un error durante el registro. La entidad está bloqueada por otro usuario. </str>
-<str code="entity_unlocked">La entidad ya no está bloqueada.</str>
-<str code="docnum_statut_thumbnail_visible_opac_override">Ignore los derechos para la visualización de la miniatura </str>
-<str code="admin_contribution_area_computed">Campos calculados</str>
-<str js="contribution_area" code="contribution_area_computed_fields_used">Campos a utilizar</str>
-<str js="contribution_area" code="contribution_area_computed_fields_generated">Campos calculados</str>
-<str js="contribution_area" code="contribution_area_computed_fields_save">Guardar</str>
-<str js="contribution_area" code="contribution_area_computed_fields_confirm">Al cambiar el campo, perderá las modificaciones actuales. </str>
-<str js="contribution_area" code="contribution_area_computed_fields_delete">Suprimir</str>
-<str code="admin_vignette_menu">Miniaturas</str>
-<str code="admin_vignette_menu_record">Registros</str>
-<str code="admin_vignette_menu_author">Autores</str>
-<str code="admin_vignette_menu_categ">Categorías</str>
-<str code="admin_vignette_menu_publisher">Editoriales</str>
-<str code="admin_vignette_menu_collection">Colecciones</str>
-<str code="admin_vignette_menu_subcollection">Subcolecciones</str>
-<str code="admin_vignette_menu_serie">Séries</str>
-<str code="admin_vignette_menu_tu">Títulos uniformes</str>
-<str code="admin_vignette_menu_indexint">index. decimales</str>
-<str code="admin_vignette_sources">Fuentes</str>
-<str code="author_isni">ISNI</str>
-<str code="param_chat_activate">Activación del chat</str>
-<str js="chat" code="chat_goup_edition">Administración del grupo</str>
-<str js="chat" code="chat_goup_name">Nombre del grupo</str>
-<str js="chat" code="chat_goup_save">Guardar</str>
-<str js="chat" code="chat_notification_filter">Mostrar solo mensajes nuevos </str>
-<str js="chat" code="chat_connected_filter">Mostar solo los usuarios en línea</str>
-<str js="chat" code="chat_notification_filter_label">Mensajes</str>
-<str js="chat" code="chat_connected_filter_label">En línea</str>
-<str js="chat" code="chat_add_group">Añadir un grupo</str>
-<str js="chat" code="chat_edit_group">Editar el grupo</str>
-<str js="chat" code="chat_edit_group_empty_name">Es obligatorio un nombre para el grupo</str>
-<str js="chat" code="chat_goup_delete">Suprimir</str>
-<str js="chat" code="chat_goup_confirm_delete">¿Desea suprimir el grupo?</str>
-<str js="chat" code="chat_notification">Nuevo mensaje</str>
-<str js="chat" code="chat_connected">Conectado</str>
-<str js="chat" code="chat_send_message">Enviar el mensaje</str>
-<str js="chat" code="chat_delete_message">Suprimir el mensaje</str>
-<str js="chat" code="chat_open_discussion">Discusión abierta</str>
-<str js="chat" code="chat_close_discussion">Cerrar la discusión</str>
-<str code="in_catalog">Registro importado</str>
-<str code="thesaurus_printing_broad_term_code">TG</str>
-<str code="thesaurus_printing_narrower_term_code">TS</str>
-<str code="thesaurus_printing_related_term_code">TA</str>
-<str code="thesaurus_printing_use_for_code">EP</str>
-<str code="thesaurus_printing_use_code">EM</str>
-<str code="thesaurus_printing_scope_note_code">NA</str>
-<str code="thesaurus_printing_public_comment_code">PU</str>
+<str key="files">Administrar archivos</str>
+<str key="subst_files_management">Archivos sustitutos</str>
+<str key="file_source_code">Código fuente</str>
+<str key="file_setting">Archivo</str>
+<str key="misc_file_code">Código</str>
+<str key="misc_file_label">Etiqueta</str>
+<str key="misc_file_comment">Descripción</str>
+<str key="misc_file_visible">¿Visible?</str>
+<str js="misc" key="misc_subst_file_cancel">Anular</str>
+<str js="misc" key="misc_subst_file_save">Guardar</str>
+<str js="misc" key="misc_subst_file_save_success">Confirmación del guardado del archivo</str>
+<str js="misc" key="misc_subst_file_save_error">Imposible guardar el archivo :</str>
+<str js="misc" key="misc_subst_file_delete">Suprimir</str>
+<str js="misc" key="misc_subst_file_confirm_delete">¿Desea eliminar el archivo sustituido?</str>
+<str js="misc" key="misc_subst_file_delete_success">Confirmación de la eliminación del archivo :</str>
+<str js="misc" key="misc_subst_file_delete_error">Imposible eliminar el archivo :</str>
+<str key="substituate">Sustituir</str>
+<str key="search_segment_default">Segmento por defecto</str>
+<str key="deflt3type_produit">Tipo de producto predeterminado</str>
+<str key="acquisition_act_typ_err">¡No ha definido un tipo de producto! </str>
+<str key="search_extended_record_qualified_author">Autor calificado del registro </str>
+<str key="dsi_docwatch_datasource_monitoring_website_xdiff">NB : Si no desea utilizar expresiones XPath (opcional), debe activar la extensión PHP "xdiff".</str>
+<str key="dsi_docwatch_datasource_monitoring_website_xdiff_only">Este modo solo es aplicable con la extensión PHP "xdiff". Este último analiza el área de la página por área. </str>
+<str key="caddie_edition_advanced_mode">Modo avanzado</str>
+<str key="list_caddie_edition_show_list">Mostrar la lista</str>
+<str key="list_ui_initialization">Reinicializar</str>
+<str key="caddie_menu_action_supprpanier">Limpiar el panel</str>
+<str key="deflt_serials_docs_type">Soporte por defecto en boletines</str>
+<str key="connecteurs_delete_source_confirm">Eliminar esta fuente eliminará los registros sincronizados, ¿desea continuar? </str>
+<str key="admin_contribution_area_form_advanced">Avanzado</str>
+<str key="admin_contribution_area_form_comment">Comentario</str>
+<str key="admin_contribution_area_form_tooltip">Tooltip</str>
+<str key="admin_contribution_area_form_placeholder">Marcador de posición</str>
+<str key="abonnements_to_renew">Renovar</str>
+<str key="abonnements_outdated">Excedido</str>
+<str key="entity_currently_locked_title">Entidad bloqueada</str>
+<str key="entity_currently_locked">Esta entidad está actualmente bloqueada para su edición por  "!!entity_locked_username!!".</str>
+<str key="entity_currently_locked_unlock_question">¿Desea forzar la edición ?</str>
+<str key="locked_entity_save_error">Ocurrió un error durante el registro. La entidad está bloqueada por otro usuario. </str>
+<str key="entity_unlocked">La entidad ya no está bloqueada.</str>
+<str key="docnum_statut_thumbnail_visible_opac_override">Ignore los derechos para la visualización de la miniatura </str>
+<str key="admin_contribution_area_computed">Campos calculados</str>
+<str js="contribution_area" key="contribution_area_computed_fields_used">Campos a utilizar</str>
+<str js="contribution_area" key="contribution_area_computed_fields_generated">Campos calculados</str>
+<str js="contribution_area" key="contribution_area_computed_fields_save">Guardar</str>
+<str js="contribution_area" key="contribution_area_computed_fields_confirm">Al cambiar el campo, perderá las modificaciones actuales. </str>
+<str js="contribution_area" key="contribution_area_computed_fields_delete">Suprimir</str>
+<str key="admin_vignette_menu">Miniaturas</str>
+<str key="admin_vignette_menu_record">Registros</str>
+<str key="admin_vignette_menu_author">Autores</str>
+<str key="admin_vignette_menu_categ">Categorías</str>
+<str key="admin_vignette_menu_publisher">Editoriales</str>
+<str key="admin_vignette_menu_collection">Colecciones</str>
+<str key="admin_vignette_menu_subcollection">Subcolecciones</str>
+<str key="admin_vignette_menu_serie">Séries</str>
+<str key="admin_vignette_menu_tu">Títulos uniformes</str>
+<str key="admin_vignette_menu_indexint">index. decimales</str>
+<str key="admin_vignette_sources">Fuentes</str>
+<str key="author_isni">ISNI</str>
+<str key="param_chat_activate">Activación del chat</str>
+<str js="chat" key="chat_goup_edition">Administración del grupo</str>
+<str js="chat" key="chat_goup_name">Nombre del grupo</str>
+<str js="chat" key="chat_goup_save">Guardar</str>
+<str js="chat" key="chat_notification_filter">Mostrar solo mensajes nuevos </str>
+<str js="chat" key="chat_connected_filter">Mostar solo los usuarios en línea</str>
+<str js="chat" key="chat_notification_filter_label">Mensajes</str>
+<str js="chat" key="chat_connected_filter_label">En línea</str>
+<str js="chat" key="chat_add_group">Añadir un grupo</str>
+<str js="chat" key="chat_edit_group">Editar el grupo</str>
+<str js="chat" key="chat_edit_group_empty_name">Es obligatorio un nombre para el grupo</str>
+<str js="chat" key="chat_goup_delete">Suprimir</str>
+<str js="chat" key="chat_goup_confirm_delete">¿Desea suprimir el grupo?</str>
+<str js="chat" key="chat_notification">Nuevo mensaje</str>
+<str js="chat" key="chat_connected">Conectado</str>
+<str js="chat" key="chat_send_message">Enviar el mensaje</str>
+<str js="chat" key="chat_delete_message">Suprimir el mensaje</str>
+<str js="chat" key="chat_open_discussion">Discusión abierta</str>
+<str js="chat" key="chat_close_discussion">Cerrar la discusión</str>
+<str key="in_catalog">Registro importado</str>
+<str key="thesaurus_printing_broad_term_code">TG</str>
+<str key="thesaurus_printing_narrower_term_code">TS</str>
+<str key="thesaurus_printing_related_term_code">TA</str>
+<str key="thesaurus_printing_use_for_code">EP</str>
+<str key="thesaurus_printing_use_code">EM</str>
+<str key="thesaurus_printing_scope_note_code">NA</str>
+<str key="thesaurus_printing_public_comment_code">PU</str>
 
-<str js="selector" code="selector_tab_navigate">Navegación</str>
-<str code="selector_tab_navigate">Navegación</str>
-<str code="pagin_navig_concept">Ver el resto</str>
-<str code="list_ui_save_order">Guardar ordenar</str>
-<str code="admin_contribution_area_form_list_values">Valores a proponer en la lista </str>
-<str code="connecteurs_source_gestion_selected">¿Activar por defecto en búsqueda externa en gestión? </str>
-<str code="datatype_sort_facette">Ordenar tipo de datos</str>
-<str code="datatype_sort_alpha">Alfanumérico</str>
-<str code="datatype_sort_num">Numérico</str>
-<str code="datatype_sort_date">Fecha</str>
-<str code="selector_groups">Selección de un grupo</str>
-<str code="list_ui_objects_not_grouped">Sin agrupar</str>
-<str code="force_modification">Forzar la modificación</str>
+<str js="selector" key="selector_tab_navigate">Navegación</str>
+<str key="selector_tab_navigate">Navegación</str>
+<str key="pagin_navig_concept">Ver el resto</str>
+<str key="list_ui_save_order">Guardar ordenar</str>
+<str key="admin_contribution_area_form_list_values">Valores a proponer en la lista </str>
+<str key="connecteurs_source_gestion_selected">¿Activar por defecto en búsqueda externa en gestión? </str>
+<str key="datatype_sort_facette">Ordenar tipo de datos</str>
+<str key="datatype_sort_alpha">Alfanumérico</str>
+<str key="datatype_sort_num">Numérico</str>
+<str key="datatype_sort_date">Fecha</str>
+<str key="selector_groups">Selección de un grupo</str>
+<str key="list_ui_objects_not_grouped">Sin agrupar</str>
+<str key="force_modification">Forzar la modificación</str>
 
-<str code='editions_datasource_explnum'>Documentos electrónicos</str>
-<str code='editions_datasource_explnum_id'>Identificador del documento electrónico</str>
-<str code='editions_datasource_explnum_notice'>Identificador del registro</str>
-<str code='editions_datasource_explnum_bulletin'>Identificador del boletín</str>
-<str code='editions_datasource_explnum_audit_type'>Tipo de intervención en el documento electrónico</str>
-<str code='editions_datasource_explnum_locations'>Localizaciones</str>
-<str code='editions_datasource_explnum_thumbnail_url'>URL de la miniatura</str>
+<str key='editions_datasource_explnum'>Documentos electrónicos</str>
+<str key='editions_datasource_explnum_id'>Identificador del documento electrónico</str>
+<str key='editions_datasource_explnum_notice'>Identificador del registro</str>
+<str key='editions_datasource_explnum_bulletin'>Identificador del boletín</str>
+<str key='editions_datasource_explnum_audit_type'>Tipo de intervención en el documento electrónico</str>
+<str key='editions_datasource_explnum_locations'>Localizaciones</str>
+<str key='editions_datasource_explnum_thumbnail_url'>URL de la miniatura</str>
 
-<str code="scheduler_all">Todos</str>
-<str code="scheduler_types">Tipos</str>
-<str code="scheduler_labels">Etiqueta</str>
-<str code="scheduler_states">Estados</str>
-<str code="scheduler_dates">Fechas</str>
-<str code="scheduler_dates_start">Después de la </str>
-<str code="scheduler_dates_end">Antes de</str>
-<str code="scheduler_dashboard_ui_form_title">Cuadro de mando</str>
-<str code="scheduler_delete_confirm">¿Desea suprimir esta(s) tarea(s)?</str>
-<str code="search_perso_form_directlink_auto_submit">Realice esta búsqueda cuando esté seleccionado </str>
-<str code="expl_header_expl_note">Mensaje ejemplar</str>
-<str code="expl_header_expl_comment">Comentario no bloqueante</str>
-<str code="expl_header_expl_prix">Precio</str>
-<str js="translation" code="translations">Traducciones</str>
-<str js="misc" code="misc_file_save_success">Copia realizada</str>
-<str js="misc" code="misc_file_save_error">Error al realizar la copia</str>
-<str code="explnum_url_associated_already">Un documento ya está asociado.</str>
-<str js="misc" code="misc_file_initialization_success">Reinicioalización realizada</str>
-<str js="misc" code="misc_file_initialization_error">Error durante la reinicialización</str>
-<str code="admin_menu_composed_vedettes">Encabezados compuestos</str>
-<str code="composed_vedettes_grammar">Gramática</str>
-<str code="composed_vedettes_grammars_by_entity">Definición de las gramáticas disponibles según el tipo de entidad PMB </str>
-<str js="misc" code="misc_subst_file_create">Crear</str>
-<str code="external_source">Fuente externa</str>
-<str code="dsi_ban_affect_lecteur">Abonado</str>
-<str js="carto" code="carto_search_radius">Buscar dentro de un radio </str>
-<str js="carto" code="carto_km">Km</str>
-<str code="search_extended_map_circle">Alrededor del punto</str>
-<str code="search_extended_map_circle_center">Centrar(long,lat): </str>
-<str code="search_extended_map_circle_radius">Radio(km): </str>
-<str code="transaction_payment_method_admin">Gestión de los modos de pago</str>
-<str code="transaction_payment_method_list_add">Añadir un modo de pago</str>
-<str code="transaction_payment_method_list_libelle">Etiqueta</str>
-<str code="transaction_payment_method_form_titre_add">Añadir un modo de pago</str>
-<str code="transaction_payment_method_form_titre_edit">Modificar el modo de pago</str>
-<str code="transaction_payment_method_form_name">etiqueta del modo de pago</str>
-<str code="transaction_payment_method_form_save">Guardar</str>
-<str code="transaction_payment_method_form_delete_question">¿Suprimir el modo de pago ?</str>
-<str code="transaction_payment_method_form_delete">Suprimir</str>
-<str code="transaction_payment_method_form_delete_no">Imposible suprimir el modo de pago</str>
-<str code="transaction_payment_method_form_name_no">La etiqueta del modo de pago es obligatoria</str>
-<str code="authperso_oeuvres_event">Obras del evento</str>
-<str code="empr_environment">Entorno del lector</str>
-<str js="chat" code="chat_users_list_expand">Mostrar la lista de chats</str>
-<str js="chat" code="chat_close">Cerrar el chat</str>
-<str code="deflt_opac_visible_bulletinage">¿Activar por defecto la opción de boletines OPAC al crear una publicación periódica? </str>
-<str js="empr" code="loan_see_all">¿Le gustaría ver todos los préstamos? </str>
-<str code="export_map">Exportar huellas de mapa </str>
-<str js="contribution_area" code="contribution_area_computed_fields_entity_creation">Creación</str>
-<str js="contribution_area" code="contribution_area_computed_fields_entity_selection">Selección</str>
-<str code="import_notice_existing_replace">En caso de ISBN duplicado, reemplace el registro existente con el registro del archivo de importación </str>
-<str code="import_notice_existing_replace_message">Atención: todos los campos del registro existente serán reemplazados por los del registro importado. </str>
-<str code="import_notice_replace_only_one"><![CDATA[<br />(%s registros ya presentes en la base de datos han sido reemplazados desde el inicio del tratamiento. )]]></str>
-<str code="import_notice_replace_many"><![CDATA[<br />(%s registros ya presentes en la base de datos no han sido reemplazadas desde el inicio del tratamiento. )]]></str>
-<str code="import_notice_replaced">Registro : sustituido</str>
-<str code="print_concepts">Imprimir un esquema</str>
-<str code="print_concepts_title">Impresión de conceptos</str>
-<str code="print_concepts_titre_arbo">Lista ramificada</str>
-<str code="print_concepts_titre_alph">Lista plana</str>
-<str code="print_concepts_options">Opciones de impresión de conceptos</str>
-<str code="print_concepts_option_libelle">Imprimir la etiqueta</str>
-<str code="print_concepts_option_uri">Imprimir la URI</str>
-<str code="print_concepts_option_isbd">Imprimir el ISBD</str>
-<str code="print_concepts_option_detail">Imprimir el detalle</str>
-<str code="calendrier_initialization">Reiniciar</str>
+<str key="scheduler_all">Todos</str>
+<str key="scheduler_types">Tipos</str>
+<str key="scheduler_labels">Etiqueta</str>
+<str key="scheduler_states">Estados</str>
+<str key="scheduler_dates">Fechas</str>
+<str key="scheduler_dates_start">Después de la </str>
+<str key="scheduler_dates_end">Antes de</str>
+<str key="scheduler_dashboard_ui_form_title">Cuadro de mando</str>
+<str key="scheduler_delete_confirm">¿Desea suprimir esta(s) tarea(s)?</str>
+<str key="search_perso_form_directlink_auto_submit">Realice esta búsqueda cuando esté seleccionado </str>
+<str key="expl_header_expl_note">Mensaje ejemplar</str>
+<str key="expl_header_expl_comment">Comentario no bloqueante</str>
+<str key="expl_header_expl_prix">Precio</str>
+<str js="translation" key="translations">Traducciones</str>
+<str js="misc" key="misc_file_save_success">Copia realizada</str>
+<str js="misc" key="misc_file_save_error">Error al realizar la copia</str>
+<str key="explnum_url_associated_already">Un documento ya está asociado.</str>
+<str js="misc" key="misc_file_initialization_success">Reinicioalización realizada</str>
+<str js="misc" key="misc_file_initialization_error">Error durante la reinicialización</str>
+<str key="admin_menu_composed_vedettes">Encabezados compuestos</str>
+<str key="composed_vedettes_grammar">Gramática</str>
+<str key="composed_vedettes_grammars_by_entity">Definición de las gramáticas disponibles según el tipo de entidad PMB </str>
+<str js="misc" key="misc_subst_file_create">Crear</str>
+<str key="external_source">Fuente externa</str>
+<str key="dsi_ban_affect_lecteur">Abonado</str>
+<str js="carto" key="carto_search_radius">Buscar dentro de un radio </str>
+<str js="carto" key="carto_km">Km</str>
+<str key="search_extended_map_circle">Alrededor del punto</str>
+<str key="search_extended_map_circle_center">Centrar(long,lat): </str>
+<str key="search_extended_map_circle_radius">Radio(km): </str>
+<str key="transaction_payment_method_admin">Gestión de los modos de pago</str>
+<str key="transaction_payment_method_list_add">Añadir un modo de pago</str>
+<str key="transaction_payment_method_list_libelle">Etiqueta</str>
+<str key="transaction_payment_method_form_titre_add">Añadir un modo de pago</str>
+<str key="transaction_payment_method_form_titre_edit">Modificar el modo de pago</str>
+<str key="transaction_payment_method_form_name">etiqueta del modo de pago</str>
+<str key="transaction_payment_method_form_save">Guardar</str>
+<str key="transaction_payment_method_form_delete_question">¿Suprimir el modo de pago ?</str>
+<str key="transaction_payment_method_form_delete">Suprimir</str>
+<str key="transaction_payment_method_form_delete_no">Imposible suprimir el modo de pago</str>
+<str key="transaction_payment_method_form_name_no">La etiqueta del modo de pago es obligatoria</str>
+<str key="authperso_oeuvres_event">Obras del evento</str>
+<str key="empr_environment">Entorno del lector</str>
+<str js="chat" key="chat_users_list_expand">Mostrar la lista de chats</str>
+<str js="chat" key="chat_close">Cerrar el chat</str>
+<str key="deflt_opac_visible_bulletinage">¿Activar por defecto la opción de boletines OPAC al crear una publicación periódica? </str>
+<str js="empr" key="loan_see_all">¿Le gustaría ver todos los préstamos? </str>
+<str key="export_map">Exportar huellas de mapa </str>
+<str js="contribution_area" key="contribution_area_computed_fields_entity_creation">Creación</str>
+<str js="contribution_area" key="contribution_area_computed_fields_entity_selection">Selección</str>
+<str key="import_notice_existing_replace">En caso de ISBN duplicado, reemplace el registro existente con el registro del archivo de importación </str>
+<str key="import_notice_existing_replace_message">Atención: todos los campos del registro existente serán reemplazados por los del registro importado. </str>
+<str key="import_notice_replace_only_one"><![CDATA[<br />(%s registros ya presentes en la base de datos han sido reemplazados desde el inicio del tratamiento. )]]></str>
+<str key="import_notice_replace_many"><![CDATA[<br />(%s registros ya presentes en la base de datos no han sido reemplazadas desde el inicio del tratamiento. )]]></str>
+<str key="import_notice_replaced">Registro : sustituido</str>
+<str key="print_concepts">Imprimir un esquema</str>
+<str key="print_concepts_title">Impresión de conceptos</str>
+<str key="print_concepts_titre_arbo">Lista ramificada</str>
+<str key="print_concepts_titre_alph">Lista plana</str>
+<str key="print_concepts_options">Opciones de impresión de conceptos</str>
+<str key="print_concepts_option_libelle">Imprimir la etiqueta</str>
+<str key="print_concepts_option_uri">Imprimir la URI</str>
+<str key="print_concepts_option_isbd">Imprimir el ISBD</str>
+<str key="print_concepts_option_detail">Imprimir el detalle</str>
+<str key="calendrier_initialization">Reiniciar</str>
 
-<str code="import_advanced_form">Opciones avanzadas</str>
-<str code="import_choix_caddie_noti">Añadir los registros importados a la cesta :</str>
-<str code="import_choix_caddie_expl">Añadir los registros importados a la cesta :</str>
-<str code="import_choix_caddie_bull">Añadir los boletines importados a la cesta :</str>
-<str code="import_added_caddie_noti">Enlace a la cesta de instrucciones :</str>
-<str code="import_added_caddie_expl">Enlace a la cesta de ejemplares :</str>
-<str code="import_added_caddie_bull">Enlace a la cesta de boletines :</str>
-<str code="onto_contribution_delete_in_progress">Eliminación en curso...</str>
-<str code="cashdesk_edition_transac_payment_method">Modo de pago</str>
-<str code="admin_contribution_area_form_comment">Comentario</str>
-<str code="list_ui_add_filter">Añadir un filtro</str>
-<str code="list_ui_filter_date_start">Después de</str>
-<str code="list_ui_filter_date_end">Antes de</str>
-<str code="dsi_flux_link">Vincular un flujo</str>
-<str code="pclassement_locations">Visible dentro de las localizaciones :</str>
-<str code="dsi_ban_senders">Remitente (opción predeterminada = usuario que activa la entrega) </str>
-<str code="dsi_ban_senders_default">Marcado por defecto</str>
-<str code="caddie_autorisations_all">Visible por todos</str>
-<str code="procs_autorisations_all">Visible por todos</str>
-<str code="caddie_favorite_color">Color asociado</str>
-<str code="acquisition_adr_fac_resume">Aceptar como dirección de facturación </str>
-<str code="acquisition_adr_liv_resume">Aceptar como dirección de entrega </str>
-<str code="expl_header_nb_prets">Número de préstamos</str>
-<str code="acquisition_action_unsaved_lines">¡Algunas líneas no están guardads! </str>
-<str code="acquisition_action_transfer_not_all_lines">¡No es posible transferir todas las líneas! </str>
-<str code="expl_price">Precio</str>
-<str code="print_concepts_option_alter_hidden">Imprimir etiquetas alternativas y ocultas </str>
-<str  code="acquisition_act_apply_budget_to_checked">Asignar el presupuesto :</str>
-<str  code="acquisition_act_apply_type_to_checked">Asignar el tipo de producto : </str>
-<str code="readerlist_dateexpiration_days">Número de días desde el final de la subscripción</str>
-<str code="selvars_empr_nb_days_before_expiration">Número de días antes del final de la subscripción</str>
-<str code="selvars_empr_auth_opac_subscribe_link">Enlace de renovación </str>
-<str code="empr_renewal_form">Formulario para la modificación de la cuenta de usuario</str>
-<str code="empr_renewal_form_fields">Campos usuario</str>
-<str code="empr_renewal_form_display">Añadir</str>
-<str code="empr_renewal_form_mandatory">Obligatorio</str>
-<str code="empr_renewal_form_alterable">Editable</str>
-<str code="empr_renewal_form_explanation">Texto explicativo</str>
-<str js="carto" code="carto_address">Dirección</str>
-<str code="search_extended_map_address">Dirección</str>
-<str code="less_than_days_query">Hay meno</str>
-<str code="more_than_days_query">Hay más</str>
-<str code="days">dia(s)</str>
-<str code="this_week_query">Esta semana</str>
-<str code="last_week_query">La semana pasasa</str>
-<str code="this_month_query">Este mes</str>
-<str code="last_month_query">El mes pasado</str>
-<str code="this_year_query">Este año</str>
-<str code="selector_connectors">Seleccionar un conjunto de datos</str>
-<str js="dsi" code="docwatch_watch_filter_items">Filtrar los elementos</str>
-<str code="dsi_docwatch_datasource_duplicate">Duplicar</str>
-<str js="dsi" code="dsi_js_docwatch_duplicate_source">Duplicar una fuente</str>
-<str code="dsi_docwatch_source_form_watch_parent">Reloj para padres</str>
-<str code='search_extended_record_id'>Identificador del registro</str>
-<str js="date" code="date_begin">Inicio:</str>
-<str js="date" code="date_end">Fin:</str>
-<str code='caddie_menu_remplir'>Completar</str>
-<str code='caddie_classement_created_from_search'>Creado a partir de una búsqueda</str>
-<str code='caddie_creation_in_progress'>Creación de una cesta en curso...</str>
-<str code='caddie_shortaction_tooltip_title'>Si no se marca ninguna casilla, la acción se aplicará a todo el resultado de la búsqueda. </str>
-<str code="composed_vedettes_grammars">Gramáticas</str>
-<str code="composed_vedettes_schemes_by_entity">Definición del esquema a utilizar en función del tipo de entidad PMB</str>
-<str code="clean_records_thumbnail">Mueva las miniaturas de los registros guardados en la base de datos al directorio de carga </str>
-<str code="cleaning_records_thumbnail">Mover las miniaturas de los registros guardados en la base de datos al directorio de carga </str>
-<str code="notice_title_basket">Añadir a su cesta</str>
-<str code="notice_title_basket_exist">¡Este registro ya está dentro de su cesta!</str>
-<str code="aut_link_comment">Comentario</str>
-<str code="aut_link_duration_date">Fecha</str>
-<str code="aut_link_duration_entre">Entre</str>
-<str code="aut_link_duration_et">y</str>
-<str code="gen_aut_link">Genere los enlaces entre autoridades</str>
-<str code="gen_aut_link_title">Generación de los enlaces entre autoridades</str>
-<str code="gen_net_base_aut_link_error">¡No es posible crear la nueva estructura de la tabla aut_link! Los archivos includes / marc_tables / ***** / aut_link_subst.xml (que se informarán en OPAC y en todos los idiomas) deben crearse fusionando todos los códigos de los archivos relationtype_aut_subst.xml y relationtype_autup_subst.xml.. De hecho, los códigos almacenados en la tabla aut_link no están presentes en aut_link.xml:  </str>
-<str code="aut_link_reciproque_title">Enlace recíproco si está marcado </str>
-<str code="notice_create_manifestation_fille">Crer un evento hijo</str>
-<str code="clean_cache_temporary_files">Limpiar la caché de archivos temporales </str>
-<str code="cleaning_cache_temporary_files">Purga de la caché de archivos temporales </str>
-<str code="cms_module_charte_accept_button">He leido y acepto las condiciones </str>
-<str code="list_ui_options_group_by_then">Entonces por </str>
-<str js="list" code="list_ui_options_group_by_max_reached">Ha alcanzado el límite autorizado.</str>
-<str code="resa_planning_to_validate">Previsiones a validar </str>
-<str js="carto" code="carto_postcode">Código postal</str>
-<str js="carto" code="carto_city">Municipio</str>
-<str code="dsi_bannette_type">Tipo</str>
-<str code="dsi_all_types">TODOS</str>
-<str code="bannettes_ui_form_title">Buscar usuario</str>
-<str code="noti_statut_delete_forbidden">No se puede borrar este estado porque es necesario para el correcto funcionamiento de PMB (Identificadores 1 y 2) .</str>
-<str code="dsi_flux_form_metadata">Feed accesible por un agregador de feeds RSS </str>
-<str js="acquisition" code="acquisition_act_tab_checked_empty">Debe seleccionar una o más líneas </str>
-<str code="special_search_openurl">OpenURL</str>
-<str code="caddie_menu_action_supprbase">Suprimir de la base</str>
-<str code="admin_noti_map_echelle_modification">Cambiar la escala</str>
-<str code="admin_noti_map_projection_modification">Modificar la proyección</str>
-<str code="admin_noti_map_ref_modification">Modificar la referencia</str>
-<str code="fetch_empr_adhesion_renouv_proche">Fin del abono próximo</str>
-<str code="fetch_empr_adhesion_renouv_depassee">Abono excedido</str>
-<str code="bibloto_sendMailPret">El correo electrónico está enviado</str>
-<str code="bibloto_sendMailPret_failed">No enviar por correo electrónico </str>
-<str code="prolongation_ok">Prolongación realizada</str>
-<str code="noteq_query"><![CDATA[!=]]></str>
-<str code="nomenclature_search_by_number_of_instruments">Por número de instrumentos</str>
-<str code="nomenclature_search_by_number_of_voices">Por número de voces</str>
-<str code="nomenclature_search_voices">Voces</str>
-<str code="acquisition_copy_chk_lig">Duplicar</str>
-<str code="move_top_arrow">Mover hacia arriba</str>
-<str code="move_bottom_arrow">Mover hacia abajo</str>
-<str code="merge">Fusionar</str>
-<str code="with">Con</str>
-<str code="cms_module_common_datasource_desc_last_update_sql_date">Fecha de la última actualización (formato SQL) </str>
-<str code="acquisition_nb_recipients">Número de destinatarios</str>
-<str code="admin_ExpSupports">Porta documentos</str>
-<str code="search_perso_opac_views">Vistas Opac</str>
-<str code="search_perso_opac_view_empty">Sin vistas Opac</str>
-<str code="search_perso_opac_view_select">Para todas las vistas</str>
-<str code="acquisition_recept_update_sug_err">Se produjo un error al cambiar el estado de la sugerencia.</str>
-<str code="acquisition_recept_update_sug_ok">Se ha guardado el cambio de estado de la sugerencia.</str>
-<str code='thesaurus'>Tesauro</str>
-<str js="grid" code="category_change_thesaurus_confirm">Cambiar el tesauro implicará la pérdida de datos en los campos asociados. ¿ Desea continuar ? </str>
-<str code="abonnements_nom_opac_abonnement">Nombre OPAC de la subscripción</str>
-<str js="acquisition" code="acquisition_relance_already_confirm">Hoy se ha realizado un seguimiento seleccionado. ¿ Desea realizar otro ?</str>
-<str code="notice_integre_serie_use_existing">Utilizar un título de série ya existente</str>
-<str code="notice_integre_serie_new">Insertar un título de série nuevo</str>
-<str code="admin_opac_renewal_activate">Activar la pestaña de modificación del perfil en el OPAC</str>
-<str code="empr_msg">Mensaje</str>
-<str code="print_mail">Impresión / Correo electrónico</str>
-<str code="cote_border_size">tamaño del borde </str>
-<str code="acquisition_frais_add_to_new_order">Añadir de forma automática a nuevos pedidos</str>
-<str code="acquisition_frais_add_to_new_order_enable">Activar</str>
-<str code="acquisition_frais_add_to_new_order_enabled">Activado</str>
-<str code="acquisition_frais_add_to_new_order_disabled">Desactivado</str>
+<str key="import_advanced_form">Opciones avanzadas</str>
+<str key="import_choix_caddie_noti">Añadir los registros importados a la cesta :</str>
+<str key="import_choix_caddie_expl">Añadir los registros importados a la cesta :</str>
+<str key="import_choix_caddie_bull">Añadir los boletines importados a la cesta :</str>
+<str key="import_added_caddie_noti">Enlace a la cesta de instrucciones :</str>
+<str key="import_added_caddie_expl">Enlace a la cesta de ejemplares :</str>
+<str key="import_added_caddie_bull">Enlace a la cesta de boletines :</str>
+<str key="onto_contribution_delete_in_progress">Eliminación en curso...</str>
+<str key="cashdesk_edition_transac_payment_method">Modo de pago</str>
+<str key="admin_contribution_area_form_comment">Comentario</str>
+<str key="list_ui_add_filter">Añadir un filtro</str>
+<str key="list_ui_filter_date_start">Después de</str>
+<str key="list_ui_filter_date_end">Antes de</str>
+<str key="dsi_flux_link">Vincular un flujo</str>
+<str key="pclassement_locations">Visible dentro de las localizaciones :</str>
+<str key="dsi_ban_senders">Remitente (opción predeterminada = usuario que activa la entrega) </str>
+<str key="dsi_ban_senders_default">Marcado por defecto</str>
+<str key="caddie_autorisations_all">Visible por todos</str>
+<str key="procs_autorisations_all">Visible por todos</str>
+<str key="caddie_favorite_color">Color asociado</str>
+<str key="acquisition_adr_fac_resume">Aceptar como dirección de facturación </str>
+<str key="acquisition_adr_liv_resume">Aceptar como dirección de entrega </str>
+<str key="expl_header_nb_prets">Número de préstamos</str>
+<str key="acquisition_action_unsaved_lines">¡Algunas líneas no están guardads! </str>
+<str key="acquisition_action_transfer_not_all_lines">¡No es posible transferir todas las líneas! </str>
+<str key="expl_price">Precio</str>
+<str key="print_concepts_option_alter_hidden">Imprimir etiquetas alternativas y ocultas </str>
+<str  key="acquisition_act_apply_budget_to_checked">Asignar el presupuesto :</str>
+<str  key="acquisition_act_apply_type_to_checked">Asignar el tipo de producto : </str>
+<str key="readerlist_dateexpiration_days">Número de días desde el final de la subscripción</str>
+<str key="selvars_empr_nb_days_before_expiration">Número de días antes del final de la subscripción</str>
+<str key="selvars_empr_auth_opac_subscribe_link">Enlace de renovación </str>
+<str key="empr_renewal_form">Formulario para la modificación de la cuenta de usuario</str>
+<str key="empr_renewal_form_fields">Campos usuario</str>
+<str key="empr_renewal_form_display">Añadir</str>
+<str key="empr_renewal_form_mandatory">Obligatorio</str>
+<str key="empr_renewal_form_alterable">Editable</str>
+<str key="empr_renewal_form_explanation">Texto explicativo</str>
+<str js="carto" key="carto_address">Dirección</str>
+<str key="search_extended_map_address">Dirección</str>
+<str key="less_than_days_query">Hay meno</str>
+<str key="more_than_days_query">Hay más</str>
+<str key="days">dia(s)</str>
+<str key="this_week_query">Esta semana</str>
+<str key="last_week_query">La semana pasasa</str>
+<str key="this_month_query">Este mes</str>
+<str key="last_month_query">El mes pasado</str>
+<str key="this_year_query">Este año</str>
+<str key="selector_connectors">Seleccionar un conjunto de datos</str>
+<str js="dsi" key="docwatch_watch_filter_items">Filtrar los elementos</str>
+<str key="dsi_docwatch_datasource_duplicate">Duplicar</str>
+<str js="dsi" key="dsi_js_docwatch_duplicate_source">Duplicar una fuente</str>
+<str key="dsi_docwatch_source_form_watch_parent">Reloj para padres</str>
+<str key='search_extended_record_id'>Identificador del registro</str>
+<str js="date" key="date_begin">Inicio:</str>
+<str js="date" key="date_end">Fin:</str>
+<str key='caddie_menu_remplir'>Completar</str>
+<str key='caddie_classement_created_from_search'>Creado a partir de una búsqueda</str>
+<str key='caddie_creation_in_progress'>Creación de una cesta en curso...</str>
+<str key='caddie_shortaction_tooltip_title'>Si no se marca ninguna casilla, la acción se aplicará a todo el resultado de la búsqueda. </str>
+<str key="composed_vedettes_grammars">Gramáticas</str>
+<str key="composed_vedettes_schemes_by_entity">Definición del esquema a utilizar en función del tipo de entidad PMB</str>
+<str key="clean_records_thumbnail">Mueva las miniaturas de los registros guardados en la base de datos al directorio de carga </str>
+<str key="cleaning_records_thumbnail">Mover las miniaturas de los registros guardados en la base de datos al directorio de carga </str>
+<str key="notice_title_basket">Añadir a su cesta</str>
+<str key="notice_title_basket_exist">¡Este registro ya está dentro de su cesta!</str>
+<str key="aut_link_comment">Comentario</str>
+<str key="aut_link_duration_date">Fecha</str>
+<str key="aut_link_duration_entre">Entre</str>
+<str key="aut_link_duration_et">y</str>
+<str key="gen_aut_link">Genere los enlaces entre autoridades</str>
+<str key="gen_aut_link_title">Generación de los enlaces entre autoridades</str>
+<str key="gen_net_base_aut_link_error">¡No es posible crear la nueva estructura de la tabla aut_link! Los archivos includes / marc_tables / ***** / aut_link_subst.xml (que se informarán en OPAC y en todos los idiomas) deben crearse fusionando todos los códigos de los archivos relationtype_aut_subst.xml y relationtype_autup_subst.xml.. De hecho, los códigos almacenados en la tabla aut_link no están presentes en aut_link.xml:  </str>
+<str key="aut_link_reciproque_title">Enlace recíproco si está marcado </str>
+<str key="notice_create_manifestation_fille">Crer un evento hijo</str>
+<str key="clean_cache_temporary_files">Limpiar la caché de archivos temporales </str>
+<str key="cleaning_cache_temporary_files">Purga de la caché de archivos temporales </str>
+<str key="cms_module_charte_accept_button">He leido y acepto las condiciones </str>
+<str key="list_ui_options_group_by_then">Entonces por </str>
+<str js="list" key="list_ui_options_group_by_max_reached">Ha alcanzado el límite autorizado.</str>
+<str key="resa_planning_to_validate">Previsiones a validar </str>
+<str js="carto" key="carto_postcode">Código postal</str>
+<str js="carto" key="carto_city">Municipio</str>
+<str key="dsi_bannette_type">Tipo</str>
+<str key="dsi_all_types">TODOS</str>
+<str key="bannettes_ui_form_title">Buscar usuario</str>
+<str key="noti_statut_delete_forbidden">No se puede borrar este estado porque es necesario para el correcto funcionamiento de PMB (Identificadores 1 y 2) .</str>
+<str key="dsi_flux_form_metadata">Feed accesible por un agregador de feeds RSS </str>
+<str js="acquisition" key="acquisition_act_tab_checked_empty">Debe seleccionar una o más líneas </str>
+<str key="special_search_openurl">OpenURL</str>
+<str key="caddie_menu_action_supprbase">Suprimir de la base</str>
+<str key="admin_noti_map_echelle_modification">Cambiar la escala</str>
+<str key="admin_noti_map_projection_modification">Modificar la proyección</str>
+<str key="admin_noti_map_ref_modification">Modificar la referencia</str>
+<str key="fetch_empr_adhesion_renouv_proche">Fin del abono próximo</str>
+<str key="fetch_empr_adhesion_renouv_depassee">Abono excedido</str>
+<str key="bibloto_sendMailPret">El correo electrónico está enviado</str>
+<str key="bibloto_sendMailPret_failed">No enviar por correo electrónico </str>
+<str key="prolongation_ok">Prolongación realizada</str>
+<str key="noteq_query"><![CDATA[!=]]></str>
+<str key="nomenclature_search_by_number_of_instruments">Por número de instrumentos</str>
+<str key="nomenclature_search_by_number_of_voices">Por número de voces</str>
+<str key="nomenclature_search_voices">Voces</str>
+<str key="acquisition_copy_chk_lig">Duplicar</str>
+<str key="move_top_arrow">Mover hacia arriba</str>
+<str key="move_bottom_arrow">Mover hacia abajo</str>
+<str key="merge">Fusionar</str>
+<str key="with">Con</str>
+<str key="cms_module_common_datasource_desc_last_update_sql_date">Fecha de la última actualización (formato SQL) </str>
+<str key="acquisition_nb_recipients">Número de destinatarios</str>
+<str key="admin_ExpSupports">Porta documentos</str>
+<str key="search_perso_opac_views">Vistas Opac</str>
+<str key="search_perso_opac_view_empty">Sin vistas Opac</str>
+<str key="search_perso_opac_view_select">Para todas las vistas</str>
+<str key="acquisition_recept_update_sug_err">Se produjo un error al cambiar el estado de la sugerencia.</str>
+<str key="acquisition_recept_update_sug_ok">Se ha guardado el cambio de estado de la sugerencia.</str>
+<str key='thesaurus'>Tesauro</str>
+<str js="grid" key="category_change_thesaurus_confirm">Cambiar el tesauro implicará la pérdida de datos en los campos asociados. ¿ Desea continuar ? </str>
+<str key="abonnements_nom_opac_abonnement">Nombre OPAC de la subscripción</str>
+<str js="acquisition" key="acquisition_relance_already_confirm">Hoy se ha realizado un seguimiento seleccionado. ¿ Desea realizar otro ?</str>
+<str key="notice_integre_serie_use_existing">Utilizar un título de série ya existente</str>
+<str key="notice_integre_serie_new">Insertar un título de série nuevo</str>
+<str key="admin_opac_renewal_activate">Activar la pestaña de modificación del perfil en el OPAC</str>
+<str key="empr_msg">Mensaje</str>
+<str key="print_mail">Impresión / Correo electrónico</str>
+<str key="cote_border_size">tamaño del borde </str>
+<str key="acquisition_frais_add_to_new_order">Añadir de forma automática a nuevos pedidos</str>
+<str key="acquisition_frais_add_to_new_order_enable">Activar</str>
+<str key="acquisition_frais_add_to_new_order_enabled">Activado</str>
+<str key="acquisition_frais_add_to_new_order_disabled">Desactivado</str>
 
-<str code="planificateur_task_statut_active">Activo</str>
-<str code="planificateur_task_statut_inactive">Desactivado</str>
-<str code="concept_use_cant_delete">Este concepto está siendo utilizado dentro de otras autoridades. No puede ser eliminado.</str>
-<str code="caddie_shortaction_confirmation">No se ha seleccionado ningún elemento. La acción se llevará a cabo en todos los resultados de búsqueda. ¿ Desea continuar ? </str>
-<str code="authperso">Autoridades personalizadas</str>
-<str code="dsi_form_unvalid">No se ha seleccionado ninguna bannette</str>
-<str code="search_segment_delete_set">Eliminar conjunto de datos</str>
-<str code="dsi_flux_form_no_active_tri">No se ha definido ningún orden para los feed RSS</str>
-<str code="extexplnum_lender_num_lender">Nombre del propietario</str>
-<str code="extnum_location">Localización</str>
-<str code="lenders_all">Todos los propietarios</str>
-<str code="recherche_exemplaires_bulletin_notice">Registro de boletín asociado</str>
-<str code="admin_opac_contact_form_object_message">Cuerpo del mensaje</str>
-<str code="empr_validated_subscription">Inscripción validada</str>
-<str code="planificateur_alert_perio">¡ Planificación de la periodicidad incorrecta !</str>
-<str code="planificateur_catalog_opac_maintenance">Página de mantenimiento del OPAC</str>
-<str code="search_extended_predefined_search">Búsquedas predefinidas</str>
-<str code="predefined_search_choice">Seleccionar una búsqueda predefinida</str>
-<str code="predefined_search_empty">Ninguna búsqueda predefinida</str>
-<str code="search_perso_expl_menu">Predefinidas ejemplares</str>
-<str code="search_perso_expl_title">Búsquedas predefinidas ejemplares > Todas las búsquedas</str>
-<str code="search_perso_delete_used_by_equations">No se puede eliminar esta búsqueda predefinida porque es utilizada por una o más ecuaciones. </str>
-<str code="search_perso_delete_used_by_search_perso">No se puede eliminar esta búsqueda predefinida porque la utilizan una o más búsquedas predefinidas. .</str>
-<str code="search_perso_delete_used_by_opac_views">No se puede eliminar esta búsqueda predefinida porque la utilizan una o más vistas del OPAC.</str>
-<str code="expl_champs_perso">Campos personalizados (Ejemplares)</str>
-<str code="explnum_champs_perso">Campos personalizados (Documentos electrónicos)</str>
-<str code="cms_module_common_datasource_desc_last_update_sql_date">Fecha de la última actualización (formato SQL)</str>
-<str code="cms_module_charte_accept_button">Entendido</str>
-<str js="dsi" code="docwatch_watch_purge">Purgar</str>
-<str js="dsi" code="docwatch_watch_purge_items_mark_as_deleted">Purgar elementos eliminados</str>
-<str js="dsi" code="docwatch_watch_purge_items_mark_as_deleted_confirm">Va a purgar los elementos eliminados. ¡Esta acción es irreversible! ¿Está seguro de que quiere continuar? </str>
-<str code="cart_include_bulletin_notice">Añadir también los registros de boletines</str>
-<str code="cart_include_analysis">Añadir también recuentos</str>
-<str code="cms_module_item_datasource_desc_concepts">Tabla de conceptos</str>
-<str code="admin_opac_contact_form_parameter_email_object_free_entry">¿ Permitir entrada libre dentro del objecto ?</str>
-<str code="admin_opac_contact_form_recipients_email_object_free_entry">Correo electrónico para un objeto de entrada libre</str>
-<str code="pnb_admin_import_expl">Ejemplares</str>
-<str code="pnb_admin_import_expl_codestat">Código estadístico</str>
-<str code="pnb_admin_import_expl_statut">Estado</str>
-<str code="pnb_admin_import_expl_typedoc">Soporte</str>
-<str code="cote_character_line_break">retorno de carro</str>
-<str code="groupe_comment_gestion">Comentario de gestión</str>
-<str code="groupe_comment_opac">Comentario OPAC</str>
-<str code="alerte_transferts_depart">Salida</str>
-<str code="empr_groups_comments">Mensaje de grupo</str>
-<str code="admin_opac_contact_form_parameter_attachments">Pieza(s) junta(s) :</str>
-<str code="empr_subscribe_form">Formulario de inscripción</str>
-<str code="empr_account">Cuenta de lector</str>
-<str code="search_universe_id">Nombre de usuario</str>
-<str code="search_universe_url">Enlace permanente</str>
-<str code="search_segment_id">Nombre de usuario</str>
-<str code="search_segment_url">Enlace permanente</str>
-<str code="adresse_resa_concerne">Reserva(s) de %s</str>
-<str code="dsi_flux_form_format_flux_items">Formato de las noticias presentes dentro del feed</str>
-<str code="dsi_flux_form_format_flux_item_title">Título</str>
-<str code="dsi_flux_form_format_flux_item_description">Descripción</str>
-<str code="acquisition_action_check_line_increase_rate">Aplicar un incremento de : </str>
-<str code="acquisition_action_check_line_increase_rate_percent">%</str>
-<str code="empr_resp_group_location">Localización del responsable</str>
-<str code="lettres_mails_relance_groupe">Imprimir / enviar todas las cartas de seguimiento de los grupos seleccionados </str>
-<str code="mails_relance_groupe">Enviar todas las cartas de seguimiento de los grupos seleccionados</str>
-<str code="imprimer_envoyer_liste_prets_groupes">Imprimir/Enviar la lista de préstamos de los grupos seleccionados</str>
-<str code="envoyer_liste_prets_groupes">Enviar la lista de préstamos de los grupos seleccionados</str>
-<str code="acquisition_invoices_select_unselect">Seleccionar todo / Deseleccionar todo</str>
-<str code="list_ui_sort_by_then">Entonces por</str>
-<str js="list" code="list_ui_sort_by_max_reached">Ha alcanzado el límite autorizado.</str>
-<str code="docs_section_libelle_opac">Etiqueta en OPAC</str>
-<str code="deflt_scan_request_explnum_status">Estado predeterminado en la creación de documentos electrónicos en una solicitud de digitalización </str>
-<str code="group_lettre_resa">¿ Enviar cartas de reserva individuales al responsable de ese grupo? </str>
-<str code="group_lettre_resa_show_nomgroup">¿ Imprimir el nombre de este grupo en cartas de reserva individuales? </str>
-<str code="group_mail_resa">¿ Enviar correos electrónicos de reserva individual al responsable del grupo ?</str>
-<str code="combine_expl_explnum">Ejemplares / Documentos electrónicos</str>
-<str code="combine_expl_explnum_location">Localización</str>
-<str code="combine_expl_explnum_lender">Nombre del propietario</str>
-<str code="mail_retard_unknown_mail"><![CDATA[No hay dirección de correo electrónico de referencia para el lector %s ]]></str>
-<str code="acquisition_affect_fou_to_all_etab">Asociar este proveedor a todos los establecimientos </str>
-<str code="acquisition_coord_all_in_parenthesis"> (Todos los establecimientos)</str>
-<str code="bulletin_move_bouton">Mover</str>
-<str code="bulletin_move">Mover un boletín</str>
-<str code="bulletin_move_sel_perio">Selección publicación periódica</str>
-<str code="bulletin_move_sel_perio_choose">Seleccione una publicación peródica</str>
-<str code="list_titre_uniforme_author_function">Autores, función</str>
-<str code="list_titre_uniforme_interpreter_function">Intérpretes, función</str>
-<str code="list_titre_uniforme_concept">Temáticas</str>
-<str code="list_author_concept">Temáticas</str>
-<str code="pnb_no_order" >No se ha registrado ninguna orden de préstamo de documento electrónico</str>
-<str code="pnb_dilicom_no_response" >El servicio no está disponible</str>
-<str code="pnb_unknown_order">Orden de préstamo de documento electrónico desconocida</str>
-<str code="pnb_loan_already_borrowed">Ya ha tomado prestado este documento</str>
-<str code="pnb_loanid">Id de préstamo PNB</str>
-<str code="pnb_requestid">Id de solicitud PNB</str>
-<str code="pnb_alert_threshold_tokens">Número de tokens restantes </str>
-<str code="pnb_loan_no_token">No hay más préstamos disponibles </str>
-<str code="admin_opac_contact_form_recipients_save_error">Error al guardar destinatarios </str>
-<str code="admin_opac_contact_form_recipients_save_success">El destinatario se ha guardado correctamente</str>
-<str code="is_numeric_loan">Préstamo electrónico</str>
-<str code="empr_nb_prets_numeric_encours_query">Número de préstamos electrónicos en curso</str>
-<str code="empr_allow_pnb">Autorizar el préstamo electrónico (PNB)</str>
-<str code="empr_short_no_allow_pnb">PNB</str>
-<str code="unknown_user_id">El usuario con el nombre de usuario %s es desconocido. </str>
-<str code="is_required">Campo obligatorio</str>
-<str code="relance_export_csv">Exportar CSV</str>
-<str code="empr_chang_statut_confirm">¿ Está seguro de modificar el estado de los lectores seleccionados ?</str>
-<str code="search_segment_sort">Ordenar</str>
-<str code="circ_print_ticket">Imprimir un ticket de préstamo</str>
-<str code="avis_bt_deselectionner">Desselecconar todo</str>
-<str code="cms_document_url_copy_success">La url ya se ha copiado.</str>
-<str code="dom_empr_cms_section">Prestatarios - Secciones </str>
-<str code="dom_empr_cms_article">Prestatarios - Artículos</str>
-<str code="synonym_mutual_link">Sinónimo recíproco si está marcado </str>
-<str js="semantic" code="synonym_mutual_link">Sinónimo recíproco si está marcado </str>
-<str code="print_thes_num_aut">Imprimir el número de autoridad</str>
-<str code="thesaurus_printing_num_aut">AUTORIDAD</str>
-<str code="admin_mailtpl_attachments_menu">Gestión de las piezas unidas</str>
-<str code="admin_files_gestion_error_param_attachments_folder">Verifique el parámetro attachments_folder (en parámetros generales) </str>
-<str code="loan_trust_warning_only">Un ejemplar de este documento ya ha sido prestado o este usuario lo ha tomado prestado en los últimos %s días. </str>
-<str code="planificateur_catalog_access_rights">Permisos de acceso</str>
-<str js="pointage" code="pointage_expl_sections_refresh">La sección seleccionada no está visible para esta localización. ¿ Desea continuar ?</str>
-<str code="quotas_initialization">Reiniciar</str>
-<str js="quotas" code="quotas_initialization_confirm">¿ Desea reiniciar las cuotas ?</str>
-<str code="list_ui_settings_columns">Formatear columnas</str>
-<str code="list_ui_settings_columns_align">Alineación</str>
-<str code="list_ui_settings_columns_align_left">Izquierda</str>
-<str code="list_ui_settings_columns_align_center">Centro</str>
-<str code="list_ui_settings_columns_align_right">Derecha</str>
-<str code="list_ui_settings_columns_text">Texto</str>
-<str code="list_ui_settings_columns_text_normal">Normal</str>
-<str code="list_ui_settings_columns_text_bold">Negrita</str>
-<str code="list_ui_settings_columns_text_italic">Cursiva</str>
-<str code="list_ui_settings_columns_text_underline">Subrayado</str>
-<str code="list_ui_settings_columns_text_color">Color del texto</str>
-<str code="list_ui_settings_columns_level">Añadir</str>
-<str code="list_ui_settings_columns_level_0">Horizontal</str>
-<str code="list_ui_settings_columns_level_1">Vertical</str>
-<str code="has_resa_available">Reservas disponibles para este lector</str>
-<str code="cms_build_frbr_cadres_in_page">Marcos de la página FRBR:</str>
-<str code="list_ui_frbr_page_id">Identicador de la página FRBR</str>
-<str code="notification_sphinx_service_off">El servicio Sphinx está desactivado </str>
-<str code="onto_contribution_fonction_author">Seleccione una función</str>
-<str code="admin_disabled_module_checkbox">El parámetro !!parametre!! está desactivado</str>
-<str code="collectivites_search">Colectivos</str>
-<str code="personnes_physiques_search">Personas físicas</str>
-<str code="congres_search">Congreso</str>
-<str code="serials_query">Publicaciones periódicas</str>
-<str code="documents_query">Documentos</str>
-<str js="contribution_area" code="contribution_area_editing_form">Editar un formulario</str>
-<str js="contribution_area" code="contribution_area_response">Respuesta</str>
-<str js="contribution_area" code="contribution_area_edit_form">Editar el fomulario</str>
-<str js="selector" code="selector_tab_selection_validate">Validar la selección</str>
-<str code="contribution_resize_button">Redimensionar</str>
-<str code="contribution_zoom_in_button">Aumentar zoom</str>
-<str code="contribution_zoom_out_button">Diminuir zoom</str>
-<str code="contribution_area_repo_template_authorities">Repertorio de plantillas de autoridades</str>
-<str code="contribution_area_repo_template_records">Repertorio de plantillas de registros</str>
-<str code="faq_err_par">Debe definir los parámetros para utilizar el módulo FAQ.</str>
-<str code="acquisition_lig_frais_annexes"><![CDATA[<sup><span class='act_typ_lig_3'>Línea de gatos adicionales</span></sup>]]></str>
-<str js="cms" code="storage_method_not_selected">Debe seleccionar un método de almacenamiento.</str>
-<str code="connecteurs_source_available_in_line">Disponible en línea</str>
-<str code="admin_acces_empr_surlocations">Sublocalizaciones</str>
-<str code="admin_acces_empr_statuts">Estados</str>
-<str code="procs_options_text_type">Tipo de campo</str>
-<str code="procs_options_text_type_text">Texto</str>
-<str code="procs_options_text_type_textarea">Área de texto</str>
-<str code="contribution_scenario_select">Seleccionar un escenario :</str>
-<str code="emplacement_label_already_used"> : ¡ la etiqueta ya está siendo utilizada !</str>
-<str code="support_label_already_used"> : ¡ la etiqueta ya está siendo utilizada !</str>
-<str js="contribution_area" code="contribution_area_computed_fields_delete">Suprimir</str>
-<str js="contribution_area" code="contribution_area_computed_fields_confirm_delete">¿ Desea suprimir este campo calculado ?</str>
-<str js="contribution_area" code="contribution_area_computed_fields_deleted">Campo calculado eliminado.</str>
-<str code="list_ui_settings">Configuración avanzada</str>
-<str code="list_ui_settings_filters">Configuración de los filtros</str>
-<str code="list_ui_settings_columns_label">Etiqueta</str>
-<str code="list_ui_settings_columns_visible">Visible</str>
-<str code="list_ui_settings_columns_visible_0">No</str>
-<str code="list_ui_settings_columns_visible_1">Si</str>
-<str code="list_ui_settings_filters_label">Etiqueta</str>
-<str code="list_ui_settings_filters_visible">Visible</str>
-<str code="list_ui_settings_filters_visible_0">No</str>
-<str code="list_ui_settings_filters_visible_1">Si</str>
-<str code="list_ui_remove_filter">Quitar filtro</str>
-<str js="contribution_area" code="contribution_area_copy">Copiar</str>
-<str code="contribution_audit_comment">Contribuciones</str>
-<str js="contribution_area" code="contribution_area_paste_and_adapt">Pegar para modificar</str>
-<str code="contribution_area_form_duplicated">Copia de</str>
-<str js="contribution_area" code="contribution_area_paste">Pegar de foma idéntica</str>
-<str code="admin_contribution_area_accordion_result">Mostrar resultados en acordeón </str>
-<str code="stat_remove_data_interval">Eliminar los datos ya consolidados entre el !! remove_data_interval_date_deb !! (fecha incluida) y !! remove_data_interval_date_fin !! (fecha no incluida) </str>
-<str js="contribution_area" code="contribution_area_paste_to_other_contribution_area">Copiar a otro espacio</str>
-<str js="contribution_area" code="contribution_area_list_area">Lista de espacios</str>
-<str js="contribution_area" code="contribution_area_duplicate_forms">Duplicar los formulaiors</str>
-<str js="contribution_area" code="contribution_area_validate_and_go">Validar el acceso al espacio</str>
-<str js="contribution_area" code="contribution_area_paste_clipboard">Pegar desde otro espacio</str>
-<str js="contribution_area" code="admin_contribution_area_form_name">Nombre del formulario</str>
-<str js="contribution_area" code="admin_contribution_area_edit_form_fields">Editar los campos del formulario</str>
-<str js="contribution_area" code="admin_contribution_area_name_form_fields_opac">Nombre del formulario en OPAC</str>
-<str code="contribution_scenario_name">Nombre del formulario </str>
-<str code="contribution_scenario_list">Este formulario ya se usa dentro de %s escenario(s) y dentro de %a espacio(s) de contribución</str>
+<str key="planificateur_task_statut_active">Activo</str>
+<str key="planificateur_task_statut_inactive">Desactivado</str>
+<str key="concept_use_cant_delete">Este concepto está siendo utilizado dentro de otras autoridades. No puede ser eliminado.</str>
+<str key="caddie_shortaction_confirmation">No se ha seleccionado ningún elemento. La acción se llevará a cabo en todos los resultados de búsqueda. ¿ Desea continuar ? </str>
+<str key="authperso">Autoridades personalizadas</str>
+<str key="dsi_form_unvalid">No se ha seleccionado ninguna bannette</str>
+<str key="search_segment_delete_set">Eliminar conjunto de datos</str>
+<str key="dsi_flux_form_no_active_tri">No se ha definido ningún orden para los feed RSS</str>
+<str key="extexplnum_lender_num_lender">Nombre del propietario</str>
+<str key="extnum_location">Localización</str>
+<str key="lenders_all">Todos los propietarios</str>
+<str key="recherche_exemplaires_bulletin_notice">Registro de boletín asociado</str>
+<str key="admin_opac_contact_form_object_message">Cuerpo del mensaje</str>
+<str key="empr_validated_subscription">Inscripción validada</str>
+<str key="planificateur_alert_perio">¡ Planificación de la periodicidad incorrecta !</str>
+<str key="planificateur_catalog_opac_maintenance">Página de mantenimiento del OPAC</str>
+<str key="search_extended_predefined_search">Búsquedas predefinidas</str>
+<str key="predefined_search_choice">Seleccionar una búsqueda predefinida</str>
+<str key="predefined_search_empty">Ninguna búsqueda predefinida</str>
+<str key="search_perso_expl_menu">Predefinidas ejemplares</str>
+<str key="search_perso_expl_title">Búsquedas predefinidas ejemplares > Todas las búsquedas</str>
+<str key="search_perso_delete_used_by_equations">No se puede eliminar esta búsqueda predefinida porque es utilizada por una o más ecuaciones. </str>
+<str key="search_perso_delete_used_by_search_perso">No se puede eliminar esta búsqueda predefinida porque la utilizan una o más búsquedas predefinidas. .</str>
+<str key="search_perso_delete_used_by_opac_views">No se puede eliminar esta búsqueda predefinida porque la utilizan una o más vistas del OPAC.</str>
+<str key="expl_champs_perso">Campos personalizados (Ejemplares)</str>
+<str key="explnum_champs_perso">Campos personalizados (Documentos electrónicos)</str>
+<str key="cms_module_common_datasource_desc_last_update_sql_date">Fecha de la última actualización (formato SQL)</str>
+<str key="cms_module_charte_accept_button">Entendido</str>
+<str js="dsi" key="docwatch_watch_purge">Purgar</str>
+<str js="dsi" key="docwatch_watch_purge_items_mark_as_deleted">Purgar elementos eliminados</str>
+<str js="dsi" key="docwatch_watch_purge_items_mark_as_deleted_confirm">Va a purgar los elementos eliminados. ¡Esta acción es irreversible! ¿Está seguro de que quiere continuar? </str>
+<str key="cart_include_bulletin_notice">Añadir también los registros de boletines</str>
+<str key="cart_include_analysis">Añadir también recuentos</str>
+<str key="cms_module_item_datasource_desc_concepts">Tabla de conceptos</str>
+<str key="admin_opac_contact_form_parameter_email_object_free_entry">¿ Permitir entrada libre dentro del objecto ?</str>
+<str key="admin_opac_contact_form_recipients_email_object_free_entry">Correo electrónico para un objeto de entrada libre</str>
+<str key="pnb_admin_import_expl">Ejemplares</str>
+<str key="pnb_admin_import_expl_codestat">Código estadístico</str>
+<str key="pnb_admin_import_expl_statut">Estado</str>
+<str key="pnb_admin_import_expl_typedoc">Soporte</str>
+<str key="cote_character_line_break">retorno de carro</str>
+<str key="groupe_comment_gestion">Comentario de gestión</str>
+<str key="groupe_comment_opac">Comentario OPAC</str>
+<str key="alerte_transferts_depart">Salida</str>
+<str key="empr_groups_comments">Mensaje de grupo</str>
+<str key="admin_opac_contact_form_parameter_attachments">Pieza(s) junta(s) :</str>
+<str key="empr_subscribe_form">Formulario de inscripción</str>
+<str key="empr_account">Cuenta de lector</str>
+<str key="search_universe_id">Nombre de usuario</str>
+<str key="search_universe_url">Enlace permanente</str>
+<str key="search_segment_id">Nombre de usuario</str>
+<str key="search_segment_url">Enlace permanente</str>
+<str key="adresse_resa_concerne">Reserva(s) de %s</str>
+<str key="dsi_flux_form_format_flux_items">Formato de las noticias presentes dentro del feed</str>
+<str key="dsi_flux_form_format_flux_item_title">Título</str>
+<str key="dsi_flux_form_format_flux_item_description">Descripción</str>
+<str key="acquisition_action_check_line_increase_rate">Aplicar un incremento de : </str>
+<str key="acquisition_action_check_line_increase_rate_percent">%</str>
+<str key="empr_resp_group_location">Localización del responsable</str>
+<str key="lettres_mails_relance_groupe">Imprimir / enviar todas las cartas de seguimiento de los grupos seleccionados </str>
+<str key="mails_relance_groupe">Enviar todas las cartas de seguimiento de los grupos seleccionados</str>
+<str key="imprimer_envoyer_liste_prets_groupes">Imprimir/Enviar la lista de préstamos de los grupos seleccionados</str>
+<str key="envoyer_liste_prets_groupes">Enviar la lista de préstamos de los grupos seleccionados</str>
+<str key="acquisition_invoices_select_unselect">Seleccionar todo / Deseleccionar todo</str>
+<str key="list_ui_sort_by_then">Entonces por</str>
+<str js="list" key="list_ui_sort_by_max_reached">Ha alcanzado el límite autorizado.</str>
+<str key="docs_section_libelle_opac">Etiqueta en OPAC</str>
+<str key="deflt_scan_request_explnum_status">Estado predeterminado en la creación de documentos electrónicos en una solicitud de digitalización </str>
+<str key="group_lettre_resa">¿ Enviar cartas de reserva individuales al responsable de ese grupo? </str>
+<str key="group_lettre_resa_show_nomgroup">¿ Imprimir el nombre de este grupo en cartas de reserva individuales? </str>
+<str key="group_mail_resa">¿ Enviar correos electrónicos de reserva individual al responsable del grupo ?</str>
+<str key="combine_expl_explnum">Ejemplares / Documentos electrónicos</str>
+<str key="combine_expl_explnum_location">Localización</str>
+<str key="combine_expl_explnum_lender">Nombre del propietario</str>
+<str key="mail_retard_unknown_mail"><![CDATA[No hay dirección de correo electrónico de referencia para el lector %s ]]></str>
+<str key="acquisition_affect_fou_to_all_etab">Asociar este proveedor a todos los establecimientos </str>
+<str key="acquisition_coord_all_in_parenthesis"> (Todos los establecimientos)</str>
+<str key="bulletin_move_bouton">Mover</str>
+<str key="bulletin_move">Mover un boletín</str>
+<str key="bulletin_move_sel_perio">Selección publicación periódica</str>
+<str key="bulletin_move_sel_perio_choose">Seleccione una publicación peródica</str>
+<str key="list_titre_uniforme_author_function">Autores, función</str>
+<str key="list_titre_uniforme_interpreter_function">Intérpretes, función</str>
+<str key="list_titre_uniforme_concept">Temáticas</str>
+<str key="list_author_concept">Temáticas</str>
+<str key="pnb_no_order" >No se ha registrado ninguna orden de préstamo de documento electrónico</str>
+<str key="pnb_dilicom_no_response" >El servicio no está disponible</str>
+<str key="pnb_unknown_order">Orden de préstamo de documento electrónico desconocida</str>
+<str key="pnb_loan_already_borrowed">Ya ha tomado prestado este documento</str>
+<str key="pnb_loanid">Id de préstamo PNB</str>
+<str key="pnb_requestid">Id de solicitud PNB</str>
+<str key="pnb_alert_threshold_tokens">Número de tokens restantes </str>
+<str key="pnb_loan_no_token">No hay más préstamos disponibles </str>
+<str key="admin_opac_contact_form_recipients_save_error">Error al guardar destinatarios </str>
+<str key="admin_opac_contact_form_recipients_save_success">El destinatario se ha guardado correctamente</str>
+<str key="is_numeric_loan">Préstamo electrónico</str>
+<str key="empr_nb_prets_numeric_encours_query">Número de préstamos electrónicos en curso</str>
+<str key="empr_allow_pnb">Autorizar el préstamo electrónico (PNB)</str>
+<str key="empr_short_no_allow_pnb">PNB</str>
+<str key="unknown_user_id">El usuario con el nombre de usuario %s es desconocido. </str>
+<str key="is_required">Campo obligatorio</str>
+<str key="relance_export_csv">Exportar CSV</str>
+<str key="empr_chang_statut_confirm">¿ Está seguro de modificar el estado de los lectores seleccionados ?</str>
+<str key="search_segment_sort">Ordenar</str>
+<str key="circ_print_ticket">Imprimir un ticket de préstamo</str>
+<str key="avis_bt_deselectionner">Desselecconar todo</str>
+<str key="cms_document_url_copy_success">La url ya se ha copiado.</str>
+<str key="dom_empr_cms_section">Prestatarios - Secciones </str>
+<str key="dom_empr_cms_article">Prestatarios - Artículos</str>
+<str key="synonym_mutual_link">Sinónimo recíproco si está marcado </str>
+<str js="semantic" key="synonym_mutual_link">Sinónimo recíproco si está marcado </str>
+<str key="print_thes_num_aut">Imprimir el número de autoridad</str>
+<str key="thesaurus_printing_num_aut">AUTORIDAD</str>
+<str key="admin_mailtpl_attachments_menu">Gestión de las piezas unidas</str>
+<str key="admin_files_gestion_error_param_attachments_folder">Verifique el parámetro attachments_folder (en parámetros generales) </str>
+<str key="loan_trust_warning_only">Un ejemplar de este documento ya ha sido prestado o este usuario lo ha tomado prestado en los últimos %s días. </str>
+<str key="planificateur_catalog_access_rights">Permisos de acceso</str>
+<str js="pointage" key="pointage_expl_sections_refresh">La sección seleccionada no está visible para esta localización. ¿ Desea continuar ?</str>
+<str key="quotas_initialization">Reiniciar</str>
+<str js="quotas" key="quotas_initialization_confirm">¿ Desea reiniciar las cuotas ?</str>
+<str key="list_ui_settings_columns">Formatear columnas</str>
+<str key="list_ui_settings_columns_align">Alineación</str>
+<str key="list_ui_settings_columns_align_left">Izquierda</str>
+<str key="list_ui_settings_columns_align_center">Centro</str>
+<str key="list_ui_settings_columns_align_right">Derecha</str>
+<str key="list_ui_settings_columns_text">Texto</str>
+<str key="list_ui_settings_columns_text_normal">Normal</str>
+<str key="list_ui_settings_columns_text_bold">Negrita</str>
+<str key="list_ui_settings_columns_text_italic">Cursiva</str>
+<str key="list_ui_settings_columns_text_underline">Subrayado</str>
+<str key="list_ui_settings_columns_text_color">Color del texto</str>
+<str key="list_ui_settings_columns_level">Añadir</str>
+<str key="list_ui_settings_columns_level_0">Horizontal</str>
+<str key="list_ui_settings_columns_level_1">Vertical</str>
+<str key="has_resa_available">Reservas disponibles para este lector</str>
+<str key="cms_build_frbr_cadres_in_page">Marcos de la página FRBR:</str>
+<str key="list_ui_frbr_page_id">Identicador de la página FRBR</str>
+<str key="notification_sphinx_service_off">El servicio Sphinx está desactivado </str>
+<str key="onto_contribution_fonction_author">Seleccione una función</str>
+<str key="admin_disabled_module_checkbox">El parámetro !!parametre!! está desactivado</str>
+<str key="collectivites_search">Colectivos</str>
+<str key="personnes_physiques_search">Personas físicas</str>
+<str key="congres_search">Congreso</str>
+<str key="serials_query">Publicaciones periódicas</str>
+<str key="documents_query">Documentos</str>
+<str js="contribution_area" key="contribution_area_editing_form">Editar un formulario</str>
+<str js="contribution_area" key="contribution_area_response">Respuesta</str>
+<str js="contribution_area" key="contribution_area_edit_form">Editar el fomulario</str>
+<str js="selector" key="selector_tab_selection_validate">Validar la selección</str>
+<str key="contribution_resize_button">Redimensionar</str>
+<str key="contribution_zoom_in_button">Aumentar zoom</str>
+<str key="contribution_zoom_out_button">Diminuir zoom</str>
+<str key="contribution_area_repo_template_authorities">Repertorio de plantillas de autoridades</str>
+<str key="contribution_area_repo_template_records">Repertorio de plantillas de registros</str>
+<str key="faq_err_par">Debe definir los parámetros para utilizar el módulo FAQ.</str>
+<str key="acquisition_lig_frais_annexes"><![CDATA[<sup><span class='act_typ_lig_3'>Línea de gatos adicionales</span></sup>]]></str>
+<str js="cms" key="storage_method_not_selected">Debe seleccionar un método de almacenamiento.</str>
+<str key="connecteurs_source_available_in_line">Disponible en línea</str>
+<str key="admin_acces_empr_surlocations">Sublocalizaciones</str>
+<str key="admin_acces_empr_statuts">Estados</str>
+<str key="procs_options_text_type">Tipo de campo</str>
+<str key="procs_options_text_type_text">Texto</str>
+<str key="procs_options_text_type_textarea">Área de texto</str>
+<str key="contribution_scenario_select">Seleccionar un escenario :</str>
+<str key="emplacement_label_already_used"> : ¡ la etiqueta ya está siendo utilizada !</str>
+<str key="support_label_already_used"> : ¡ la etiqueta ya está siendo utilizada !</str>
+<str js="contribution_area" key="contribution_area_computed_fields_delete">Suprimir</str>
+<str js="contribution_area" key="contribution_area_computed_fields_confirm_delete">¿ Desea suprimir este campo calculado ?</str>
+<str js="contribution_area" key="contribution_area_computed_fields_deleted">Campo calculado eliminado.</str>
+<str key="list_ui_settings">Configuración avanzada</str>
+<str key="list_ui_settings_filters">Configuración de los filtros</str>
+<str key="list_ui_settings_columns_label">Etiqueta</str>
+<str key="list_ui_settings_columns_visible">Visible</str>
+<str key="list_ui_settings_columns_visible_0">No</str>
+<str key="list_ui_settings_columns_visible_1">Si</str>
+<str key="list_ui_settings_filters_label">Etiqueta</str>
+<str key="list_ui_settings_filters_visible">Visible</str>
+<str key="list_ui_settings_filters_visible_0">No</str>
+<str key="list_ui_settings_filters_visible_1">Si</str>
+<str key="list_ui_remove_filter">Quitar filtro</str>
+<str js="contribution_area" key="contribution_area_copy">Copiar</str>
+<str key="contribution_audit_comment">Contribuciones</str>
+<str js="contribution_area" key="contribution_area_paste_and_adapt">Pegar para modificar</str>
+<str key="contribution_area_form_duplicated">Copia de</str>
+<str js="contribution_area" key="contribution_area_paste">Pegar de foma idéntica</str>
+<str key="admin_contribution_area_accordion_result">Mostrar resultados en acordeón </str>
+<str key="stat_remove_data_interval">Eliminar los datos ya consolidados entre el !! remove_data_interval_date_deb !! (fecha incluida) y !! remove_data_interval_date_fin !! (fecha no incluida) </str>
+<str js="contribution_area" key="contribution_area_paste_to_other_contribution_area">Copiar a otro espacio</str>
+<str js="contribution_area" key="contribution_area_list_area">Lista de espacios</str>
+<str js="contribution_area" key="contribution_area_duplicate_forms">Duplicar los formulaiors</str>
+<str js="contribution_area" key="contribution_area_validate_and_go">Validar el acceso al espacio</str>
+<str js="contribution_area" key="contribution_area_paste_clipboard">Pegar desde otro espacio</str>
+<str js="contribution_area" key="admin_contribution_area_form_name">Nombre del formulario</str>
+<str js="contribution_area" key="admin_contribution_area_edit_form_fields">Editar los campos del formulario</str>
+<str js="contribution_area" key="admin_contribution_area_name_form_fields_opac">Nombre del formulario en OPAC</str>
+<str key="contribution_scenario_name">Nombre del formulario </str>
+<str key="contribution_scenario_list">Este formulario ya se usa dentro de %s escenario(s) y dentro de %a espacio(s) de contribución</str>
 
-<str code="deflt_type_abts">Tipo de abono de lector por defecto</str>
-<str js="search_universes" code="search_universes_univers">Universo de búsqueda</str>
-<str js="search_universes" code="search_universes_facet">Facettes</str>
-<str js="search_universes" code="search_universes_search">Búsquedas</str>
-<str js="search_universes" code="search_universes_add">Añadir</str>
-<str code="admin_vignette_sources">Fuentes</str>
-<str code="admin_opac_contact_forms">Formularios de contacto</str>
-<str code="admin_opac_contact_form_id">Nombre de usuario</str>
-<str code="admin_opac_contact_form_label">Etiqueta</str>
-<str code="admin_opac_contact_form_desc">Descripción</str>
-<str code="admin_opac_contact_form_add">Añadir un formulario de contacto</str>
-<str code="admin_opac_contact_form_edit">Editar un formulario de contacto</str>
-<str js="contribution_area" code="contribution_area_editing_attachment">Editar una propiedad</str>
-<str js="contribution_area" code="contribution_area_equation">Ecuaciones</str>
-<str js="contribution_area" code="contribution_area_no_equation">Ninguna ecuación</str>
-<str code="misc_file_operators">Operadores</str>
-<str code="contribution_has_draft">No puede modificar este formulario porque los borradores dependen de él </str>
-<str js="contribution_area" code="contribution_has_draft_popup">No puede modificar este formulario porque los borradores dependen de él </str>
-<str code="contribution_has_draft_hover">No puede eliminar este formulario porque los borradores dependen de él </str>
-<str code="contribution_auto_save_draft">Guardar automáticamente los borradores</str>
-<str code="contribution_area_graph_legend">Leyenda de colores :</str>
-<str js="contribution_area" code="node_type_start_scenario">Escenario de inicio</str>
-<str js="contribution_area" code="node_type_scenario">Escenario</str>
-<str js="contribution_area" code="node_type_form">Formulario</str>
-<str js="contribution_area" code="node_type_attachment">Enlace inicial para los escenarios</str>
-<str js="contribution_area" code="information_duplication_form">Los formularios duplicados le permiten personalizarlos sin afectar los formularios originales .</str>
-<str js="contribution_area" code="contribution_area_delete">Suprimir</str>
-<str js="chat" code="chat_dragable">Mover mensajes en la pantalla </str>
-<str code="deflt_docwatch_watch_filter_deleted">¿ Mostrar los elementos del reloj eliminados de forma predeterminada en la visualización? </str>
-<str code="selvars_empr_last_loan_date">Fecha del último préstamo</str>
-<str code="loans_archives">Préstamos archivados</str>
-<str code="contribution_moderation_list_display_label">Nombre de la contribución</str>
-<str code="contribution_moderation_list_contributor">Nombre del contribuidor</str>
-<str code="contribution_moderation_list_entity_type">Tipo de contribución</str>
-<str code="contribution_moderation_list_last_edit">Fecha de la última contribución</str>
-<str code="sub_form">Ocultar subformularios </str>
-<str code="cms_editorial_form_size_limit">límite de carácteres alcanzado</str>
-<str code="alert_sphinx_restart_needed">Reinicia el servicio Sphinx </str>
-<str code="admin_responsability_authperso_yes">Activar responsabilidades para esta autoridad </str>
-<str code="aut_responsability_form_responsability_authperso">Responsabilidades</str>
-<str code="etagere_caddie_filters">¿ Filtros ?</str>
-<str code="aut_responsability_authors">Autoridades : Responsabilidades</str>
+<str key="deflt_type_abts">Tipo de abono de lector por defecto</str>
+<str js="search_universes" key="search_universes_univers">Universo de búsqueda</str>
+<str js="search_universes" key="search_universes_facet">Facettes</str>
+<str js="search_universes" key="search_universes_search">Búsquedas</str>
+<str js="search_universes" key="search_universes_add">Añadir</str>
+<str key="admin_vignette_sources">Fuentes</str>
+<str key="admin_opac_contact_forms">Formularios de contacto</str>
+<str key="admin_opac_contact_form_id">Nombre de usuario</str>
+<str key="admin_opac_contact_form_label">Etiqueta</str>
+<str key="admin_opac_contact_form_desc">Descripción</str>
+<str key="admin_opac_contact_form_add">Añadir un formulario de contacto</str>
+<str key="admin_opac_contact_form_edit">Editar un formulario de contacto</str>
+<str js="contribution_area" key="contribution_area_editing_attachment">Editar una propiedad</str>
+<str js="contribution_area" key="contribution_area_equation">Ecuaciones</str>
+<str js="contribution_area" key="contribution_area_no_equation">Ninguna ecuación</str>
+<str key="misc_file_operators">Operadores</str>
+<str key="contribution_has_draft">No puede modificar este formulario porque los borradores dependen de él </str>
+<str js="contribution_area" key="contribution_has_draft_popup">No puede modificar este formulario porque los borradores dependen de él </str>
+<str key="contribution_has_draft_hover">No puede eliminar este formulario porque los borradores dependen de él </str>
+<str key="contribution_auto_save_draft">Guardar automáticamente los borradores</str>
+<str key="contribution_area_graph_legend">Leyenda de colores :</str>
+<str js="contribution_area" key="node_type_start_scenario">Escenario de inicio</str>
+<str js="contribution_area" key="node_type_scenario">Escenario</str>
+<str js="contribution_area" key="node_type_form">Formulario</str>
+<str js="contribution_area" key="node_type_attachment">Enlace inicial para los escenarios</str>
+<str js="contribution_area" key="information_duplication_form">Los formularios duplicados le permiten personalizarlos sin afectar los formularios originales .</str>
+<str js="contribution_area" key="contribution_area_delete">Suprimir</str>
+<str js="chat" key="chat_dragable">Mover mensajes en la pantalla </str>
+<str key="deflt_docwatch_watch_filter_deleted">¿ Mostrar los elementos del reloj eliminados de forma predeterminada en la visualización? </str>
+<str key="selvars_empr_last_loan_date">Fecha del último préstamo</str>
+<str key="loans_archives">Préstamos archivados</str>
+<str key="contribution_moderation_list_display_label">Nombre de la contribución</str>
+<str key="contribution_moderation_list_contributor">Nombre del contribuidor</str>
+<str key="contribution_moderation_list_entity_type">Tipo de contribución</str>
+<str key="contribution_moderation_list_last_edit">Fecha de la última contribución</str>
+<str key="sub_form">Ocultar subformularios </str>
+<str key="cms_editorial_form_size_limit">límite de carácteres alcanzado</str>
+<str key="alert_sphinx_restart_needed">Reinicia el servicio Sphinx </str>
+<str key="admin_responsability_authperso_yes">Activar responsabilidades para esta autoridad </str>
+<str key="aut_responsability_form_responsability_authperso">Responsabilidades</str>
+<str key="etagere_caddie_filters">¿ Filtros ?</str>
+<str key="aut_responsability_authors">Autoridades : Responsabilidades</str>
 
 
-<str code="notice_basket_remove">Retirar de su cesta</str>
-<str code="parperso_date_flottante">Fecha flotante</str>
-<str code="parperso_option_duration">Tiempo de búsqueda alrededor de la fecha</str>
-<str code="parperso_option_duration_d">Días</str>
-<str code="parperso_option_duration_m">Meses</str>
-<str code="parperso_option_duration_y">Años</str>
-<str code="parperso_option_duration_type0">Hacia</str>
-<str code="parperso_option_duration_type1">Posterior</str>
-<str code="parperso_option_duration_type2">Anterior</str>
-<str code="parperso_option_duration_type3">Fecha exacta</str>
-<str code="parperso_option_duration_type4">Intervalo de fechas</str>
-<str code="parperso_option_duration_comment">Comentario: </str>
-<str code="parperso_option_duration_entre">Entre</str>
-<str code="parperso_option_duration_et">y</str>
-<str code="searcher_publisher">Editorial</str>
-<str code="searcher_coll">Colección</str>
-<str code="searcher_subcoll">Subcolección</str>
-<str code="dsi_priv_diffusion">¿ Difundir después de guardar ?</str>
-<str code="search_segment">Segmento de búsqueda</str>
-<str js="cart" code="show_cart_check_all">Seleccionar todo</str>
-<str js="cart" code="show_cart_uncheck_all">Deseleccionar todo</str>
-<str code="search_segment_back_to_universe">Volver al universo</str>
-<str code="search_segment_new_search">Nueva búsqueda</str>
-<str code="extended_search_authorities">Búsqueda multicriterio autoridades</str>
-<str code="search_extended_authors">Autores</str>
-<str code="search_extended_author_type">Tipo de autor</str>
-<str code="search_extended_author_name">Nombre del autor</str>
-<str code="search_extended_author_rejete">Rechazado por el autor</str>
-<str code="search_extended_author_date">Fecha del autor</str>
-<str code="search_extended_author_lieu">Lugar del autor</str>
-<str code="search_extended_author_ville">Municipio del autor</str>
-<str code="search_extended_author_pays">Pais del autor</str>
-<str code="search_extended_author_subdivision">Subdivisión del autor</str>
-<str code="search_extended_author_numero">Número de autor</str>
-<str code="search_extended_author_site_web">Sitio Web del autor</str>
-<str code="search_extended_author_comment">Comentario del autor</str>
-<str code="search_extended_author_concepts">Conceptos del autor</str>
-<str code="search_extended_author_aut_link">Autoridades relacionadas del autor</str>
-<str code="search_extended_author_statut">Estado del autor</str>
-<str code="search_extended_categories">Categorías</str>
-<str code="search_extended_category_label">Etiqueta de la categoría</str>
-<str code="search_extended_category_na">Nota de aplicación de la categoría</str>
-<str code="search_extended_category_cm">Comentario de la categoría</str>
-<str code="search_extended_category_parent">Categoría padre de la categoría</str>
-<str code="search_extended_category_concepts">Conceptos de la categoría</str>
-<str code="search_extended_category_aut_link">Autoridades relacionadas de la categoría</str>
-<str code="search_extended_category_statut">Estado de la categoría</str>
-<str code="search_extended_publishers">Editorial</str>
-<str code="search_extended_publisher_name">Nombre de la editorial</str>
-<str code="search_extended_publisher_adr">Dirección de la editorial</str>
-<str code="search_extended_publisher_cp">CP de la editorial</str>
-<str code="search_extended_publisher_ville">Municipio de la editorial</str>
-<str code="search_extended_publisher_pays">País de la editorial</str>
-<str code="search_extended_publisher_site_web">Sitio Web de la editorial</str>
-<str code="search_extended_publisher_comment">Comentario de la editorial</str>
-<str code="search_extended_publisher_concepts">Conceptos de la editorial</str>
-<str code="search_extended_publisher_aut_link">Autoridades relacionadas de la editorial</str>
-<str code="search_extended_publisher_statut">Estado de la editorial</str>
-<str code="search_extended_collections">Colecciones</str>
-<str code="search_extended_collection_name">Nombre de la colección</str>
-<str code="search_extended_collection_issn">ISSN de la colección</str>
-<str code="search_extended_collection_publisher">Editorial de la coleccción</str>
-<str code="search_extended_collection_site_web">Sitio Web de la colección</str>
-<str code="search_extended_collection_comment">Comentario de la colección</str>
-<str code="search_extended_collection_concepts">Conceptos de la colección</str>
-<str code="search_extended_collection_aut_link">Autoridades relacionadas de la colección</str>
-<str code="search_extended_collection_statut">Estado de la colección</str>
-<str code="search_extended_subcollections">Subcolecciones</str>
-<str code="search_extended_subcollection_name">Nombre de la subcolección</str>
-<str code="search_extended_subcollection_issn">ISSN de la subcolección</str>
-<str code="search_extended_subcollection_parent">Subcolección de</str>
-<str code="search_extended_subcollection_parent_publisher">Editorial padre de la subcolección</str>
-<str code="search_extended_subcollection_site_web">Sitio Web de la subcolección</str>
-<str code="search_extended_subcollection_comment">Comentario de la subcolección</str>
-<str code="search_extended_subcollection_concepts">Conceptos de la subcolección</str>
-<str code="search_extended_subcollection_aut_link">Autoridades relacionadas de la subcolección</str>
-<str code="search_extended_subcollection_statut">Estado de la subcolección</str>
-<str code="search_extended_series">Series</str>
-<str code="search_extended_serie_label">Título de la serie</str>
-<str code="search_extended_serie_concepts">Conceptos de la serie</str>
-<str code="search_extended_serie_aut_link">Autoridades relacionadas con la serie</str>
-<str code="search_extended_serie_statut">Estado de la serie</str>
-<str code="search_extended_titres_uniformes">Títulos uniformes </str>
-<str code="search_extended_titre_uniforme_oeuvre_type">Tipo de obra</str>
-<str code="search_extended_titre_uniforme_oeuvre_nature">Naturaleza de la obra</str>
-<str code="search_extended_titre_uniforme_name">Nombre de la obra</str>
-<str code="search_extended_titre_uniforme_expression">Expresión de</str>
-<str code="search_extended_titre_uniforme_others_link">Otros vínculos</str>
-<str code="search_extended_titre_uniforme_author">Autor de la obra</str>
-<str code="search_extended_titre_uniforme_forme">Forma de la obra (Entrada libre)</str>
-<str code="search_extended_titre_uniforme_forme_marclist">Forma de la obra (Lista)</str>
-<str code="search_extended_titre_uniforme_date">Fecha de la obra</str>
-<str code="search_extended_titre_uniforme_lieu">Lugar de origen de la obra</str>
-<str code="search_extended_titre_uniforme_sujet">Sujeto de la obra</str>
-<str code="search_extended_titre_uniforme_completude">Integridad de la obra</str>
-<str code="search_extended_titre_uniforme_public">Público objetivo de la obra</str>
-<str code="search_extended_titre_uniforme_histoire">Historia de la obra</str>
-<str code="search_extended_titre_uniforme_contexte">Contexto de la obra</str>
-<str code="search_extended_titre_uniforme_distrib">Distribución instrumental y vocal de la obra</str>
-<str code="search_extended_titre_uniforme_ref_num">Referéncia númerica de la obra</str>
-<str code="search_extended_titre_uniforme_tonalite">Tonalidad (Entrada libre) de la obra</str>
-<str code="search_extended_titre_uniforme_tonalite_marclist">Tonalida (Lista) de la obra</str>
-<str code="search_extended_titre_uniforme_coords">Coordenadas (obra cartográfica)</str>
-<str code="search_extended_titre_uniforme_equinoxe">Equinocio (obra cartográfica)</str>
-<str code="search_extended_titre_uniforme_subdiv_forme">Subdivisión de forma(obra)</str>
-<str code="search_extended_titre_uniforme_caracteristiques">Características de la obra</str>
-<str code="search_extended_titre_uniforme_comment">Comentario de la obra</str>
-<str code="search_extended_titre_uniforme_concepts">Conceptos de la obra</str>
-<str code="search_extended_titre_uniforme_aut_link">Autoridades relacionadas de la obra</str>
-<str code="search_extended_titre_uniforme_statut">Estado de la obra</str>
-<str code="search_extended_indexint">Indexaciones decimales</str>
-<str code="search_extended_indexint_label">Etiqueta del índice decimal</str>
-<str code="search_extended_indexint_comment">Comentario índice decimal</str>
-<str code="search_extended_indexint_concepts">Conceptos del índice decimal</str>
-<str code="search_extended_indexint_aut_link">Autoridades relacionadas del índice decimal</str>
-<str code="search_extended_indexint_statut">Estado del índice decimal</str>
-<str code="search_custom_author">Personalizados de autores</str>
-<str code="search_custom_categ">Personalizados de las categorías</str>
-<str code="search_custom_publisher">Personalizados de las editoriales</str>
-<str code="search_custom_collection">Personalizados de las colecciones</str>
-<str code="search_custom_subcollection">Personalizados de las subcolecciones</str>
-<str code="search_custom_serie">Personalizados de las series</str>
-<str code="search_custom_tu">Personalizados de los títulos uniformes</str>
-<str code="search_custom_indexint">Personalizados de las indexaciones decimales</str>
-<str code="search_extended_skos_concepts_notation">Notación</str>
-<str code="search_extended_skos_concepts_note">Nota</str>
-<str code="search_extended_skos_concepts_change_note">Nota modificada</str>
-<str code="search_extended_skos_concepts_definition">Definición</str>
-<str code="search_extended_skos_concepts_editorial_note">Nota editorial</str>
-<str code="search_extended_skos_concepts_example">Ejemplo</str>
-<str code="search_extended_skos_concepts_history_note">Nota histórica</str>
-<str code="search_extended_skos_concepts_scope_note">Nota de aplicación</str>
-<str code="search_extended_author_concepts_autopostage">Publicación automática de conceptos del autor </str>
-<str code="search_extended_category_concepts_autopostage">Publicación automática de conceptos de la categoría</str>
-<str code="search_extended_publisher_concepts_autopostage">Publicación automática de conceptos de la editorial</str>
-<str code="search_extended_collection_concepts_autopostage">Publicación automática de conceptos de la colección</str>
-<str code="search_extended_subcollection_concepts_autopostage">Publicación automática de conceptos de la subcolección</str>
-<str code="search_extended_titre_uniforme_concepts_autopostage">Publicación automática de conceptos del título uniforme</str>
-<str code="search_extended_serie_concepts_autopostage">Publicación automática de conceptos de la serie</str>
-<str code="search_extended_indexint_concepts_autopostage">Publicación automática de conceptos de la indexación decimal</str>
-<str code="search_extended_skos_concepts_autoposted">Conceptos auto-publicados</str>
-<str code="search_extended_subcollection_publisher">Editorial de las subcolección</str>
-<str code="search_extended_skos_concept">Conceptos</str>
-<str code="search_extended_skos_concepts_preflabel">Etiqueta del concepto</str>
-<str code="search_extended_skos_concepts_scheme">Esquema del concepto</str>
-<str code="search_extended_common">Comunes</str>
-<str code="search_extended_common_statut">Estado de la autoridad</str>
-<str code="search_extended_titre_uniforme_responsability_qualification">Calificación del autor de la obra </str>
-<str code="search_extended_titre_uniforme_qualified_author">Autor calificado de la obra </str>
-<str code="search_extended_titre_uniforme_qualified_interpreter">Intéprete calificado de la obra</str>
-<str code="search_extended_publisher_supplier">Proveedor vinculado al editor </str>
-<str code="search_extended_lonely_fields">Otros</str>
-<str code="search_extended_titre_uniforme_interpreter">Intérprete de la obra</str>
-<str code="search_extended_category_thesaurus">Tesauro</str>
-<str code="search_extended_concept_statut">Estado del concepto</str>
-<str code="search_extended_indexint_pclassement">Plan de clasificación de indexación decimal</str>
-<str code="search_extended_authorities_found"> autoridad(es) encontrada(s).</str>
-<str code="authorities_found">autoridad(es) encontrada(s) por la búsqueda</str>
-<str code="search_autority_contributor">Contribuidor de la autoridad</str>
-<str code="search_item_creator">Creador del ejemplo</str>
-<str code="search_author_creator">Creador del autor</str>
-<str code="search_category_creator">Creador de la categoría</str>
-<str code="search_publisher_creator">Creador de la editorial</str>
-<str code="search_coll_creator">Creador de la colección</str>
-<str code="search_subcoll_creator">Creador de la subcolección</str>
-<str code="search_serie_creator">Creador de la serie</str>
-<str code="search_tu_creator">Creador del título uniforme</str>
-<str code="search_indexint_creator">Creador de la indexación decimal</str>
-<str code="search_extended_authorities_all_fields">Todos los campos</str>
-<str code="search_segment_new_search">Búsqueda :</str>
-<str code="bannette_unsubscribe_confirm">Debe hacer clic en este enlace para confirmar su cancelación de suscripción. .</str>
-<str code="bannette_unsubscribe_confirmed">Cancelación de la subscripción confirmada.</str>
-<str code="facette_reset_all">Búsqueda inicial</str>
-<str code="facette_reset">Desmarcar todas las facetas</str>
-<str code="connecteurs_search_simple"><![CDATA[Puede iniciar una búsqueda en uno o más campos o <a href='%s'> hacer una búsqueda simple</a>]]></str>
-<str code="empr_menu_pnb_loan">Mis préstamos electrónicos</str>
-<str code="empr_menu_pnb_loan_list">Mis préstamos en curso</str>
-<str code="empr_menu_pnb_devices">Mis periféricos de lectura</str>
-<str code="empr_pnb_loan_not_activate">El préstamo electrónico ya está activado</str>
-<str code="empr_pnb_devices_list">Periféricos disponibles</str>
-<str code="126">Masculino</str>
-<str code="127">Femenino</str>
-<str code="128">No indicado</str>
-<str code="empr_pnb_current_loans_list">Préstamos electrónicos en curso</str>
-<str code="empr_pnb_no_current_loans">Ningún préstamo electrónico en curso</str>
-<str js="search" code="results">resultado(s)</str>
-<str code="empr_menu_pnb_parameters">Parámetros</str>
-<str code="empr_pnb_parameters_hint">Pista de la contraseña</str>
-<str code="empr_pnb_parameters_password">Contraseña</str>
-<str code="pnb_digital_expl">Exemplar electrónico</str>
-<str code="empr_pnb_choose_device">Elija un periférico de lectura</str>
-<str code="pnb_loan_failed">El préstamo falló</str>
-<str code="pnb_loan_succeed">Documento prestado correctamente</str>
-<str code="notice_is_numeric_search">Electrónico</str>
-<str code="dsi_priv_form_date_used_to_calc">Fecha de registro utilizada para calcular la novedad </str>
-<str code="dsi_ban_update_type_c">Fecha de creación</str>
-<str code="dsi_ban_update_type_u">Fecha de actualización </str>
-<str code="dsi_bannette_gerer_date_used_to_calc">Fecha de uso</str>
-<str code="combine_extended_search">Búsqueda multicriterio</str>
-<str code="search_history_combine">Combinar las búsquedas seleccionadas</str>
-<str code="empr_pnb_loan_extend">Prolongar</str>
-<str code="empr_pnb_loan_redownload">Descargar de nuevo</str>
-<str code="pnb_loan_already_borrowed">Ya ha tomado prestado este documento </str>
-<str code="ontology_skos_concept">Conceptos</str>
-<str js="history" code="show_history_check_all">Seleccionar todo</str>
-<str js="history" code="show_history_uncheck_all">Deseleccionar todo</str>
-<str js="sort" code="show_sort_check_all">Seleccionar todor</str>
-<str js="sort" code="show_sort_uncheck_all">Deseleccionar todo</str>
-<str code="search_universe_history">Universo "%s" : Búsqueda "%s"</str>
-<str code="search_segment_history">Segmento "%s" : %s</str>
-<str code="search_segment_all_fields">Todos los campos del segmento</str>
-<str code="perso_select">Selección %s</str>
-<str code="reset">Reiniciar</str>
-<str code="facette_reset_one">Deseleccionar el criterio</str>
-<str code="facette_reset_all">Deseleccionar todos los criterios</str>
-<str code="notice_preview_close">Cerrar la ventana</str>
-<str code="close">Ventana</str>
-<str code="disable_this_filter">Deseleccionar el filtro</str>
-<str code="writing_area">Zone de notas</str>
-<str code="expand">Expandir</str>
-<str code="expandall">Expandir todo</str>
-<str code="collapse">Replegar</str>
-<str code="collapseall">Replegar todo</str>
-<str code="onto_contribution_mandatory_field">Campo obligatorio</str>
-<str code="search_universe_new_search">Nueva búsqueda dentro : </str>
-<str code="search_segment_refine_search">Afinar</str>
-<str code="aut_link_concept">[Concepto] %1s</str>
-<str code="search_perso_menu">Predefinida</str>
-<str code="search_perso_title">Búsqueda predefinidas > Todas las búsquedas</str>
-<str code="search_perso_list_title">Todas las búsquedas</str>
-<str code="search_perso_list">Lista de búsquedas predefinidas</str>
-<str code="search_perso_table_preflink">Atajo</str>
-<str code="search_perso_table_name">Nombre</str>
-<str code="search_perso_table_shortname">Nombre corto</str>
-<str code="search_perso_table_humanquery">Búsqueda</str>
-<str code="search_perso_table_edit">Editar</str>
-<str code="search_perso_add">Añadir</str>
-<str code="search_perso_save">Almacenar en búsqueda predefinida </str>
-<str code="search_perso_modifier">Modificar</str>
-<str code="search_perso_form_title">Búsqueda predefinida</str>
-<str code="search_perso_form_add">Añadir la búsqueda predefinida </str>
-<str code="search_perso_form_edit">Editar la búsqueda predefinida</str>
-<str code="search_perso_form_annuler">Cancelar</str>
-<str code="search_perso_form_save">Guardar</str>
-<str code="search_perso_form_delete">Suprimir</str>
-<str code="search_perso_form_name_empty">El nombre de la búsqueda está vacio.</str>
-<str code="search_perso_form_name">Nombre</str>
-<str code="search_perso_form_shortname">Atajo de nombre</str>
-<str code="search_perso_form_direct_search">Activo en la barra de búsqueda </str>
-<str code="search_perso_form_add_error">Error al guardar la búsqueda</str>
-<str code="confirm_suppr">¿ Confirma la eliminación ?  </str>
-<str code="search_perso_form_autorisations">Autorizaciones concedidas a :</str>
-<str code="search_perso_form_comment">Comentario</str>
-<str code="tout_cocher_checkbox">Seleccionar todo</str>
-<str code="tout_decocher_checkbox">Deseleccionar todo</str>
-<str code="message_unload_page">Al cerrar esta página, perderá los cambios realizados. </str>
-<str code="155">Su entrada también puede ser una </str>
-<str code="1900">Ayuda</str>
-<str code="1901"> : </str>
-<str code="1902">Expresiones booleanas </str>
-<str code="1550">Expresión booleana.</str>
-<str js="selector" code="selector_tab_simple_search">Búsqueda simple</str>
-<str js="selector" code="selector_tab_advanced_search">Búsqueda multicriterio</str>
-<str js="selector" code="selector_tab_add">Añadir</str>
-<str js="selector" code="selector_tab_results">Resultados</str>
-<str js="selector" code="selector_tab_hierarchical_search">Búsqueda jerárquica</str>
-<str js="selector" code="selector_tab_terms_search">Búsqueda por palabras</str>
-<str js="selector" code="selector_tab_indexation_auto">Indexación automática</str>
-<str js="selector" code="selector_tab_search_concept">Búsqueda por conceptos</str>
-<str js="selector" code="selector_tab_linked_concept">Concepto(s) asociado(s)</str>
-<str code="authorities">Autoridades</str>
-<str code="authorities_statut_label">Estado</str>
-<str code="searcher_all_status">Todos los estados</str>
-<str code="searcher_results">%s resultado(s)</str>
-<str code="48">Página anterior</str>
-<str code="49">Página siguiente</str>
-<str code="searcher_all_types">Todos los tipos</str>
-<str code="search_authorities">Todas las autoridades</str>
-<str code="333">Títulos de serie</str>
-<str code="354">Autor/título</str>
-<str code="356">Editorial/colección</str>
-<str code="search_categorie_title">Categoría</str>
-<str code="17">Tipos de documento</str>
-<str code="noti_statut_noti">Estado del registro</str>
-<str code="notice_id_libelle">Identificador del registro :</str>
-<str code="103">Etiqueta</str>
-<str code="searcher_all_schemes">Todos los esquemas</str>
-<str code="resa_loc_retrait">Lugar de recogida</str>
-<str code="resa_empr_location">Localización del lector</str>
-<str code="authentification_page_mandatory">Debe autenticarte para acceder a esta página: </str>
-<str code="serialcirc_ask_saved_success">Su solicitud se ha registrado.</str>
-<str code="serialcirc_ask_saved_failed">Se ha producido un error al registrar su solicitud.</str>
-<str code="scan_request_location">Localización</str>
-<str code="group_prolonge_pret">Prolongar los préstamos</str>
-<str code="group_prolonge_pret_date_title">Fecha de prolongación</str>
-<str js="empr" code="group_prolonge_pret_no_date">Debe seleccionar una fecha de prolongación.</str>
-<str js="empr" code="group_prolonge_pret_confirm">¿ Confirma la prolongación de los préstamos para los miembros del grupo ?</str>
-<str code="print_validate">Validar</str>
-<str js="carto" code="carto_search_radius">Búsqueda dentro de un radio</str>
-<str js="carto" code="carto_km">Km</str>
-<str code="search_extended_map_circle">Alrededor del punto :</str>
-<str code="search_extended_map_circle_center">Centro(long,lat): </str>
-<str code="search_extended_map_circle_radius">Radio(km): </str>
-<str code="list_lecture_add_list">Crear una nueva lista</str>
-<str code="list_lecture_no_classement">--</str>
-<str code="173">Colecciones encontradas bajo la clave</str>
-<str code="empr_sugg_verifcode">Código de verificación :</str>
-<str code="empr_sugg_wrongcode">¡ El código de verificación no es válido !</str>
-<str code="entrepot_notice_docnum">Documentos electrónicos</str> 
-<str code="dsi_bannette_priv">Mis alertas personalizadas</str>
-<str code="dsi_bannette_pub">Mis alertas</str>
-<str code="dsi_bannette_priv_no_alerts">No ha creado una alerta personalizada.</str>
-<str code="dsi_bannette_pub_no_alerts">Ninguna alerta disponible.</str>
-<str code="dsi_bannette_no_newrecord">Ninguna novedad a añadir.</str>
-<str code="subs_pb_tags"><![CDATA[<h3>¡ No es posible validar su inscripción !</h3><br /><span class='erreur'>Les champs de saisie ne doivent pas contenir de tags HTML</span>]]></str>
-<str code="selector_keyword">Seleccionar un tag</str>
-<str code="less_than_days_query">Hay menos de</str>
-<str code="more_than_days_query">Hay más de</str>
-<str code="days">día(s)</str>
-<str code="this_week_query">Esta semana</str>
-<str code="last_week_query">La semana pasada</str>
-<str code="this_month_query">Este mes</str>
-<str code="last_month_query">El mes pasado</str>
-<str code="this_year_query">Este año</str>
-<str code="empr_change_profil">Modificar el perfil</str>
-<str code="profil_id_empr">Nombre de usuario</str>
-<str code="profil_empr_nom">Apellido</str>
-<str code="profil_empr_prenom">Nombre</str>
-<str code="profil_empr_login">Login</str>
-<str code="profil_empr_prenom">Nombre</str>
-<str code="profil_empr_adr1">Dirección (línea 1)</str>
-<str code="profil_empr_adr2">Dirección (línea 2)</str>
-<str code="profil_empr_cp">CP</str>
-<str code="profil_empr_ville">Municipio</str>
-<str code="profil_empr_pays">Pais</str>
-<str code="profil_empr_mail">Correo electrónico</str>
-<str code="profil_empr_tel1">Teléfono</str>
-<str code="profil_empr_tel2">Otro teléfono</str>
-<str code="profil_empr_prof">Profesión</str>
-<str code="profil_empr_year">Fecha de nacimiento</str>
-<str code="profil_empr_categ">Categoría</str>
-<str code="profil_empr_codestat">Código estadístico</str>
-<str code="profil_empr_sexe">Sexo</str>
-<str code="profil_empr_login">Identificador OPAC</str>
-<str code="profil_empr_lang">Idioma OPAC</str>
-<str code="profil_empr_location">Localización</str>
-<str code="profil_empr_sexe_m">Masculino</str>
-<str code="profil_empr_sexe_f">Femenino</str>
-<str code="profil_empr_sexe_o">No especficado</str>
-<str code="sauv_misc_running">Guardando los cambios...</str>
-<str code="onto_error_too_long_value_small_text">%s : Este campo no puede superar los 512 caracteres.</str>
-<str code="empr_renewal">Subscribirse de nuevo</str>
-<str code="empr_renewal_success">Su suscripción se ha extendido hasta  %s</str>
-<str code="subs_pb_invalid_login"><![CDATA[<h3> ¡ No es posible registrarse con este nombre de usuario  !</h3><br /><span class='erreur'>L'identifiant !!f_login!! est invalide, un autre vous est proposé, saisissez de nouveau votre mot de passe ainsi que le code et validez</span><br />]]></str>
-<str code="empr_delete_account">Eliminar la cuenta</str>
-<str code="delete_account_running">Eliminando la cuenta...</str>
-<str code="empr_confirm_deleting_account">¿ Desea suprimir su cuenta ?</str>
-<str code="autorite_suppr_categ_forcage_button">Forzar la supresión</str>
-<str js="opac" code="list_lecture_no_ck">¡ Debe seleccionar al menos un registro !</str>
-<str code="liste_lecture_create_date">Fecha de creación</str>
-<str code="subs_f_consent_message">Acepto el almacenamiento y uso con fines no comerciales de mis datos personales. </str>
-<str code="subs_form_consent_message_mandatory">¡ Debe aceptar la conservación de tus datos !</str>
-<str code="empr_account_recall_activation">Aún no ha confirmado su registro. Valide su cuenta utilizando el correo electrónico de confirmación. ¿Reenviar email? </str>
-<str code="cms_module_charte_accept_button">He leido y aceptado las condiciones</str>
-<str code="dsi_bannette_no_equation">Ninguna ecuación de búsqueda asociada</str>
-<str code="nomenclature_search_nomenclature_abbreviation">Todos los instrumentos</str>
-<str code="nomenclature_search_nomenclature_abbreviation_bois">Todas las maderas</str>
-<str code="nomenclature_search_nomenclature_abbreviation_cuivres">Todo el metal</str>
-<str code="nomenclature_search_nomenclature_abbreviation_percussions">Toda la percursión</str>
-<str code="nomenclature_search_nomenclature_abbreviation_cordes">Todas las cuerdas</str>
-<str code="nomenclature_search_instruments_no_standard">Instrumentos no estándar</str>
-<str code="nomenclature_search_instruments_workshop">Instrumentos de taller</str>
-<str code="noteq_query"><![CDATA[!=]]></str>
-<str code="nomenclature_search">Nomenclatura</str>
-<str code="nomenclature_search_formations">Formación</str>
-<str code="nomenclature_search_types">Tipo de formación</str>
-<str code="nomenclature_search_formation_label">Nombre de formación</str>
-<str code="nomenclature_search_workshop_label">Nombre del taller</str>
-<str code="nomenclature_search_nomenclature_notes">Notas</str>
-<str code="cms_module_common_datasource_desc_last_update_sql_date">Fecha de la última actualización (Formato SQL)</str>
-<str code="empr_msg">Mensaje</str>
-<str code="error_template">Error en la plantilla</str>
-<str code="facette_delete_one">Suprimir</str>
-<str code="authperso_sel_title">Selección de la autoridad</str>
-<str code="parperso_option_duration_begin">Entre</str>
-<str code="parperso_option_duration_end">y</str>
-<str code="script_analytics_button_dnt_confirm">Aceptar</str>
-<str code="search_extended_record_qualified_author">Autor calificado del registro</str>
-<str code="notice_vedette_composee_author">Calificación</str>
-<str code="tu_authors_list">Autores</str>
-<str code="empr_no_loan_old">Ningún préstamo anterior</str>
-<str code="cms_module_common_datasource_desc_last_update_sql_date">Fecha de la última actualización (Format SQL)</str>
-<str code="cms_module_charte_accept_button">He entendido</str>
-<str code="contact_form_object_other">Entrada libre del asunto</str>
-<str code="contact_form_object_free_entry">Introduzca el asunto de su mensaje :</str>
-<str code="contact_form_parameter_attachments">Unirse :</str>
-<str code="empr_groups_comments">Mensaje de grupo</str>
-<str code="search_universe_id">Identificador</str>
-<str code="search_universe_url">Enlace permanente</str>
-<str code="search_segment_id">Identificador</str>
-<str code="search_segment_url">Enlace permanente</str>
-<str code="empr_view_sugg_detail">Detalle de la sugerencia</str>
-<str code="empr_change_password_form_empty">La contraseña no puede estar vacía .</str>
-<str code="empr_password_bad_security">La contraseña no es lo suficientemente segura .</str>
-<str code="scan_request_nb_scanned_pages">Número de páginas escaneadas </str>
-<str code="empr_old_password">Introduzca su contraseña actual  :</str>
-<str code="empr_old_password_wrong">La contraseña actual no es correcta.</str>
-<str code="pnb_not_allowed">El préstamo electrónico no está autorizado para este lector.</str>
-<str code="show_cart_more_actions">Otras acciones</str>
-<str code="contact_form_error_email_adress">Debe introducir una dirección de correo electrónico válida. </str>
-<str code="articles">artículos</str>
-<str code="bulletin_nb_articles">Número de artículos</str>
+<str key="notice_basket_remove">Retirar de su cesta</str>
+<str key="parperso_date_flottante">Fecha flotante</str>
+<str key="parperso_option_duration">Tiempo de búsqueda alrededor de la fecha</str>
+<str key="parperso_option_duration_d">Días</str>
+<str key="parperso_option_duration_m">Meses</str>
+<str key="parperso_option_duration_y">Años</str>
+<str key="parperso_option_duration_type0">Hacia</str>
+<str key="parperso_option_duration_type1">Posterior</str>
+<str key="parperso_option_duration_type2">Anterior</str>
+<str key="parperso_option_duration_type3">Fecha exacta</str>
+<str key="parperso_option_duration_type4">Intervalo de fechas</str>
+<str key="parperso_option_duration_comment">Comentario: </str>
+<str key="parperso_option_duration_entre">Entre</str>
+<str key="parperso_option_duration_et">y</str>
+<str key="searcher_publisher">Editorial</str>
+<str key="searcher_coll">Colección</str>
+<str key="searcher_subcoll">Subcolección</str>
+<str key="dsi_priv_diffusion">¿ Difundir después de guardar ?</str>
+<str key="search_segment">Segmento de búsqueda</str>
+<str js="cart" key="show_cart_check_all">Seleccionar todo</str>
+<str js="cart" key="show_cart_uncheck_all">Deseleccionar todo</str>
+<str key="search_segment_back_to_universe">Volver al universo</str>
+<str key="search_segment_new_search">Nueva búsqueda</str>
+<str key="extended_search_authorities">Búsqueda multicriterio autoridades</str>
+<str key="search_extended_authors">Autores</str>
+<str key="search_extended_author_type">Tipo de autor</str>
+<str key="search_extended_author_name">Nombre del autor</str>
+<str key="search_extended_author_rejete">Rechazado por el autor</str>
+<str key="search_extended_author_date">Fecha del autor</str>
+<str key="search_extended_author_lieu">Lugar del autor</str>
+<str key="search_extended_author_ville">Municipio del autor</str>
+<str key="search_extended_author_pays">Pais del autor</str>
+<str key="search_extended_author_subdivision">Subdivisión del autor</str>
+<str key="search_extended_author_numero">Número de autor</str>
+<str key="search_extended_author_site_web">Sitio Web del autor</str>
+<str key="search_extended_author_comment">Comentario del autor</str>
+<str key="search_extended_author_concepts">Conceptos del autor</str>
+<str key="search_extended_author_aut_link">Autoridades relacionadas del autor</str>
+<str key="search_extended_author_statut">Estado del autor</str>
+<str key="search_extended_categories">Categorías</str>
+<str key="search_extended_category_label">Etiqueta de la categoría</str>
+<str key="search_extended_category_na">Nota de aplicación de la categoría</str>
+<str key="search_extended_category_cm">Comentario de la categoría</str>
+<str key="search_extended_category_parent">Categoría padre de la categoría</str>
+<str key="search_extended_category_concepts">Conceptos de la categoría</str>
+<str key="search_extended_category_aut_link">Autoridades relacionadas de la categoría</str>
+<str key="search_extended_category_statut">Estado de la categoría</str>
+<str key="search_extended_publishers">Editorial</str>
+<str key="search_extended_publisher_name">Nombre de la editorial</str>
+<str key="search_extended_publisher_adr">Dirección de la editorial</str>
+<str key="search_extended_publisher_cp">CP de la editorial</str>
+<str key="search_extended_publisher_ville">Municipio de la editorial</str>
+<str key="search_extended_publisher_pays">País de la editorial</str>
+<str key="search_extended_publisher_site_web">Sitio Web de la editorial</str>
+<str key="search_extended_publisher_comment">Comentario de la editorial</str>
+<str key="search_extended_publisher_concepts">Conceptos de la editorial</str>
+<str key="search_extended_publisher_aut_link">Autoridades relacionadas de la editorial</str>
+<str key="search_extended_publisher_statut">Estado de la editorial</str>
+<str key="search_extended_collections">Colecciones</str>
+<str key="search_extended_collection_name">Nombre de la colección</str>
+<str key="search_extended_collection_issn">ISSN de la colección</str>
+<str key="search_extended_collection_publisher">Editorial de la coleccción</str>
+<str key="search_extended_collection_site_web">Sitio Web de la colección</str>
+<str key="search_extended_collection_comment">Comentario de la colección</str>
+<str key="search_extended_collection_concepts">Conceptos de la colección</str>
+<str key="search_extended_collection_aut_link">Autoridades relacionadas de la colección</str>
+<str key="search_extended_collection_statut">Estado de la colección</str>
+<str key="search_extended_subcollections">Subcolecciones</str>
+<str key="search_extended_subcollection_name">Nombre de la subcolección</str>
+<str key="search_extended_subcollection_issn">ISSN de la subcolección</str>
+<str key="search_extended_subcollection_parent">Subcolección de</str>
+<str key="search_extended_subcollection_parent_publisher">Editorial padre de la subcolección</str>
+<str key="search_extended_subcollection_site_web">Sitio Web de la subcolección</str>
+<str key="search_extended_subcollection_comment">Comentario de la subcolección</str>
+<str key="search_extended_subcollection_concepts">Conceptos de la subcolección</str>
+<str key="search_extended_subcollection_aut_link">Autoridades relacionadas de la subcolección</str>
+<str key="search_extended_subcollection_statut">Estado de la subcolección</str>
+<str key="search_extended_series">Series</str>
+<str key="search_extended_serie_label">Título de la serie</str>
+<str key="search_extended_serie_concepts">Conceptos de la serie</str>
+<str key="search_extended_serie_aut_link">Autoridades relacionadas con la serie</str>
+<str key="search_extended_serie_statut">Estado de la serie</str>
+<str key="search_extended_titres_uniformes">Títulos uniformes </str>
+<str key="search_extended_titre_uniforme_oeuvre_type">Tipo de obra</str>
+<str key="search_extended_titre_uniforme_oeuvre_nature">Naturaleza de la obra</str>
+<str key="search_extended_titre_uniforme_name">Nombre de la obra</str>
+<str key="search_extended_titre_uniforme_expression">Expresión de</str>
+<str key="search_extended_titre_uniforme_others_link">Otros vínculos</str>
+<str key="search_extended_titre_uniforme_author">Autor de la obra</str>
+<str key="search_extended_titre_uniforme_forme">Forma de la obra (Entrada libre)</str>
+<str key="search_extended_titre_uniforme_forme_marclist">Forma de la obra (Lista)</str>
+<str key="search_extended_titre_uniforme_date">Fecha de la obra</str>
+<str key="search_extended_titre_uniforme_lieu">Lugar de origen de la obra</str>
+<str key="search_extended_titre_uniforme_sujet">Sujeto de la obra</str>
+<str key="search_extended_titre_uniforme_completude">Integridad de la obra</str>
+<str key="search_extended_titre_uniforme_public">Público objetivo de la obra</str>
+<str key="search_extended_titre_uniforme_histoire">Historia de la obra</str>
+<str key="search_extended_titre_uniforme_contexte">Contexto de la obra</str>
+<str key="search_extended_titre_uniforme_distrib">Distribución instrumental y vocal de la obra</str>
+<str key="search_extended_titre_uniforme_ref_num">Referéncia númerica de la obra</str>
+<str key="search_extended_titre_uniforme_tonalite">Tonalidad (Entrada libre) de la obra</str>
+<str key="search_extended_titre_uniforme_tonalite_marclist">Tonalida (Lista) de la obra</str>
+<str key="search_extended_titre_uniforme_coords">Coordenadas (obra cartográfica)</str>
+<str key="search_extended_titre_uniforme_equinoxe">Equinocio (obra cartográfica)</str>
+<str key="search_extended_titre_uniforme_subdiv_forme">Subdivisión de forma(obra)</str>
+<str key="search_extended_titre_uniforme_caracteristiques">Características de la obra</str>
+<str key="search_extended_titre_uniforme_comment">Comentario de la obra</str>
+<str key="search_extended_titre_uniforme_concepts">Conceptos de la obra</str>
+<str key="search_extended_titre_uniforme_aut_link">Autoridades relacionadas de la obra</str>
+<str key="search_extended_titre_uniforme_statut">Estado de la obra</str>
+<str key="search_extended_indexint">Indexaciones decimales</str>
+<str key="search_extended_indexint_label">Etiqueta del índice decimal</str>
+<str key="search_extended_indexint_comment">Comentario índice decimal</str>
+<str key="search_extended_indexint_concepts">Conceptos del índice decimal</str>
+<str key="search_extended_indexint_aut_link">Autoridades relacionadas del índice decimal</str>
+<str key="search_extended_indexint_statut">Estado del índice decimal</str>
+<str key="search_custom_author">Personalizados de autores</str>
+<str key="search_custom_categ">Personalizados de las categorías</str>
+<str key="search_custom_publisher">Personalizados de las editoriales</str>
+<str key="search_custom_collection">Personalizados de las colecciones</str>
+<str key="search_custom_subcollection">Personalizados de las subcolecciones</str>
+<str key="search_custom_serie">Personalizados de las series</str>
+<str key="search_custom_tu">Personalizados de los títulos uniformes</str>
+<str key="search_custom_indexint">Personalizados de las indexaciones decimales</str>
+<str key="search_extended_skos_concepts_notation">Notación</str>
+<str key="search_extended_skos_concepts_note">Nota</str>
+<str key="search_extended_skos_concepts_change_note">Nota modificada</str>
+<str key="search_extended_skos_concepts_definition">Definición</str>
+<str key="search_extended_skos_concepts_editorial_note">Nota editorial</str>
+<str key="search_extended_skos_concepts_example">Ejemplo</str>
+<str key="search_extended_skos_concepts_history_note">Nota histórica</str>
+<str key="search_extended_skos_concepts_scope_note">Nota de aplicación</str>
+<str key="search_extended_author_concepts_autopostage">Publicación automática de conceptos del autor </str>
+<str key="search_extended_category_concepts_autopostage">Publicación automática de conceptos de la categoría</str>
+<str key="search_extended_publisher_concepts_autopostage">Publicación automática de conceptos de la editorial</str>
+<str key="search_extended_collection_concepts_autopostage">Publicación automática de conceptos de la colección</str>
+<str key="search_extended_subcollection_concepts_autopostage">Publicación automática de conceptos de la subcolección</str>
+<str key="search_extended_titre_uniforme_concepts_autopostage">Publicación automática de conceptos del título uniforme</str>
+<str key="search_extended_serie_concepts_autopostage">Publicación automática de conceptos de la serie</str>
+<str key="search_extended_indexint_concepts_autopostage">Publicación automática de conceptos de la indexación decimal</str>
+<str key="search_extended_skos_concepts_autoposted">Conceptos auto-publicados</str>
+<str key="search_extended_subcollection_publisher">Editorial de las subcolección</str>
+<str key="search_extended_skos_concept">Conceptos</str>
+<str key="search_extended_skos_concepts_preflabel">Etiqueta del concepto</str>
+<str key="search_extended_skos_concepts_scheme">Esquema del concepto</str>
+<str key="search_extended_common">Comunes</str>
+<str key="search_extended_common_statut">Estado de la autoridad</str>
+<str key="search_extended_titre_uniforme_responsability_qualification">Calificación del autor de la obra </str>
+<str key="search_extended_titre_uniforme_qualified_author">Autor calificado de la obra </str>
+<str key="search_extended_titre_uniforme_qualified_interpreter">Intéprete calificado de la obra</str>
+<str key="search_extended_publisher_supplier">Proveedor vinculado al editor </str>
+<str key="search_extended_lonely_fields">Otros</str>
+<str key="search_extended_titre_uniforme_interpreter">Intérprete de la obra</str>
+<str key="search_extended_category_thesaurus">Tesauro</str>
+<str key="search_extended_concept_statut">Estado del concepto</str>
+<str key="search_extended_indexint_pclassement">Plan de clasificación de indexación decimal</str>
+<str key="search_extended_authorities_found"> autoridad(es) encontrada(s).</str>
+<str key="authorities_found">autoridad(es) encontrada(s) por la búsqueda</str>
+<str key="search_autority_contributor">Contribuidor de la autoridad</str>
+<str key="search_item_creator">Creador del ejemplo</str>
+<str key="search_author_creator">Creador del autor</str>
+<str key="search_category_creator">Creador de la categoría</str>
+<str key="search_publisher_creator">Creador de la editorial</str>
+<str key="search_coll_creator">Creador de la colección</str>
+<str key="search_subcoll_creator">Creador de la subcolección</str>
+<str key="search_serie_creator">Creador de la serie</str>
+<str key="search_tu_creator">Creador del título uniforme</str>
+<str key="search_indexint_creator">Creador de la indexación decimal</str>
+<str key="search_extended_authorities_all_fields">Todos los campos</str>
+<str key="search_segment_new_search">Búsqueda :</str>
+<str key="bannette_unsubscribe_confirm">Debe hacer clic en este enlace para confirmar su cancelación de suscripción. .</str>
+<str key="bannette_unsubscribe_confirmed">Cancelación de la subscripción confirmada.</str>
+<str key="facette_reset_all">Búsqueda inicial</str>
+<str key="facette_reset">Desmarcar todas las facetas</str>
+<str key="connecteurs_search_simple"><![CDATA[Puede iniciar una búsqueda en uno o más campos o <a href='%s'> hacer una búsqueda simple</a>]]></str>
+<str key="empr_menu_pnb_loan">Mis préstamos electrónicos</str>
+<str key="empr_menu_pnb_loan_list">Mis préstamos en curso</str>
+<str key="empr_menu_pnb_devices">Mis periféricos de lectura</str>
+<str key="empr_pnb_loan_not_activate">El préstamo electrónico ya está activado</str>
+<str key="empr_pnb_devices_list">Periféricos disponibles</str>
+<str key="126">Masculino</str>
+<str key="127">Femenino</str>
+<str key="128">No indicado</str>
+<str key="empr_pnb_current_loans_list">Préstamos electrónicos en curso</str>
+<str key="empr_pnb_no_current_loans">Ningún préstamo electrónico en curso</str>
+<str js="search" key="results">resultado(s)</str>
+<str key="empr_menu_pnb_parameters">Parámetros</str>
+<str key="empr_pnb_parameters_hint">Pista de la contraseña</str>
+<str key="empr_pnb_parameters_password">Contraseña</str>
+<str key="pnb_digital_expl">Exemplar electrónico</str>
+<str key="empr_pnb_choose_device">Elija un periférico de lectura</str>
+<str key="pnb_loan_failed">El préstamo falló</str>
+<str key="pnb_loan_succeed">Documento prestado correctamente</str>
+<str key="notice_is_numeric_search">Electrónico</str>
+<str key="dsi_priv_form_date_used_to_calc">Fecha de registro utilizada para calcular la novedad </str>
+<str key="dsi_ban_update_type_c">Fecha de creación</str>
+<str key="dsi_ban_update_type_u">Fecha de actualización </str>
+<str key="dsi_bannette_gerer_date_used_to_calc">Fecha de uso</str>
+<str key="combine_extended_search">Búsqueda multicriterio</str>
+<str key="search_history_combine">Combinar las búsquedas seleccionadas</str>
+<str key="empr_pnb_loan_extend">Prolongar</str>
+<str key="empr_pnb_loan_redownload">Descargar de nuevo</str>
+<str key="pnb_loan_already_borrowed">Ya ha tomado prestado este documento </str>
+<str key="ontology_skos_concept">Conceptos</str>
+<str js="history" key="show_history_check_all">Seleccionar todo</str>
+<str js="history" key="show_history_uncheck_all">Deseleccionar todo</str>
+<str js="sort" key="show_sort_check_all">Seleccionar todor</str>
+<str js="sort" key="show_sort_uncheck_all">Deseleccionar todo</str>
+<str key="search_universe_history">Universo "%s" : Búsqueda "%s"</str>
+<str key="search_segment_history">Segmento "%s" : %s</str>
+<str key="search_segment_all_fields">Todos los campos del segmento</str>
+<str key="perso_select">Selección %s</str>
+<str key="reset">Reiniciar</str>
+<str key="facette_reset_one">Deseleccionar el criterio</str>
+<str key="facette_reset_all">Deseleccionar todos los criterios</str>
+<str key="notice_preview_close">Cerrar la ventana</str>
+<str key="close">Ventana</str>
+<str key="disable_this_filter">Deseleccionar el filtro</str>
+<str key="writing_area">Zone de notas</str>
+<str key="expand">Expandir</str>
+<str key="expandall">Expandir todo</str>
+<str key="collapse">Replegar</str>
+<str key="collapseall">Replegar todo</str>
+<str key="onto_contribution_mandatory_field">Campo obligatorio</str>
+<str key="search_universe_new_search">Nueva búsqueda dentro : </str>
+<str key="search_segment_refine_search">Afinar</str>
+<str key="aut_link_concept">[Concepto] %1s</str>
+<str key="search_perso_menu">Predefinida</str>
+<str key="search_perso_title">Búsqueda predefinidas > Todas las búsquedas</str>
+<str key="search_perso_list_title">Todas las búsquedas</str>
+<str key="search_perso_list">Lista de búsquedas predefinidas</str>
+<str key="search_perso_table_preflink">Atajo</str>
+<str key="search_perso_table_name">Nombre</str>
+<str key="search_perso_table_shortname">Nombre corto</str>
+<str key="search_perso_table_humanquery">Búsqueda</str>
+<str key="search_perso_table_edit">Editar</str>
+<str key="search_perso_add">Añadir</str>
+<str key="search_perso_save">Almacenar en búsqueda predefinida </str>
+<str key="search_perso_modifier">Modificar</str>
+<str key="search_perso_form_title">Búsqueda predefinida</str>
+<str key="search_perso_form_add">Añadir la búsqueda predefinida </str>
+<str key="search_perso_form_edit">Editar la búsqueda predefinida</str>
+<str key="search_perso_form_annuler">Cancelar</str>
+<str key="search_perso_form_save">Guardar</str>
+<str key="search_perso_form_delete">Suprimir</str>
+<str key="search_perso_form_name_empty">El nombre de la búsqueda está vacio.</str>
+<str key="search_perso_form_name">Nombre</str>
+<str key="search_perso_form_shortname">Atajo de nombre</str>
+<str key="search_perso_form_direct_search">Activo en la barra de búsqueda </str>
+<str key="search_perso_form_add_error">Error al guardar la búsqueda</str>
+<str key="confirm_suppr">¿ Confirma la eliminación ?  </str>
+<str key="search_perso_form_autorisations">Autorizaciones concedidas a :</str>
+<str key="search_perso_form_comment">Comentario</str>
+<str key="tout_cocher_checkbox">Seleccionar todo</str>
+<str key="tout_decocher_checkbox">Deseleccionar todo</str>
+<str key="message_unload_page">Al cerrar esta página, perderá los cambios realizados. </str>
+<str key="155">Su entrada también puede ser una </str>
+<str key="1900">Ayuda</str>
+<str key="1901"> : </str>
+<str key="1902">Expresiones booleanas </str>
+<str key="1550">Expresión booleana.</str>
+<str js="selector" key="selector_tab_simple_search">Búsqueda simple</str>
+<str js="selector" key="selector_tab_advanced_search">Búsqueda multicriterio</str>
+<str js="selector" key="selector_tab_add">Añadir</str>
+<str js="selector" key="selector_tab_results">Resultados</str>
+<str js="selector" key="selector_tab_hierarchical_search">Búsqueda jerárquica</str>
+<str js="selector" key="selector_tab_terms_search">Búsqueda por palabras</str>
+<str js="selector" key="selector_tab_indexation_auto">Indexación automática</str>
+<str js="selector" key="selector_tab_search_concept">Búsqueda por conceptos</str>
+<str js="selector" key="selector_tab_linked_concept">Concepto(s) asociado(s)</str>
+<str key="authorities">Autoridades</str>
+<str key="authorities_statut_label">Estado</str>
+<str key="searcher_all_status">Todos los estados</str>
+<str key="searcher_results">%s resultado(s)</str>
+<str key="48">Página anterior</str>
+<str key="49">Página siguiente</str>
+<str key="searcher_all_types">Todos los tipos</str>
+<str key="search_authorities">Todas las autoridades</str>
+<str key="333">Títulos de serie</str>
+<str key="354">Autor/título</str>
+<str key="356">Editorial/colección</str>
+<str key="search_categorie_title">Categoría</str>
+<str key="17">Tipos de documento</str>
+<str key="noti_statut_noti">Estado del registro</str>
+<str key="notice_id_libelle">Identificador del registro :</str>
+<str key="103">Etiqueta</str>
+<str key="searcher_all_schemes">Todos los esquemas</str>
+<str key="resa_loc_retrait">Lugar de recogida</str>
+<str key="resa_empr_location">Localización del lector</str>
+<str key="authentification_page_mandatory">Debe autenticarte para acceder a esta página: </str>
+<str key="serialcirc_ask_saved_success">Su solicitud se ha registrado.</str>
+<str key="serialcirc_ask_saved_failed">Se ha producido un error al registrar su solicitud.</str>
+<str key="scan_request_location">Localización</str>
+<str key="group_prolonge_pret">Prolongar los préstamos</str>
+<str key="group_prolonge_pret_date_title">Fecha de prolongación</str>
+<str js="empr" key="group_prolonge_pret_no_date">Debe seleccionar una fecha de prolongación.</str>
+<str js="empr" key="group_prolonge_pret_confirm">¿ Confirma la prolongación de los préstamos para los miembros del grupo ?</str>
+<str key="print_validate">Validar</str>
+<str js="carto" key="carto_search_radius">Búsqueda dentro de un radio</str>
+<str js="carto" key="carto_km">Km</str>
+<str key="search_extended_map_circle">Alrededor del punto :</str>
+<str key="search_extended_map_circle_center">Centro(long,lat): </str>
+<str key="search_extended_map_circle_radius">Radio(km): </str>
+<str key="list_lecture_add_list">Crear una nueva lista</str>
+<str key="list_lecture_no_classement">--</str>
+<str key="173">Colecciones encontradas bajo la clave</str>
+<str key="empr_sugg_verifcode">Código de verificación :</str>
+<str key="empr_sugg_wrongcode">¡ El código de verificación no es válido !</str>
+<str key="entrepot_notice_docnum">Documentos electrónicos</str> 
+<str key="dsi_bannette_priv">Mis alertas personalizadas</str>
+<str key="dsi_bannette_pub">Mis alertas</str>
+<str key="dsi_bannette_priv_no_alerts">No ha creado una alerta personalizada.</str>
+<str key="dsi_bannette_pub_no_alerts">Ninguna alerta disponible.</str>
+<str key="dsi_bannette_no_newrecord">Ninguna novedad a añadir.</str>
+<str key="subs_pb_tags"><![CDATA[<h3>¡ No es posible validar su inscripción !</h3><br /><span class='erreur'>Les champs de saisie ne doivent pas contenir de tags HTML</span>]]></str>
+<str key="selector_keyword">Seleccionar un tag</str>
+<str key="less_than_days_query">Hay menos de</str>
+<str key="more_than_days_query">Hay más de</str>
+<str key="days">día(s)</str>
+<str key="this_week_query">Esta semana</str>
+<str key="last_week_query">La semana pasada</str>
+<str key="this_month_query">Este mes</str>
+<str key="last_month_query">El mes pasado</str>
+<str key="this_year_query">Este año</str>
+<str key="empr_change_profil">Modificar el perfil</str>
+<str key="profil_id_empr">Nombre de usuario</str>
+<str key="profil_empr_nom">Apellido</str>
+<str key="profil_empr_prenom">Nombre</str>
+<str key="profil_empr_login">Login</str>
+<str key="profil_empr_prenom">Nombre</str>
+<str key="profil_empr_adr1">Dirección (línea 1)</str>
+<str key="profil_empr_adr2">Dirección (línea 2)</str>
+<str key="profil_empr_cp">CP</str>
+<str key="profil_empr_ville">Municipio</str>
+<str key="profil_empr_pays">Pais</str>
+<str key="profil_empr_mail">Correo electrónico</str>
+<str key="profil_empr_tel1">Teléfono</str>
+<str key="profil_empr_tel2">Otro teléfono</str>
+<str key="profil_empr_prof">Profesión</str>
+<str key="profil_empr_year">Fecha de nacimiento</str>
+<str key="profil_empr_categ">Categoría</str>
+<str key="profil_empr_codestat">Código estadístico</str>
+<str key="profil_empr_sexe">Sexo</str>
+<str key="profil_empr_login">Identificador OPAC</str>
+<str key="profil_empr_lang">Idioma OPAC</str>
+<str key="profil_empr_location">Localización</str>
+<str key="profil_empr_sexe_m">Masculino</str>
+<str key="profil_empr_sexe_f">Femenino</str>
+<str key="profil_empr_sexe_o">No especficado</str>
+<str key="sauv_misc_running">Guardando los cambios...</str>
+<str key="onto_error_too_long_value_small_text">%s : Este campo no puede superar los 512 caracteres.</str>
+<str key="empr_renewal">Subscribirse de nuevo</str>
+<str key="empr_renewal_success">Su suscripción se ha extendido hasta  %s</str>
+<str key="subs_pb_invalid_login"><![CDATA[<h3> ¡ No es posible registrarse con este nombre de usuario  !</h3><br /><span class='erreur'>L'identifiant !!f_login!! est invalide, un autre vous est proposé, saisissez de nouveau votre mot de passe ainsi que le code et validez</span><br />]]></str>
+<str key="empr_delete_account">Eliminar la cuenta</str>
+<str key="delete_account_running">Eliminando la cuenta...</str>
+<str key="empr_confirm_deleting_account">¿ Desea suprimir su cuenta ?</str>
+<str key="autorite_suppr_categ_forcage_button">Forzar la supresión</str>
+<str js="opac" key="list_lecture_no_ck">¡ Debe seleccionar al menos un registro !</str>
+<str key="liste_lecture_create_date">Fecha de creación</str>
+<str key="subs_f_consent_message">Acepto el almacenamiento y uso con fines no comerciales de mis datos personales. </str>
+<str key="subs_form_consent_message_mandatory">¡ Debe aceptar la conservación de tus datos !</str>
+<str key="empr_account_recall_activation">Aún no ha confirmado su registro. Valide su cuenta utilizando el correo electrónico de confirmación. ¿Reenviar email? </str>
+<str key="cms_module_charte_accept_button">He leido y aceptado las condiciones</str>
+<str key="dsi_bannette_no_equation">Ninguna ecuación de búsqueda asociada</str>
+<str key="nomenclature_search_nomenclature_abbreviation">Todos los instrumentos</str>
+<str key="nomenclature_search_nomenclature_abbreviation_bois">Todas las maderas</str>
+<str key="nomenclature_search_nomenclature_abbreviation_cuivres">Todo el metal</str>
+<str key="nomenclature_search_nomenclature_abbreviation_percussions">Toda la percursión</str>
+<str key="nomenclature_search_nomenclature_abbreviation_cordes">Todas las cuerdas</str>
+<str key="nomenclature_search_instruments_no_standard">Instrumentos no estándar</str>
+<str key="nomenclature_search_instruments_workshop">Instrumentos de taller</str>
+<str key="noteq_query"><![CDATA[!=]]></str>
+<str key="nomenclature_search">Nomenclatura</str>
+<str key="nomenclature_search_formations">Formación</str>
+<str key="nomenclature_search_types">Tipo de formación</str>
+<str key="nomenclature_search_formation_label">Nombre de formación</str>
+<str key="nomenclature_search_workshop_label">Nombre del taller</str>
+<str key="nomenclature_search_nomenclature_notes">Notas</str>
+<str key="cms_module_common_datasource_desc_last_update_sql_date">Fecha de la última actualización (Formato SQL)</str>
+<str key="empr_msg">Mensaje</str>
+<str key="error_template">Error en la plantilla</str>
+<str key="facette_delete_one">Suprimir</str>
+<str key="authperso_sel_title">Selección de la autoridad</str>
+<str key="parperso_option_duration_begin">Entre</str>
+<str key="parperso_option_duration_end">y</str>
+<str key="script_analytics_button_dnt_confirm">Aceptar</str>
+<str key="search_extended_record_qualified_author">Autor calificado del registro</str>
+<str key="notice_vedette_composee_author">Calificación</str>
+<str key="tu_authors_list">Autores</str>
+<str key="empr_no_loan_old">Ningún préstamo anterior</str>
+<str key="cms_module_common_datasource_desc_last_update_sql_date">Fecha de la última actualización (Format SQL)</str>
+<str key="cms_module_charte_accept_button">He entendido</str>
+<str key="contact_form_object_other">Entrada libre del asunto</str>
+<str key="contact_form_object_free_entry">Introduzca el asunto de su mensaje :</str>
+<str key="contact_form_parameter_attachments">Unirse :</str>
+<str key="empr_groups_comments">Mensaje de grupo</str>
+<str key="search_universe_id">Identificador</str>
+<str key="search_universe_url">Enlace permanente</str>
+<str key="search_segment_id">Identificador</str>
+<str key="search_segment_url">Enlace permanente</str>
+<str key="empr_view_sugg_detail">Detalle de la sugerencia</str>
+<str key="empr_change_password_form_empty">La contraseña no puede estar vacía .</str>
+<str key="empr_password_bad_security">La contraseña no es lo suficientemente segura .</str>
+<str key="scan_request_nb_scanned_pages">Número de páginas escaneadas </str>
+<str key="empr_old_password">Introduzca su contraseña actual  :</str>
+<str key="empr_old_password_wrong">La contraseña actual no es correcta.</str>
+<str key="pnb_not_allowed">El préstamo electrónico no está autorizado para este lector.</str>
+<str key="show_cart_more_actions">Otras acciones</str>
+<str key="contact_form_error_email_adress">Debe introducir una dirección de correo electrónico válida. </str>
+<str key="articles">artículos</str>
+<str key="bulletin_nb_articles">Número de artículos</str>
 
-<str code="list_lecture_allow_add_records">Autorizar la creación de registros </str>
-<str code="list_lecture_allow_remove_records">Autorizar la supresión de registros </str>
-<str code="dsi_bannette_cancel">Cancelar</str>
-<str code="dsi_bannette_edit_cancel">Cancelar la modificación en curso</str>
-<str code="search_custom_explnum">Personalizados de documentos electrónicos</str>
-<str code="onto_contribution_fonction_author">Debe seleccionar una función</str>
-<str code="ontology_p_edit_button">Modificar</str>
-<str js="selector" code="selector_tab_selection_validate">Validar la selección</str>
-<str code="print_email_sender_mandatory">Se requiere introducir la dirección del remitente .</str>
-<str code="contribution_resize_button">Redimensionar</str>
-<str code="contribution_zoom_in_button">Aumentar zoom</str>
-<str code="contribution_zoom_out_button">Disminuir zoom</str>
-<str code="ontology_p_find_button">Buscar</str>
-<str js="pnb" code="pnb_confirm_loan">Está a punto de pedir prestado un documento electrónico.
+<str key="list_lecture_allow_add_records">Autorizar la creación de registros </str>
+<str key="list_lecture_allow_remove_records">Autorizar la supresión de registros </str>
+<str key="dsi_bannette_cancel">Cancelar</str>
+<str key="dsi_bannette_edit_cancel">Cancelar la modificación en curso</str>
+<str key="search_custom_explnum">Personalizados de documentos electrónicos</str>
+<str key="onto_contribution_fonction_author">Debe seleccionar una función</str>
+<str key="ontology_p_edit_button">Modificar</str>
+<str js="selector" key="selector_tab_selection_validate">Validar la selección</str>
+<str key="print_email_sender_mandatory">Se requiere introducir la dirección del remitente .</str>
+<str key="contribution_resize_button">Redimensionar</str>
+<str key="contribution_zoom_in_button">Aumentar zoom</str>
+<str key="contribution_zoom_out_button">Disminuir zoom</str>
+<str key="ontology_p_find_button">Buscar</str>
+<str js="pnb" key="pnb_confirm_loan">Está a punto de pedir prestado un documento electrónico.
 ¿ Está seguro de que quiere continuar ? </str>
-<str code="tous_types_docs">Todos los tipos de documentos</str>
-<str code="tous_statuts_notice">Todos los estados</str>
-<str code="select_search_tab_contribution">mis contribuciones propuestas </str>
-<str code="select_search_tab_fond">fondos validados</str>
-<str code="select_search_tab_title">Mostrar búsqueda en: </str>
-<str code="connecteurs_source_available_in_line">Disponible en línea</str>
-<str js="contribution" code="search_result_tab_fond">Resultados en el fondo validado (%s resultado (s)) </str>
-<str js="contribution" code="search_result_tab_title">Resultados en mis contribuciones propuestas (%s resultado (s)) </str>
-<str js="contribution" code="onto_contribution_push_confirm_multiple">¿Está seguro de que desea validar estas contribuciones? </str>
-<str js="contribution" code="onto_contribution_delete_confirm_multiple">¿Está seguro de que desea eliminar estas contribuciones? </str>
-<str js="contribution" code="onto_contribution_not_selected">No se ha seleccionado ninguna contribución </str>
-<str js="selector" code="selector_tab_edit">Modificar</str>
-<str js="contribution" code="onto_contribution_input_title">Puede copiar el texto seleccionándolo pero no puede editarlo .</str>
-<str js="contribution" code="onto_contribution_form_inprogress">Formulario solo en consulta, se está modificando un subformulario </str>
-<str code="onto_contribution_thanks">Gracias por sus aportaciones .</str>
-<str code="onto_contribution_action_selected">Acciones de selección </str>
-<str code="list_applied_sort">Ordenar</str>
-<str code="mdp_txt_multiple_accounts">Varias cuentas están asociadas a esta dirección de correo electrónico. Seleccione el destinatario del envío. </str>
-<str code="check_uncheck">Seleccionar todo/deseleccionar todo</str>
-<str code="empr_menu_contribution_area_list_draft">En curso</str>
-<str code="contribution_save_button_draft">Guardar</str>
-<str js="contribution" code="contribution_save_done">Borrador guardado</str>
-<str js="contribution" code="contribution_save_not_done">Se ha producido un problema al guardar</str>
-<str code="contribution_save_button_draft_time">Guardado por última vez el %d a las %h</str>
-<str js="contribution" code="contribution_save_button_draft_time">Guardado por última vez el %d a las %h</str>
-<str code="contribution_draft_name">Borrador sin etiqueta</str>
-<str js="contribution" code="contribution_save_impossible_draft">Valide todas las contribuciones vinculadas antes de guardar esta.</str>
-<str js="contribution" code="contribution_area_computed_fileds_error">%s no devolvió una respuesta </str>
-<str js="contribution" code="contribution_area_save_docnum_error">Seleccione el directorio de carga </str>
-<str js="contribution" code="contribution_draft_name_js">Borrador sin etiqueta</str>
-<str js="contribution" code="onto_contribution_return_button">Volver</str>
-<str code="onto_contribution_no_right_of_access">No tiene permiso de acceso </str>
-<str js="contribution" code="onto_contribution_group_action_impossible">No se puede realizar la acción solicitada </str>
-<str code="onto_contribution_check_information">La acción solicitada no se pudo realizar en algunas contribuciones </str>
-<str js="contribution" code="onto_contribution_draft_editing">en proceso de edición</str>
-<str js="contribution" code="onto_contribution_error_delete">No se puede eliminar, se ha producido un error. </str>
-<str code="searcher_all_natures">Todas las naturalezas </str>
-<str js="contribution" code="onto_contribution_last_file">Archivo actual: %s</str>
-<str code="profil_login_too_short_error">El identificador debe tener al menos 2 caracteres .</str>
-<str code="profil_login_pattern_error">El identificador debe estar en minúsculas, solo puede contener caracteres alfanuméricos así como los caracteres "-", "_" y "@". </str>
-<str code="profil_login_allready_used_error">Este identificador ya está en uso. </str>
-<str code="profil_login_disconnect_after_change">El nombre de usuario ha cambiado, deberá iniciar sesión nuevamente después de registrarse. </str>
-<str code="subs_mail_allready_used_error">Este correo electrónico ya está en uso. </str>
-<str js="opac" code="list_lecture_delete_subscriber">¿Está seguro de que desea eliminar el acceso a la lista de este usuario? </str>
-<str code="subs_mail_error">Correo electrónico no válido.</str>
-<str js="contribution" code="save_in_progress">Registro en curso</str>
-<str code="aut_responsability_form_responsability_authperso">Responsabilidades</str>
-<str code="aut_responsability_authors">Autoridades : Responsabilidades</str>
+<str key="tous_types_docs">Todos los tipos de documentos</str>
+<str key="tous_statuts_notice">Todos los estados</str>
+<str key="select_search_tab_contribution">mis contribuciones propuestas </str>
+<str key="select_search_tab_fond">fondos validados</str>
+<str key="select_search_tab_title">Mostrar búsqueda en: </str>
+<str key="connecteurs_source_available_in_line">Disponible en línea</str>
+<str js="contribution" key="search_result_tab_fond">Resultados en el fondo validado (%s resultado (s)) </str>
+<str js="contribution" key="search_result_tab_title">Resultados en mis contribuciones propuestas (%s resultado (s)) </str>
+<str js="contribution" key="onto_contribution_push_confirm_multiple">¿Está seguro de que desea validar estas contribuciones? </str>
+<str js="contribution" key="onto_contribution_delete_confirm_multiple">¿Está seguro de que desea eliminar estas contribuciones? </str>
+<str js="contribution" key="onto_contribution_not_selected">No se ha seleccionado ninguna contribución </str>
+<str js="selector" key="selector_tab_edit">Modificar</str>
+<str js="contribution" key="onto_contribution_input_title">Puede copiar el texto seleccionándolo pero no puede editarlo .</str>
+<str js="contribution" key="onto_contribution_form_inprogress">Formulario solo en consulta, se está modificando un subformulario </str>
+<str key="onto_contribution_thanks">Gracias por sus aportaciones .</str>
+<str key="onto_contribution_action_selected">Acciones de selección </str>
+<str key="list_applied_sort">Ordenar</str>
+<str key="mdp_txt_multiple_accounts">Varias cuentas están asociadas a esta dirección de correo electrónico. Seleccione el destinatario del envío. </str>
+<str key="check_uncheck">Seleccionar todo/deseleccionar todo</str>
+<str key="empr_menu_contribution_area_list_draft">En curso</str>
+<str key="contribution_save_button_draft">Guardar</str>
+<str js="contribution" key="contribution_save_done">Borrador guardado</str>
+<str js="contribution" key="contribution_save_not_done">Se ha producido un problema al guardar</str>
+<str key="contribution_save_button_draft_time">Guardado por última vez el %d a las %h</str>
+<str js="contribution" key="contribution_save_button_draft_time">Guardado por última vez el %d a las %h</str>
+<str key="contribution_draft_name">Borrador sin etiqueta</str>
+<str js="contribution" key="contribution_save_impossible_draft">Valide todas las contribuciones vinculadas antes de guardar esta.</str>
+<str js="contribution" key="contribution_area_computed_fileds_error">%s no devolvió una respuesta </str>
+<str js="contribution" key="contribution_area_save_docnum_error">Seleccione el directorio de carga </str>
+<str js="contribution" key="contribution_draft_name_js">Borrador sin etiqueta</str>
+<str js="contribution" key="onto_contribution_return_button">Volver</str>
+<str key="onto_contribution_no_right_of_access">No tiene permiso de acceso </str>
+<str js="contribution" key="onto_contribution_group_action_impossible">No se puede realizar la acción solicitada </str>
+<str key="onto_contribution_check_information">La acción solicitada no se pudo realizar en algunas contribuciones </str>
+<str js="contribution" key="onto_contribution_draft_editing">en proceso de edición</str>
+<str js="contribution" key="onto_contribution_error_delete">No se puede eliminar, se ha producido un error. </str>
+<str key="searcher_all_natures">Todas las naturalezas </str>
+<str js="contribution" key="onto_contribution_last_file">Archivo actual: %s</str>
+<str key="profil_login_too_short_error">El identificador debe tener al menos 2 caracteres .</str>
+<str key="profil_login_pattern_error">El identificador debe estar en minúsculas, solo puede contener caracteres alfanuméricos así como los caracteres "-", "_" y "@". </str>
+<str key="profil_login_allready_used_error">Este identificador ya está en uso. </str>
+<str key="profil_login_disconnect_after_change">El nombre de usuario ha cambiado, deberá iniciar sesión nuevamente después de registrarse. </str>
+<str key="subs_mail_allready_used_error">Este correo electrónico ya está en uso. </str>
+<str js="opac" key="list_lecture_delete_subscriber">¿Está seguro de que desea eliminar el acceso a la lista de este usuario? </str>
+<str key="subs_mail_error">Correo electrónico no válido.</str>
+<str js="contribution" key="save_in_progress">Registro en curso</str>
+<str key="aut_responsability_form_responsability_authperso">Responsabilidades</str>
+<str key="aut_responsability_authors">Autoridades : Responsabilidades</str>
 
 </root>
