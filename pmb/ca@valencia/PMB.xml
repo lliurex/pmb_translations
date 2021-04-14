@@ -1,6 +1,4 @@
 <root>
-<!--PMB -->
-<!-- LLIUREX 22/03/2021 -->
 <entry code="chklnk_choix_caddie_vign">Añadir los registros cuyo enlace está roto a la cesta: </entry>
 <entry code="chklnk_choix_caddie_autaut">Añadir los autores cuyo enlace está roto a la cesta: </entry>
 <entry code="chklnk_choix_caddie_autpub">Añadir las editoriales cuyo enlace está roto a la cesta: </entry>
@@ -883,10 +881,6 @@
 <entry code="aut_responsability_form_responsability_authperso">Responsabilidades</entry>
 <entry code="etagere_caddie_filters">¿ Filtros ?</entry>
 <entry code="aut_responsability_authors">Autoridades : Responsabilidades</entry>
-
-<!-- FIN PMB-->
-<!-- OPAC -->
-<!--LLIUREX 24/03/2021-->
 
 <entry code="notice_basket_remove">Retirar de su cesta</entry>
 <entry code="parperso_date_flottante">Fecha flotante</entry>
