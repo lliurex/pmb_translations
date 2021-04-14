@@ -1,2 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root></root>
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <str key="es_user_auth_none">No</str>
+  <str key="planificateur_task_statut_active">Activat</str>
+  <str key="list_ui_settings_columns_text_normal">Normal</str>
+  <str key="list_ui_settings_columns_visible_0">No</str>
+  <str key="list_ui_settings_filters_visible_0">No</str>
+  <str key="profil_empr_login">Inici de sessió</str>
+</root>
