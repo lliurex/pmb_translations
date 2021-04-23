@@ -43,7 +43,7 @@ Segur que voleu continuar? </str>
   <str key="dsi_bannette_pub">Les meues alertes</str>
   <str key="onto_contribution_action_selected">Accions de selecció </str>
   <str key="mdp_txt_multiple_accounts">Diversos comptes estan associats a aquesta adreça de correu electrònic. Seleccioneu el destinatari de l'enviament. </str>
-  <str key="check_uncheck">Seleccionar-ho tot / Deseleccionar-ho tot</str>
+  <str key="check_uncheck">Selecciona-ho tot / Deselecciona-ho tot</str>
   <str key="empr_menu_contribution_area_list_draft">En curs</str>
   <str key="contribution_save_button_draft">Guarda</str>
   <str js="contribution" key="contribution_save_done">Esborrany guardat</str>
