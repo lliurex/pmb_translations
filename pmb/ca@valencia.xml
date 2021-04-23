@@ -1,9 +1,1265 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <root>
   <str key="es_user_auth_none">No</str>
-  <str key="planificateur_task_statut_active">Activat</str>
+  <str key="planificateur_task_statut_active">Actiu</str>
   <str key="list_ui_settings_columns_text_normal">Normal</str>
   <str key="list_ui_settings_columns_visible_0">No</str>
   <str key="list_ui_settings_filters_visible_0">No</str>
-  <str key="profil_empr_login">Inici de sessió</str>
+  <str key="profil_empr_login">Identificador OPAC</str>
+  <str key="chklnk_choix_caddie_autaut">Afig els autors amb l'enllaç trencat a la cistella: </str>
+  <str key="chklnk_choix_caddie_autsco">Afigr les subcol·leccions amb l'enllaç trencat a la cistella: </str>
+  <str key="template_content">Plantilla</str>
+  <str key="empr_group_responsable"> (Responsable)</str>
+  <str key="list_label">Etiqueta </str>
+  <str js="search_universes" key="search_segment_facet">Faceta</str>
+  <str key="admin_pnb_drm_parameters_prolonge">Prolongable</str>
+  <str key="editions_datasource_explnum_thumbnail_url">URL de la miniatura</str>
+  <str key="transaction_payment_method_list_libelle">Etiqueta</str>
+  <str key="empr_renewal_form_alterable">Editable</str>
+  <str key="docs_section_libelle_opac">Etiqueta en OPAC</str>
+  <str key="list_ui_settings_columns_text_italic">Cursiva</str>
+  <str key="list_ui_settings_columns_label">Etiqueta</str>
+  <str js="search_universes" key="search_universes_facet">Facetes</str>
+  <str key="admin_opac_contact_form_label">Etiqueta</str>
+  <str key="searcher_publisher">Editorial</str>
+  <str key="search_extended_publishers">Editorial</str>
+  <str key="search_extended_skos_concepts_note">Nota</str>
+  <str key="search_extended_skos_concepts_editorial_note">Nota editorial</str>
+  <str key="search_perso_menu">Predefinida</str>
+  <str key="103">Etiqueta</str>
+  <str key="nomenclature_search">Nomenclatura</str>
+  <str js="pnb" key="pnb_confirm_loan">Esteu a punt d'amprar un document electrònic.
+Segur que voleu continuar? </str>
+  <str key="clean_cache_temporary_files">Neteja la memòria cau d'arxius temporals </str>
+  <str key="lettres_mails_relance_groupe">Imprimeix / envia totes les cartes de seguiment dels grups seleccionats </str>
+  <str key="planificateur_alert_perio">La planificació de la periodicitat és incorrecta</str>
+  <str key="subs_form_consent_message_mandatory">Heu d'acceptar la conservació de les vostres dades</str>
+  <str js="selector" key="selector_tab_simple_search">Cerca simple</str>
+  <str key="campaigns_all">Totes</str>
+  <str js="chat" key="chat_close">Tanca el xat</str>
+  <str key="acquisition_frais_add_to_new_order_enabled">Activat</str>
+  <str key="empr_nb_prets_numeric_encours_query">Nombre de préstecs electrònics en curs</str>
+  <str js="selector" key="selector_tab_selection_validate">Valida la selecció</str>
+  <str key="dsi_bannette_pub">Les meues alertes</str>
+  <str key="onto_contribution_action_selected">Accions de selecció </str>
+  <str key="mdp_txt_multiple_accounts">Diversos comptes estan associats a aquesta adreça de correu electrònic. Seleccioneu el destinatari de l'enviament. </str>
+  <str key="check_uncheck">Seleccionar-ho tot / Deseleccionar-ho tot</str>
+  <str key="empr_menu_contribution_area_list_draft">En curs</str>
+  <str key="contribution_save_button_draft">Guarda</str>
+  <str js="contribution" key="contribution_save_done">Esborrany guardat</str>
+  <str js="contribution" key="contribution_save_not_done">S'ha produït un problema en guardar</str>
+  <str js="contribution" key="contribution_save_button_draft_time">Guardat per última vegada el %d a les %h</str>
+  <str key="contribution_draft_name">Esborrany sense etiqueta</str>
+  <str js="contribution" key="contribution_save_impossible_draft">Valideu totes les contribucions vinculades abans de guardar aquesta.</str>
+  <str js="contribution" key="contribution_area_computed_fileds_error">%s no va retornar una resposta </str>
+  <str js="contribution" key="contribution_area_save_docnum_error">Seleccioneu el directori de càrrega </str>
+  <str js="contribution" key="contribution_draft_name_js">Esborrany sense etiqueta</str>
+  <str js="contribution" key="onto_contribution_return_button">Arrere</str>
+  <str key="onto_contribution_no_right_of_access">No teniu permís d'accés </str>
+  <str js="selector" key="selector_tab_results">Resultats</str>
+  <str js="selector" key="selector_tab_hierarchical_search">Cerca jeràrquica</str>
+  <str js="selector" key="selector_tab_terms_search">Cerca per paraules</str>
+  <str js="selector" key="selector_tab_indexation_auto">Indexació automàtica</str>
+  <str js="selector" key="selector_tab_search_concept">Cerca per conceptes</str>
+  <str js="selector" key="selector_tab_linked_concept">Concepte(s) associat(s)</str>
+  <str key="planificateur_catalog_scheduler_chklnk">Comprovacions d'enllaços</str>
+  <str js="indexation" key="indexation_in_progress">Indexació en curs</str>
+  <str key="cms_clean_cache_img">Neteja la memòria cau d'imatges</str>
+  <str key="cms_clean_cache_confirm_img">Segur que voleu netejar la memòria cau d'imatges del portal?</str>
+  <str key="import_authorities_type_concept">Conceptes</str>
+  <str key="import_authorities_scheme">Selecciona l'esquema a utilitzar per als conceptes</str>
+  <str key="import_authorities_category_or_concept">Importació en categories o conceptes?</str>
+  <str key="import_authorities_grammar">Selecció de la gramàtica a utilitzar per als conceptes</str>
+  <str key="import_authorities_scheme_undefine">Detecció automàtica (recomanat per a RAMEAU)</str>
+  <str key="caddie_menu_action_transfert_to_location">Genera una transferència</str>
+  <str key="caddie_menu_action_transfert_to_location_select">Selecció d'una destinació</str>
+  <str key="caddie_menu_action_transfert_to_location_ok">Nombre de transferències generades</str>
+  <str key="caddie_menu_action_transfert_to_location_see">Mostra</str>
+  <str key="caddie_menu_action_transfert_to_location_nok">Nombre d'exemplars en transferències fallides</str>
+  <str key="caddie_menu_action_transfert_to_location_in_progress">Nombre d'exemplars en transferències ja actives</str>
+  <str key="list_ui_options_available_columns">Camps disponibles</str>
+  <str key="list_ui_options_selected_columns">Camps seleccionats</str>
+  <str key="template_id">Id</str>
+  <str key="template_name">Nom</str>
+  <str key="template_description">Descripció</str>
+  <str key="template_ajouter">Afig una plantilla</str>
+  <str key="template_modifier">Modifica la plantilla</str>
+  <str key="template_modifier_erreur">No és possible modificar la plantilla</str>
+  <str key="template_ajouter_erreur">No és possible afegir la plantilla</str>
+  <str key="chklnk_choix_caddie_autpub">Afig les editorials amb l'enllaç trencat a la cistella: </str>
+  <str key="chklnk_choix_caddie_autcol">Afig les col·leccions amb l'enllaç trencat a la cistella: </str>
+  <str key="chklnk_choix_caddie_vign">Afig els registres amb l'enllaç trencat a la cistella: </str>
+  <str key="chklnk_chk_authorities_thumbnail">Verifica els URL de les miniatures d'autoritat </str>
+  <str key="chklnk_authorities_thumbnail">Comprovació dels URL de les miniatures d'autoritat</str>
+  <str key="chklnk_choix_caddie_authorities_thumbnail">Afig les autoritats amb l'enllaç trencat a la cistella: </str>
+  <str js="selector" key="selector_tab_advanced_search">Cerca multicriteri</str>
+  <str js="selector" key="selector_tab_add">Afig</str>
+  <str key="import_authorities_grammar_none">Alguna</str>
+  <str key="template_nom_erreur">La plantilla ha de tindre almenys un nom</str>
+  <str key="template_insert">Insereix</str>
+  <str key="template_list_default">Plantilla per defecte</str>
+  <str key="frbr">FRBR</str>
+  <str key="modelling">Modelització</str>
+  <str key="param_frbr">FRBR</str>
+  <str key="param_modelling">Modelització</str>
+  <str key="admin_menu_abonnements_status">Estat</str>
+  <str key="docnum_statut_bulletinage_active">Actiu en butlletins</str>
+  <str key="caddie_menu_action_transfert_to_location_is_here">Nombre d'exemplars situats en aquesta destinació</str>
+  <str key="frbr_cataloging_itemslist_title">Llista d'entitats</str>
+  <str key="frbr_cataloging_graph_title">Gràfic</str>
+  <str key="frbr_cataloging_search_title">Cerca</str>
+  <str js="frbr" key="frbr_cataloging_edit_category">Edita una classificació</str>
+  <str js="frbr" key="frbr_cataloging_add_category">Afig una classificació</str>
+  <str js="frbr" key="frbr_cataloging_edit_datanode">Edita un conjunt de dades</str>
+  <str js="frbr" key="frbr_cataloging_add_datanode">Afig un conjunt de dades</str>
+  <str js="frbr" key="frbr_cataloging_confirm_datanode_delete">Voleu esborrar aquest conjunt de dades?</str>
+  <str js="frbr" key="frbr_cataloging_confirm_category_delete">Voleu esborrar aquesta classificació?</str>
+  <str key="frbr_cataloging_form_category_parent">Classificació pare</str>
+  <str key="frbr_cataloging_form_save">Guarda</str>
+  <str key="frbr_cataloging_form_delete">Suprimeix</str>
+  <str key="frbr_cataloging_form_rights">Permisos d'ús</str>
+  <str key="frbr_cataloging_form_comment">Descripció</str>
+  <str key="frbr_cataloging_schemes">Esquemes de catalogació</str>
+  <str key="frbr_cataloging_scheme_new">Nou esquema de catalogació</str>
+  <str key="frbr_cataloging_scheme_label">Etiqueta de l'esquema</str>
+  <str key="frbr_cataloging_scheme_entity">Entitat</str>
+  <str key="frbr_cataloging_scheme_linked_entity">Entitat relacionada</str>
+  <str key="frbr_cataloging_scheme_choose_entity">Selecciona una entitat</str>
+  <str key="frbr_cataloging_scheme_entity_link">Relació</str>
+  <str key="frbr_cataloging_scheme_entity_link_type">Tipus de relació</str>
+  <str key="frbr_cataloging_scheme_choose_entity_link">Selecciona una relació</str>
+  <str key="frbr_cataloging_scheme_choose_entity_link_type">Selecciona un tipus de relació</str>
+  <str key="frbr_cataloging_scheme_start_entity">Entitat d'inici</str>
+  <str key="frbr_cataloging_form_already_added">L'element ja existeix en la llista</str>
+  <str key="empr_do_pret_resa">Préstec de reserves comprovades</str>
+  <str key="empr_do_pret_refuse">Préstecs rebutjats</str>
+  <str key="empr_do_pret_refuse_forcage">Força els préstecs</str>
+  <str key="empr_do_pret_refuse_resa_not_valid">Reserva no vàlida</str>
+  <str key="group_prolonge_pret">Prolonga els préstecs</str>
+  <str js="empr" key="group_prolonge_pret_confirm">Confirmeu la prolongació dels préstecs per als membres del grup?</str>
+  <str key="group_prolonge_pret_date_title">Data de prolongació</str>
+  <str key="frbr_cataloging_form_label">Etiqueta </str>
+  <str js="empr" key="group_prolonge_pret_no_date">Seleccioneu una data de prolongació</str>
+  <str key="group_encaissement_trop_percu">Import restant no cobrat</str>
+  <str js="frbr" key="frbr_cataloging_list_title">Llista d'articles</str>
+  <str js="frbr" key="frbr_cataloging_link_an_entity">Vincula una entitat</str>
+  <str js="frbr" key="frbr_cataloging_link_no_link_possible">No és possible relacionar aquestes dues entitats</str>
+  <str js="frbr" key="frbr_cataloging_record">Registre</str>
+  <str js="frbr" key="frbr_cataloging_author">Autor/a</str>
+  <str js="frbr" key="frbr_cataloging_publisher">Editorial</str>
+  <str js="frbr" key="frbr_cataloging_collection">Col·lecció</str>
+  <str js="frbr" key="frbr_cataloging_subcollection">Subcol·lecció</str>
+  <str js="frbr" key="frbr_cataloging_serie">Sèrie</str>
+  <str js="frbr" key="frbr_cataloging_work">Títol uniforme</str>
+  <str js="frbr" key="frbr_cataloging_indexint">Indexació decimal</str>
+  <str js="frbr" key="frbr_cataloging_concept">Concepte</str>
+  <str js="frbr" key="frbr_cataloging_choice">Seleccioneu una entitat</str>
+  <str key="campaigns">Campanyes de correu electrònic</str>
+  <str key="campaigns_types">Tipus</str>
+  <str key="campaigns_labels">Etiquetes</str>
+  <str key="campaigns_dates">Dates</str>
+  <str key="campaigns_ui_form_title">Campanyes de correu</str>
+  <str key="campaign_type">Tipus</str>
+  <str key="campaign_type_relances">Recordatoris</str>
+  <str key="campaign_date">Data</str>
+  <str key="campaign_view_recipients_number">Nombre de destinataris</str>
+  <str key="campaign_view_opening_rate">Percentatge d'obertura</str>
+  <str key="campaign_view_clicks_rate">Percentatge de clics</str>
+  <str key="campaign_view_clicks_by_links">Nombre de clics per enllaç</str>
+  <str key="campaign_view_opening_number">Nombre d'obertures</str>
+  <str key="campaign_view_clicks_number">Nombre de clics</str>
+  <str key="campaign_view_opening_and_clicks_by_days">Nombre d'obertures i clics per dia</str>
+  <str key="campaign_view_clicks_by_links_type">Clics per tipus d'enllaç</str>
+  <str key="dsi_ban_associated_campaign">Generació d'una campanya de correu electrònic</str>
+  <str key="mails_waiting">Enviament de cua/correu</str>
+  <str key="consolidate">Consolidació</str>
+  <str key="parperso_date_flottante">Data flotant</str>
+  <str key="parperso_option_duration">Temps de cerca al voltant de la data</str>
+  <str key="parperso_option_duration_d">Dies</str>
+  <str key="parperso_option_duration_m">Mesos</str>
+  <str key="parperso_option_duration_y">Anys</str>
+  <str key="parperso_option_duration_type0">Cap a</str>
+  <str key="parperso_option_duration_type1">Posterior</str>
+  <str key="parperso_option_duration_type2">Anterior</str>
+  <str key="parperso_option_duration_type3">Data exacta</str>
+  <str key="parperso_option_duration_type4">Interval de dates</str>
+  <str key="parperso_option_duration_comment">Comentari: </str>
+  <str key="parperso_option_duration_entre">Entre</str>
+  <str key="parperso_option_duration_et">i</str>
+  <str js="frbr" key="frbr_cataloging_category">Categoria</str>
+  <str key="campaign_type_dsi">DSI</str>
+  <str key="campaign_label">Etiqueta</str>
+  <str key="campaigns_delete_confirm">Voleu suprimir aquesta(es) campanya(es) de correu electrònic?</str>
+  <str key="campaigns_view_opening_and_clicks">Percentatge d'obertura i clics</str>
+  <str key="campaign_view_opening_and_clicks_by_hours">Nombre d'obertures i clics per hora</str>
+  <str key="campaign_view_opening_by_recipients_location">Clics per localització</str>
+  <str key="campaign_view_opening_by_recipients_categ">Clics per categoria</str>
+  <str key="campaign_view_opening_by_recipients_statut">Clics per estats</str>
+  <str key="campaign_view_opening_by_recipients_codestat">Clics per codi estadístic</str>
+  <str key="campaigns_view_opening_by_recipients_location">Percentatge d'obertura per localització</str>
+  <str key="campaigns_view_opening_by_recipients_categ">Percentatge d'obertura per categoria</str>
+  <str key="campaigns_view_opening_by_recipients_statut">Percentatge d'obertura per estat</str>
+  <str key="campaigns_view_opening_by_recipients_codestat">Percentatge d'obertura per codi estadístic</str>
+  <str key="list_ui_selection">Per a la selecció</str>
+  <str key="list_ui_no_selected">No s'ha seleccionat cap línia.</str>
+  <str key="list_ui_no_filter">Sense filtre</str>
+  <str key="compare">Compara</str>
+  <str key="campaigns_view_rate">Percentatge(%)</str>
+  <str key="campaign_view_no_email_sent_number">Nombre de correus electrònics no enviats</str>
+  <str key="campaigns_view_clicks_by_recipients_location">Percentatge de clics per localització</str>
+  <str key="campaigns_view_clicks_by_recipients_categ">Percentatge de clics per categoria</str>
+  <str key="campaigns_view_clicks_by_recipients_statut">Percentatge de clics per estat</str>
+  <str key="campaigns_view_clicks_by_recipients_codestat">Percentatge de clics per codi estadístic</str>
+  <str key="campaigns_dates_start">Després de la</str>
+  <str key="campaigns_dates_end">Abans de</str>
+  <str key="list_ui_options">Opcions</str>
+  <str key="list_ui_options_move_available_to_selected">Mou a les columnes seleccionades</str>
+  <str key="list_ui_options_move_selected_to_available">Elimina les columnes seleccionades</str>
+  <str key="list_ui_options_move_option_first">Mou al principi</str>
+  <str key="list_ui_options_move_option_top">Mou amunt</str>
+  <str key="list_ui_options_move_option_bottom">Mou avall</str>
+  <str key="list_ui_options_move_option_last">Mou al final</str>
+  <str key="list_ui_options_group_by">Agrupa per</str>
+  <str key="list_ui_datasets_my">Les meues llistes personalitzades</str>
+  <str key="list_ui_datasets_shared">Llistes personalitzades</str>
+  <str key="apply">Aplica</str>
+  <str key="list_edit">Edició d'una llista</str>
+  <str key="list_label_mandatory">Voleu posar un nom personalitzat a la vostra llista personalitzada?</str>
+  <str key="list_autorisations">Visible per a</str>
+  <str key="list_default_selected">Seleccionat per defecte?</str>
+  <str key="frbr_cataloging_title">Catalogació</str>
+  <str key="cms_type_used_in_contribution">Aquest tipus de contingut editorial s'utilitza en formularis de contribució. </str>
+  <str key="list_applied_sort">Ordena</str>
+  <str key="list_applied_sort_asc">Ordre ascendent</str>
+  <str key="list_applied_sort_desc">Ordre descendent</str>
+  <str key="list_pager">Paginació</str>
+  <str js="list" key="list_delete_confirm">Voleu suprimir aquesta llista personalitzada?</str>
+  <str key="parperso_field_classement">Classificació de camp</str>
+  <str key="save_and_continue">Guarda i continua</str>
+  <str key="save_and_continue_concept">Guarda i crea un concepte</str>
+  <str key="search_universe_description">Descripció</str>
+  <str key="search_universe_opac_views">Vistes OPAC</str>
+  <str key="parperso_option_duration_begin">Entre</str>
+  <str key="parperso_option_duration_end">i</str>
+  <str key="search_segment_add_set">Creació / modificació del conjunt de dades</str>
+  <str key="search_segment_set">Conjunt de dades</str>
+  <str js="search_universes" key="search_universes_empty_label">Per favor, completeu la redacció. </str>
+  <str js="search_universes" key="search_segment_set_not_save">S'ha produït un problema en guardar el conjunt de dades</str>
+  <str js="search_universes" key="search_segment_confirm_delete">Voleu suprimir aquest segment de cerca?</str>
+  <str js="search_universes" key="search_universe_confirm_delete">Segur que voleu eliminar aquest univers de cerca? </str>
+  <str js="search_universes" key="search_segment_advanced_search">Cerca avançada</str>
+  <str key="index_concept_label_autopostage">Conceptes autopublicats</str>
+  <str js="search_universes" key="search_segment_search_perso">Cerca predefinida</str>
+  <str js="search_universes" key="search_segment_facet_not_save">S'ha produït un problema en registrar la faceta</str>
+  <str key="mails_waiting_attachments">Directori que s'utilitzarà per a emmagatzemar arxius adjunts </str>
+  <str key="mails_waiting_max_by_send">Nombre màxim de correus electrònics per enviament</str>
+  <str key="list_ui_search">Filtres / Ordenació</str>
+  <str key="search_persopac_type">Tipus</str>
+  <str key="associated_campaign">Genera una campanya de correu electrònic</str>
+  <str key="campaign_type_mailing">Enviament</str>
+  <str key="campaigns_descriptors">Descriptors</str>
+  <str key="campaigns_tags">Etiquetes / Paraules clau</str>
+  <str key="facettes_records">Registres</str>
+  <str key="facettes_external_records">Registres externs</str>
+  <str key="facettes_authorities">Autoritats</str>
+  <str key="facette_type">Tipus</str>
+  <str key="authors">Autors</str>
+  <str key="categories">Categories</str>
+  <str key="publishers">Editorials</str>
+  <str key="collections">Col·leccions</str>
+  <str key="subcollections">Subcol·leccions</str>
+  <str key="series">Títol de sèrie</str>
+  <str key="titres_uniformes">Títols uniformes</str>
+  <str key="indexint">Índex. decimals</str>
+  <str key="caddie_de_AUTHPERSO">Cistella d'autoritats personalitzades</str>
+  <str key="admin_opac_contact_form_parameter_permalink">Enllaç permanent OPAC :</str>
+  <str key="nettoyage_operations_reindex">Reindexa</str>
+  <str key="nettoyage_operations_delete">Suprimeix</str>
+  <str key="nettoyage_operations_clean">Neteja</str>
+  <str key="nettoyage_operations_generate">Genera</str>
+  <str key="nettoyage_operations_empty">Buit</str>
+  <str key="nettoyage_operations_password">Contrasenya</str>
+  <str key="camera_photo_fail_uploaded">S'ha produït un error en la còpia de seguretat</str>
+  <str key="z3950_notice_id">Id de registre</str>
+  <str key="bannette_tpl_unsubscribe">Desinscriure's </str>
+  <str key="cms_cache_date">Data de l'última generació</str>
+  <str key="connecteurs_search_simple">Podeu iniciar una cerca en un o més camps o &lt;a href='%s'&gt; fer una cerca simple&lt;/a&gt;</str>
+  <str key="admin_menu_pnb">Préstecs electrònics</str>
+  <str key="admin_menu_pnb_param">Configuració</str>
+  <str key="admin_pnb_param_title">Configuració del PNB</str>
+  <str key="admin_pnb_param_login">Codi d'accés</str>
+  <str key="admin_pnb_param_password">Contrasenya</str>
+  <str key="admin_pnb_param_ftp_login">Codi d'accés FTP</str>
+  <str key="admin_pnb_param_ftp_password">Contrasenya FTP</str>
+  <str key="admin_pnb_param_ftp_server">Adreça del servidor FTP</str>
+  <str key="categories_catal_title">Categories</str>
+  <str key="numeric_record">Registre electrònic</str>
+  <str key="persofield_url_linktarget_default_checked">Marcat per defecte</str>
+  <str key="planificateur_catalog_pnb">PNB</str>
+  <str key="admin_menu_pnb_quotas_simultaneous_loans">Quotes de préstec</str>
+  <str key="admin_menu_pnb_quotas_prolongation">Quotes de prolongació</str>
+  <str key="bannette_tpl_insert_nb_abonnes">Nombre d'abonats</str>
+  <str key="edit_menu_pnb">Préstecs electrònics</str>
+  <str key="edit_menu_pnb_orders">Comandes</str>
+  <str key="edit_pnb_order_id">Número de comanda</str>
+  <str key="edit_pnb_order_line_id">Línia de comanda</str>
+  <str key="edit_pnb_order_notice">Registre</str>
+  <str key="edit_pnb_order_loan_max_duration">Duració màxima</str>
+  <str key="edit_pnb_order_nb_loans">Nombre de préstecs</str>
+  <str key="edit_pnb_order_nb_simultaneous_loans">Nombre de préstecs simultanis restants</str>
+  <str key="edit_pnb_order_nb_consult_in_situ">Nombre de consultes in situ</str>
+  <str key="edit_pnb_order_nb_consult_ex_situ">Nombre de consultes a distància</str>
+  <str key="edit_pnb_order_offer_date">Data d'adquisició</str>
+  <str key="edit_pnb_order_offer_duration">Duració</str>
+  <str key="pnb_loan_failed">El préstec ha fallat</str>
+  <str key="pnb_loan_succeed">El document s'ha prestat correctament</str>
+  <str key="admin_pnb_param_dilicom_url">URL del servei web Dilicom</str>
+  <str key="admin_pnb_param_webservice_url">URL del servei web per a la gestió de préstecs OPAC</str>
+  <str key="edit_pnb_order_nb_remaining_loans">Nombre de préstecs restants</str>
+  <str key="edit_pnb_order_offer_date_end">Fi de la validesa</str>
+  <str key="notice_is_numeric_search">Electrònic</str>
+  <str key="dsi_confirm_delete_equation_used_in_private_bannette">Aquesta equació s'usa per defecte en cistelles privats. Confirmeu l'eliminació?</str>
+  <str key="combine_extended_search">Cerca multicriteri</str>
+  <str key="admin_contribution_area_quick_param">Configuració ràpida</str>
+  <str key="admin_contribution_area_quick_param_in_progress">Configuració ràpida en curs...</str>
+  <str key="caddie_menu_action_edit_panier">Modifica la cistella</str>
+  <str key="empr_caddie_menu_action_edit_panier">Modifica la cistella</str>
+  <str key="procs_options_text_max_help">(Text &lt;= 255 ; Text llarg &lt;= 65 535 ; Enter &lt;= 11)</str>
+  <str js="docnum" key="docnum_edit_title">Edició d'un document electrònic</str>
+  <str js="admin_parameters" key="admin_param_edit_popup_title">Edició d'un paràmetre</str>
+  <str js="admin_parameters" key="admin_param_edit_quick_filter">Filtre ràpid</str>
+  <str js="admin_parameters" key="admin_param_edit_input_placeholder">Introduïu la vostra cerca</str>
+  <str key="admin_menu_pnb_drm_parameters">DRM</str>
+  <str key="admin_pnb_drm_parameters_title">Llista de DRM</str>
+  <str key="admin_pnb_drm_parameters_name">Nom</str>
+  <str key="admin_pnb_drm_parameters_loan_duration">Duració del préstec en dies</str>
+  <str key="admin_pnb_drm_lcp">LCP</str>
+  <str key="admin_pnb_drm_sony">SONY</str>
+  <str key="pnb_ui_form_title">Llista de les comandes</str>
+  <str js="edition_pnb" key="pnb_contact_link_title">Poseu-vos en contacte amb Dilicom respecte a les comandes seleccionades </str>
+  <str js="edition_pnb" key="pnb_please_select_command">Seleccioneu una comanda</str>
+  <str js="edition_pnb" key="pnb_contact_command_ref">Referència de la comanda</str>
+  <str js="edition_pnb" key="pnb_contact_command_create_date">Comanda creada el</str>
+  <str js="edition_pnb" key="pnb_contact_command_line_id">Identificador de la línia de comanda</str>
+  <str js="edition_pnb" key="pnb_contact_gln">GLN de la comunitat</str>
+  <str js="edition_pnb" key="pnb_contact_mail_title">Problemes amb les següents comandes</str>
+  <str key="alert_pnb">Préstecs electrònics</str>
+  <str key="alert_pnb_end">Venciment de les comandes</str>
+  <str key="alert_pnb_saturation">Saturació</str>
+  <str key="admin_pnb_alert">Gestió de les alertes</str>
+  <str key="pnb_alert_end_offers">Nombre de dies abans del venciment de les comandes</str>
+  <str key="pnb_alert_staturation_offers">Nombre d'exemplars restants abans de la saturació del préstec</str>
+  <str key="pnb_edit_end_offers_filter">Comandes en venciment</str>
+  <str key="pnb_edit_staturation_offers_filter">Comandes en saturació</str>
+  <str key="short_january">gen.</str>
+  <str key="short_february">febr.</str>
+  <str key="short_march">març</str>
+  <str key="short_april">abr.</str>
+  <str key="short_may">maig</str>
+  <str key="short_june">juny</str>
+  <str key="short_july">jul.</str>
+  <str key="short_august">ag.</str>
+  <str key="short_september">set.</str>
+  <str key="short_october">oct.</str>
+  <str key="short_november">nov.</str>
+  <str key="short_december">des.</str>
+  <str key="print_size_selected_elements">Els registres seleccionats</str>
+  <str key="print_size_selected_elements_authorities">Les autoritats seleccionades</str>
+  <str key="download_size_selected_elements">Els documents electrònics seleccionats</str>
+  <str key="circ_pret_digital_expl">El préstec de documents electrònics només és possible des d'OPAC</str>
+  <str key="circ_retour_digital_expl">Només el prestatari pot retornar un exemplar d'un document electrònic</str>
+  <str key="search_record_modifier">Modificador del registre</str>
+  <str key="admin_pnb_drm_acs">ACS (Adobe)</str>
+  <str key="deflt_notice_statut_analysis">Estat de registre predeterminat en la creació d'articles </str>
+  <str key="deflt_notice_statut_analysis_parent">Registre de butlletí</str>
+  <str key="procs_options_column_name">No retorn del valor entre cometes</str>
+  <str key="files">Administració d'arxius</str>
+  <str key="subst_files_management">Arxius substituts</str>
+  <str key="file_source_code">Codi font</str>
+  <str key="file_setting">Arxiu</str>
+  <str key="misc_file_code">Codi</str>
+  <str key="misc_file_comment">Descripció</str>
+  <str key="misc_file_visible">Visible?</str>
+  <str js="misc" key="misc_subst_file_cancel">Anul·la</str>
+  <str js="misc" key="misc_subst_file_save">Guarda</str>
+  <str js="misc" key="misc_subst_file_save_success">Confirmació de guardar l'arxiu</str>
+  <str js="misc" key="misc_subst_file_save_error">És impossible guardar l'arxiu :</str>
+  <str js="misc" key="misc_subst_file_delete">Suprimeix</str>
+  <str js="misc" key="misc_subst_file_confirm_delete">Voleu eliminar l'arxiu substituït?</str>
+  <str js="misc" key="misc_subst_file_delete_success">Confirmació de l'eliminació de l'arxiu :</str>
+  <str js="misc" key="misc_subst_file_delete_error">És impossible eliminar l'arxiu :</str>
+  <str key="substituate">Substitueix</str>
+  <str key="search_segment_default">Segment per defecte</str>
+  <str key="deflt3type_produit">Tipus de producte predeterminat</str>
+  <str key="acquisition_act_typ_err">No heu definit un tipus de producte! </str>
+  <str key="search_extended_record_qualified_author">Autor/a qualificat del registre </str>
+  <str key="dsi_docwatch_datasource_monitoring_website_xdiff">NB : Si no voleu fer servir expressions XPath (opcional), activeu l'extensió PHP "xdiff".</str>
+  <str key="dsi_docwatch_datasource_monitoring_website_xdiff_only">Aquesta manera només és aplicable amb l'extensió PHP "xdiff". Aquest últim analitza l'àrea de la pàgina per àrea. </str>
+  <str key="caddie_edition_advanced_mode">Manera avançada</str>
+  <str key="list_caddie_edition_show_list">Mostra la llista</str>
+  <str key="list_ui_initialization">Reinicialitza</str>
+  <str key="caddie_menu_action_supprpanier">Neteja el panell</str>
+  <str key="deflt_serials_docs_type">Suport per defecte en butlletins</str>
+  <str key="connecteurs_delete_source_confirm">Si elimineu aquesta font, s'eliminaran els registres sincronitzats. Voleu continuar? </str>
+  <str key="admin_contribution_area_form_advanced">Avançat</str>
+  <str key="admin_contribution_area_form_comment">Comentari</str>
+  <str key="admin_contribution_area_form_placeholder">Marcador de posició</str>
+  <str key="abonnements_to_renew">Renovació</str>
+  <str key="abonnements_outdated">Excedit</str>
+  <str key="entity_currently_locked_title">Entitat bloquejada</str>
+  <str key="entity_currently_locked">Aquesta entitat està actualment bloquejada per a l'edició per "!!entity_locked_username!!".</str>
+  <str key="entity_currently_locked_unlock_question">Voleu forçar l'edició ?</str>
+  <str key="locked_entity_save_error">S'ha produït un error durant el registre. L'entitat està bloquejada per un altre usuari. </str>
+  <str key="misc_file_label">Etiqueta</str>
+  <str key="admin_contribution_area_form_tooltip">Indicador de funció</str>
+  <str key="entity_unlocked">L'entitat ja no està bloquejada.</str>
+  <str key="docnum_statut_thumbnail_visible_opac_override">Ignoreu els drets per a la visualització de la miniatura </str>
+  <str key="admin_contribution_area_computed">Camps calculats</str>
+  <str js="contribution_area" key="contribution_area_computed_fields_used">Camps a utilitzar</str>
+  <str js="contribution_area" key="contribution_area_computed_fields_generated">Camps calculats</str>
+  <str js="contribution_area" key="contribution_area_computed_fields_save">Guarda</str>
+  <str js="contribution_area" key="contribution_area_computed_fields_confirm">En canviar el camp, perdreu les modificacions actuals. </str>
+  <str js="contribution_area" key="contribution_area_computed_fields_delete">Suprimeix</str>
+  <str key="admin_vignette_menu">Miniatures</str>
+  <str key="admin_vignette_menu_record">Registres</str>
+  <str key="admin_vignette_menu_author">Autors</str>
+  <str key="admin_vignette_menu_categ">Categories</str>
+  <str key="admin_vignette_menu_publisher">Editorials</str>
+  <str key="admin_vignette_menu_collection">Col·leccions</str>
+  <str key="admin_vignette_menu_subcollection">Subcol·leccions</str>
+  <str key="admin_vignette_menu_serie">Sèries</str>
+  <str key="admin_vignette_menu_tu">Títols uniformes</str>
+  <str key="admin_vignette_menu_indexint">índex. decimals</str>
+  <str key="admin_vignette_sources">Fonts</str>
+  <str key="author_isni">ISNI</str>
+  <str key="param_chat_activate">Activació del xat</str>
+  <str js="chat" key="chat_goup_edition">Administració del grup</str>
+  <str js="chat" key="chat_goup_name">Nom del grup</str>
+  <str js="chat" key="chat_goup_save">Guarda</str>
+  <str js="chat" key="chat_notification_filter">Mostra només els missatges nous </str>
+  <str js="chat" key="chat_connected_filter">Mosta només els usuaris en línia</str>
+  <str js="chat" key="chat_notification_filter_label">Missatges</str>
+  <str js="chat" key="chat_connected_filter_label">En línia</str>
+  <str js="chat" key="chat_add_group">Afig un grup</str>
+  <str js="chat" key="chat_edit_group">Edita el grup</str>
+  <str js="chat" key="chat_edit_group_empty_name">És obligatori un nom per al grup</str>
+  <str js="chat" key="chat_goup_delete">Suprimeix</str>
+  <str js="chat" key="chat_goup_confirm_delete">Voleu suprimir el grup?</str>
+  <str js="chat" key="chat_notification">Nou missatge</str>
+  <str js="chat" key="chat_connected">Connectat</str>
+  <str js="chat" key="chat_send_message">Envia el missatge</str>
+  <str js="chat" key="chat_delete_message">Suprimeix el missatge</str>
+  <str js="chat" key="chat_open_discussion">Discussió oberta</str>
+  <str js="chat" key="chat_close_discussion">Tanca la discussió</str>
+  <str key="in_catalog">Registre importat</str>
+  <str key="thesaurus_printing_broad_term_code">TG</str>
+  <str key="thesaurus_printing_narrower_term_code">TS</str>
+  <str key="thesaurus_printing_related_term_code">TA</str>
+  <str key="thesaurus_printing_use_for_code">EP</str>
+  <str key="thesaurus_printing_use_code">EM</str>
+  <str key="thesaurus_printing_scope_note_code">NA</str>
+  <str key="thesaurus_printing_public_comment_code">PU</str>
+  <str key="selector_tab_navigate">Navegació</str>
+  <str key="pagin_navig_concept">Mostra la resta</str>
+  <str key="list_ui_save_order">Guardar ordenar</str>
+  <str key="admin_contribution_area_form_list_values">Valors a proposar en la llista </str>
+  <str key="connecteurs_source_gestion_selected">Activar per defecte en cerca externa en gestió? </str>
+  <str key="datatype_sort_facette">Ordena tipus de dades</str>
+  <str key="datatype_sort_alpha">Alfanumèric</str>
+  <str key="datatype_sort_num">Numèric</str>
+  <str key="datatype_sort_date">Data</str>
+  <str key="selector_groups">Selecció d'un grup</str>
+  <str key="list_ui_objects_not_grouped">Sense agrupar</str>
+  <str key="force_modification">Força la modificació</str>
+  <str key="editions_datasource_explnum">Documents electrònics</str>
+  <str key="editions_datasource_explnum_id">Identificador del document electrònic</str>
+  <str key="editions_datasource_explnum_notice">Identificador del registre</str>
+  <str key="editions_datasource_explnum_bulletin">Identificador del butlletí</str>
+  <str key="editions_datasource_explnum_audit_type">Tipus d'intervenció en el document electrònic</str>
+  <str key="editions_datasource_explnum_locations">Localitzacions</str>
+  <str key="scheduler_all">Tots</str>
+  <str key="scheduler_types">Tipus</str>
+  <str key="scheduler_states">Estats</str>
+  <str key="scheduler_dates">Dates</str>
+  <str key="scheduler_dates_start">Després de la </str>
+  <str key="scheduler_dates_end">Abans de</str>
+  <str key="scheduler_dashboard_ui_form_title">Quadre de comandament</str>
+  <str key="scheduler_delete_confirm">Voleu suprimir aquesta(es) tasca(ques)?</str>
+  <str key="search_perso_form_directlink_auto_submit">Feu aquesta cerca quan estiga seleccionat </str>
+  <str key="expl_header_expl_note">Missatge exemplar</str>
+  <str key="expl_header_expl_comment">Comentari no bloquejant</str>
+  <str key="expl_header_expl_prix">Preu</str>
+  <str js="translation" key="translations">Traduccions</str>
+  <str js="misc" key="misc_file_save_success">Còpia realitzada</str>
+  <str js="misc" key="misc_file_save_error">S'ha produït un error en realitzar la còpia</str>
+  <str key="explnum_url_associated_already">Un document ja està associat.</str>
+  <str js="misc" key="misc_file_initialization_success">Reinicialització realitzada</str>
+  <str js="misc" key="misc_file_initialization_error">S'ha produït un error durant la reinicialització</str>
+  <str key="admin_menu_composed_vedettes">Encapçalats compostos</str>
+  <str key="composed_vedettes_grammar">Gramàtica</str>
+  <str key="composed_vedettes_grammars_by_entity">Definició de les gramàtiques disponibles segons la mena d'entitat PMB </str>
+  <str js="misc" key="misc_subst_file_create">Creació</str>
+  <str key="external_source">Font externa</str>
+  <str key="dsi_ban_affect_lecteur">Abonat</str>
+  <str js="carto" key="carto_search_radius">Cerca dins d'un radi </str>
+  <str js="carto" key="carto_km">Km</str>
+  <str key="search_extended_map_circle_center">Centre(long, lat): </str>
+  <str key="scheduler_labels">Etiqueta</str>
+  <str key="search_extended_map_circle">Al voltant del punt</str>
+  <str key="search_extended_map_circle_radius">Ràdio(km): </str>
+  <str key="transaction_payment_method_admin">Gestió dels mètodes de pagament</str>
+  <str key="transaction_payment_method_list_add">Afig un mode de pagament</str>
+  <str key="transaction_payment_method_form_titre_add">Afig un mode de pagament</str>
+  <str key="transaction_payment_method_form_titre_edit">Modifica el mètode de pagament</str>
+  <str key="transaction_payment_method_form_name">etiqueta del mètode de pagament</str>
+  <str key="transaction_payment_method_form_save">Guarda</str>
+  <str key="transaction_payment_method_form_delete_question">Voleu suprimir el mètode de pagament?</str>
+  <str key="transaction_payment_method_form_delete">Suprimeix</str>
+  <str key="transaction_payment_method_form_delete_no">No és possible suprimir el mètode de pagament</str>
+  <str key="transaction_payment_method_form_name_no">L'etiqueta del mètode de pagament és obligatòria</str>
+  <str key="authperso_oeuvres_event">Obres de l'esdeveniment</str>
+  <str key="empr_environment">Entorn del lector</str>
+  <str js="chat" key="chat_users_list_expand">Mostrar la llista de xats</str>
+  <str key="deflt_opac_visible_bulletinage">Voleu activar per defecte l'opció de butlletins OPAC en crear una publicació periòdica? </str>
+  <str js="empr" key="loan_see_all">Voleu veure tots els préstecs? </str>
+  <str key="export_map">Exporta petjades de mapa </str>
+  <str js="contribution_area" key="contribution_area_computed_fields_entity_creation">Creació</str>
+  <str js="contribution_area" key="contribution_area_computed_fields_entity_selection">Selecció</str>
+  <str key="import_notice_existing_replace">En cas d'ISBN duplicat, reemplace el registre existent amb el registre de l'arxiu d'importació </str>
+  <str key="import_notice_existing_replace_message">Atenció: tots els camps del registre existent seran reemplaçats pels del registre importat. </str>
+  <str key="import_notice_replace_only_one">&lt;br /&gt;(%s registres ja presents en la base de dades han sigut reemplaçats des de l'inici del tractament. )</str>
+  <str key="import_notice_replace_many">&lt;br /&gt;(%s registres ja presents en la base de dades no han sigut reemplaçades des de l'inici del tractament. )</str>
+  <str key="import_notice_replaced">Registre : substituït</str>
+  <str key="print_concepts">Imprimeix un esquema</str>
+  <str key="print_concepts_title">Impressió de conceptes</str>
+  <str key="print_concepts_titre_arbo">Llista ramificada</str>
+  <str key="print_concepts_titre_alph">Llista plana</str>
+  <str key="print_concepts_options">Opcions d'impressió de conceptes</str>
+  <str key="print_concepts_option_libelle">Imprimeix l'etiqueta</str>
+  <str key="print_concepts_option_uri">Imprimeix l'URI</str>
+  <str key="print_concepts_option_isbd">Imprimeix l'ISBD</str>
+  <str key="print_concepts_option_detail">Imprimeix el detall</str>
+  <str key="calendrier_initialization">Reinicia</str>
+  <str key="import_advanced_form">Opcions avançades</str>
+  <str key="import_choix_caddie_noti">Afig els registres importats a la cistella :</str>
+  <str key="import_choix_caddie_expl">Afig els registres importats a la cistella :</str>
+  <str key="import_choix_caddie_bull">Afig els butlletins importats a la cistella :</str>
+  <str key="import_added_caddie_noti">Enllaç a la cistella d'instruccions :</str>
+  <str key="import_added_caddie_expl">Enllaç a la cistella d'exemplars :</str>
+  <str key="import_added_caddie_bull">Enllaç a la cistella de butlletins :</str>
+  <str key="onto_contribution_delete_in_progress">L'eliminació està en curs...</str>
+  <str key="cashdesk_edition_transac_payment_method">Mètode de pagament</str>
+  <str key="list_ui_add_filter">Afig un filtre</str>
+  <str key="list_ui_filter_date_start">Després de</str>
+  <str key="list_ui_filter_date_end">Abans de</str>
+  <str key="dsi_flux_link">Vincula un flux</str>
+  <str key="pclassement_locations">Visible dins de les localitzacions :</str>
+  <str key="dsi_ban_senders">Remitent (opció predeterminada = usuari que activa el lliurament) </str>
+  <str key="dsi_ban_senders_default">Marcat per defecte</str>
+  <str key="caddie_autorisations_all">Visible per tots</str>
+  <str key="procs_autorisations_all">Visible per tots</str>
+  <str key="caddie_favorite_color">Color associat</str>
+  <str key="acquisition_adr_fac_resume">Accepta com a adreça de facturació </str>
+  <str key="acquisition_adr_liv_resume">Accepta com a adreça de lliurament </str>
+  <str key="expl_header_nb_prets">Nombre de préstecs</str>
+  <str key="acquisition_action_unsaved_lines">Algunes línies no estan guardades! </str>
+  <str key="acquisition_action_transfer_not_all_lines">No és possible transferir totes les línies! </str>
+  <str key="expl_price">Preu</str>
+  <str key="print_concepts_option_alter_hidden">Imprimir etiquetes alternatives i ocultes </str>
+  <str key="acquisition_act_apply_budget_to_checked">Assigna el pressupost :</str>
+  <str key="acquisition_act_apply_type_to_checked">Assigna el tipus de producte : </str>
+  <str key="readerlist_dateexpiration_days">Nombre de dies des del final de la subscripció</str>
+  <str key="selvars_empr_nb_days_before_expiration">Nombre de dies abans del final de la subscripció</str>
+  <str key="selvars_empr_auth_opac_subscribe_link">Enllaç de renovació </str>
+  <str key="empr_renewal_form">Formulari per a la modificació del compte d'usuari</str>
+  <str key="empr_renewal_form_fields">Camps usuari</str>
+  <str key="empr_renewal_form_display">Afig</str>
+  <str key="empr_renewal_form_mandatory">Obligatori</str>
+  <str key="empr_renewal_form_explanation">Text explicatiu</str>
+  <str js="carto" key="carto_address">Adreça</str>
+  <str key="search_extended_map_address">Adreça</str>
+  <str key="less_than_days_query">Hi ha menys de</str>
+  <str key="more_than_days_query">Hi ha més de</str>
+  <str key="days">dia(es)</str>
+  <str key="this_week_query">Aquesta setmana</str>
+  <str key="last_week_query">La setmana passada</str>
+  <str key="this_month_query">Aquest mes</str>
+  <str key="last_month_query">El mes passat</str>
+  <str key="this_year_query">Aquest any</str>
+  <str key="selector_connectors">Selecciona un conjunt de dades</str>
+  <str js="dsi" key="docwatch_watch_filter_items">Filtra els elements</str>
+  <str key="dsi_docwatch_datasource_duplicate">Duplica</str>
+  <str js="dsi" key="dsi_js_docwatch_duplicate_source">Duplica una font</str>
+  <str key="dsi_docwatch_source_form_watch_parent">Rellotge per a pares</str>
+  <str key="search_extended_record_id">Identificador del registre</str>
+  <str js="date" key="date_begin">Inici:</str>
+  <str js="date" key="date_end">Fi:</str>
+  <str key="caddie_menu_remplir">Completa</str>
+  <str key="caddie_classement_created_from_search">Creat a partir d'una cerca</str>
+  <str key="caddie_creation_in_progress">Creació d'una cistella en curs...</str>
+  <str key="caddie_shortaction_tooltip_title">Si no es marca cap casella, l'acció s'aplicarà a tot el resultat de la cerca. </str>
+  <str key="composed_vedettes_grammars">Gramàtiques</str>
+  <str key="composed_vedettes_schemes_by_entity">Definició de l'esquema a utilitzar en funció de la mena d'entitat PMB</str>
+  <str key="clean_records_thumbnail">Traslladeu les miniatures dels registres guardats en la base de dades al directori de càrrega </str>
+  <str key="cleaning_records_thumbnail">Moure les miniatures dels registres guardats en la base de dades al directori de càrrega </str>
+  <str key="notice_title_basket">Afegir a la vostra cistella</str>
+  <str key="notice_title_basket_exist">Aquest registre ja està dins de la vostra cistella!</str>
+  <str key="aut_link_comment">Comentari</str>
+  <str key="aut_link_duration_date">Data</str>
+  <str key="aut_link_duration_entre">Entre</str>
+  <str key="aut_link_duration_et">i</str>
+  <str key="gen_aut_link">Generació dels enllaços entre autoritats</str>
+  <str key="gen_aut_link_title">Generació dels enllaços entre autoritats</str>
+  <str key="gen_net_base_aut_link_error">No és possible crear la nova estructura de la taula aut_link! Els arxius includes / marc_tables / ***** / aut_link_subst.xml (que s'informaran en OPAC i en tots els idiomes) han de crear-se fusionant tots els codis dels arxius relationtype_aut_subst.xml i relationtype_autup_subst.xml. De fet, els codis emmagatzemats en la taula aut_link no són presents en aut_link.xml:  </str>
+  <str key="aut_link_reciproque_title">Enllaç recíproc si està marcat </str>
+  <str key="notice_create_manifestation_fille">Crea un esdeveniment fill</str>
+  <str key="cleaning_cache_temporary_files">Porga de la memòria cau d'arxius temporals </str>
+  <str key="cms_module_charte_accept_button">He entés </str>
+  <str key="list_ui_options_group_by_then">Llavors per </str>
+  <str js="list" key="list_ui_options_group_by_max_reached">Ha aconseguit el límit autoritzat.</str>
+  <str key="resa_planning_to_validate">Previsions a validar </str>
+  <str js="carto" key="carto_postcode">Codi postal</str>
+  <str js="carto" key="carto_city">Municipi</str>
+  <str key="dsi_bannette_type">Tipus</str>
+  <str key="dsi_all_types">TOTS</str>
+  <str key="bannettes_ui_form_title">Busca usuari</str>
+  <str key="noti_statut_delete_forbidden">No es pot esborrar aquest estat perquè és necessari per al correcte funcionament de PMB (Identificadors 1 i 2) .</str>
+  <str key="dsi_flux_form_metadata">Fil accessible per un agregador de fils RSS </str>
+  <str js="acquisition" key="acquisition_act_tab_checked_empty">Seleccioneu una o més línies </str>
+  <str key="special_search_openurl">OpenURL</str>
+  <str key="caddie_menu_action_supprbase">Suprimeix la base</str>
+  <str key="admin_noti_map_echelle_modification">Canvia l'escala</str>
+  <str key="admin_noti_map_projection_modification">Modifica la projecció</str>
+  <str key="admin_noti_map_ref_modification">Modifica la referència</str>
+  <str key="fetch_empr_adhesion_renouv_proche">Fi de l'abonament pròxim</str>
+  <str key="fetch_empr_adhesion_renouv_depassee">Abonament excedit</str>
+  <str key="bibloto_sendMailPret">El correu electrònic està enviat</str>
+  <str key="bibloto_sendMailPret_failed">No enviar per correu electrònic </str>
+  <str key="prolongation_ok">Prolongació realitzada</str>
+  <str key="noteq_query"><![CDATA[!=]]></str>
+  <str key="nomenclature_search_by_number_of_instruments">Per nombre d'instruments</str>
+  <str key="nomenclature_search_by_number_of_voices">Per nombre de veus</str>
+  <str key="nomenclature_search_voices">Veus</str>
+  <str key="acquisition_copy_chk_lig">Duplica</str>
+  <str key="move_top_arrow">Mou cap amunt</str>
+  <str key="move_bottom_arrow">Mou cap avall</str>
+  <str key="merge">Fusiona</str>
+  <str key="with">Amb</str>
+  <str key="cms_module_common_datasource_desc_last_update_sql_date">Data de l'última actualització (format SQL) </str>
+  <str key="acquisition_nb_recipients">Nombre de destinataris</str>
+  <str key="admin_ExpSupports">Porta documents</str>
+  <str key="search_perso_opac_views">Vistes Opac</str>
+  <str key="search_perso_opac_view_empty">Sense vistes Opac</str>
+  <str key="search_perso_opac_view_select">Per a totes les vistes</str>
+  <str key="acquisition_recept_update_sug_err">S'ha produït un error en canviar l'estat del suggeriment.</str>
+  <str key="acquisition_recept_update_sug_ok">S'ha guardat el canvi d'estat del suggeriment.</str>
+  <str key="thesaurus">Tesaurus</str>
+  <str js="grid" key="category_change_thesaurus_confirm">Canviar el tesaurus implicarà la pèrdua de dades en els camps associats. Voleu continuar ? </str>
+  <str key="abonnements_nom_opac_abonnement">Nom OPAC de la subscripció</str>
+  <str js="acquisition" key="acquisition_relance_already_confirm">Hui s'ha realitzat un seguiment seleccionat. Voleu fer-ne un altre?</str>
+  <str key="notice_integre_serie_use_existing">Utilitza un títol de sèrie ja existent</str>
+  <str key="notice_integre_serie_new">Insereix un títol de sèrie nou</str>
+  <str key="admin_opac_renewal_activate">Activa la pestanya de modificació del perfil en l'OPAC</str>
+  <str key="empr_msg">Missatge</str>
+  <str key="print_mail">Impressió / Correu electrònic</str>
+  <str key="cote_border_size">grandària de la vora </str>
+  <str key="acquisition_frais_add_to_new_order">Afig de manera automàtica a noves comandes</str>
+  <str key="acquisition_frais_add_to_new_order_enable">Activa</str>
+  <str key="acquisition_frais_add_to_new_order_disabled">Desactivat</str>
+  <str key="planificateur_task_statut_inactive">Desactivat</str>
+  <str key="concept_use_cant_delete">Aquest concepte està sent utilitzat dins d'altres autoritats. No es pot eliminar.</str>
+  <str key="caddie_shortaction_confirmation">No s'ha seleccionat cap element. L'acció es durà a terme en tots els resultats de cerca. Voleu continuar ? </str>
+  <str key="authperso">Autoritats personalitzades</str>
+  <str key="dsi_form_unvalid">No s'ha seleccionat cap bannette</str>
+  <str key="search_segment_delete_set">Elimina el conjunt de dades</str>
+  <str key="dsi_flux_form_no_active_tri">No s'ha definit cap ordre per als fils RSS</str>
+  <str key="extexplnum_lender_num_lender">Nom del propietari</str>
+  <str key="extnum_location">Localització</str>
+  <str key="lenders_all">Tots els propietaris</str>
+  <str key="recherche_exemplaires_bulletin_notice">Registre de butlletí associat</str>
+  <str key="admin_opac_contact_form_object_message">Cos del missatge</str>
+  <str key="empr_validated_subscription">Inscripció validada</str>
+  <str key="planificateur_catalog_opac_maintenance">Pàgina de manteniment de l'OPAC</str>
+  <str key="search_extended_predefined_search">Cerques predefinides</str>
+  <str key="predefined_search_choice">Selecciona una cerca predefinida</str>
+  <str key="predefined_search_empty">Cap cerca predefinida</str>
+  <str key="search_perso_expl_menu">Predefinides exemplars</str>
+  <str key="search_perso_expl_title">Cerques predefinides exemplars &gt; Totes les cerques</str>
+  <str key="search_perso_delete_used_by_equations">No es pot eliminar aquesta cerca predefinida perquè és utilitzada per una o més equacions. </str>
+  <str key="search_perso_delete_used_by_search_perso">No es pot eliminar aquesta cerca predefinida perquè la utilitzen una o més cerques predefinides. .</str>
+  <str key="search_perso_delete_used_by_opac_views">No es pot eliminar aquesta cerca predefinida perquè la utilitzen una o més vistes de l'OPAC.</str>
+  <str key="expl_champs_perso">Camps personalitzats (exemplars)</str>
+  <str key="explnum_champs_perso">Camps personalitzats (documents electrònics)</str>
+  <str js="dsi" key="docwatch_watch_purge">Purga</str>
+  <str js="dsi" key="docwatch_watch_purge_items_mark_as_deleted">Purga els elements eliminats</str>
+  <str js="dsi" key="docwatch_watch_purge_items_mark_as_deleted_confirm">Purgarà els elements eliminats. Aquesta acció és irreversible! Segur que voleu continuar? </str>
+  <str key="cart_include_bulletin_notice">Afig també els registres de butlletins</str>
+  <str key="cart_include_analysis">Afig també recomptes</str>
+  <str key="cms_module_item_datasource_desc_concepts">Taula de conceptes</str>
+  <str key="admin_opac_contact_form_parameter_email_object_free_entry">Permet l'entrada lliure dins de l'objecte?</str>
+  <str key="admin_opac_contact_form_recipients_email_object_free_entry">Correu electrònic per a un objecte d'entrada lliure</str>
+  <str key="pnb_admin_import_expl">Exemplars</str>
+  <str key="pnb_admin_import_expl_codestat">Codi estadístic</str>
+  <str key="pnb_admin_import_expl_statut">Estat</str>
+  <str key="pnb_admin_import_expl_typedoc">Suport</str>
+  <str key="cote_character_line_break">retorn de carro</str>
+  <str key="groupe_comment_gestion">Comentari de gestió</str>
+  <str key="groupe_comment_opac">Comentari OPAC</str>
+  <str key="alerte_transferts_depart">Eixida</str>
+  <str key="empr_groups_comments">Missatge de grup</str>
+  <str key="admin_opac_contact_form_parameter_attachments">Peça(ces) junta(es) :</str>
+  <str key="empr_subscribe_form">Formulari d'inscripció</str>
+  <str key="empr_account">Compte de lector</str>
+  <str key="search_universe_id">Identificador</str>
+  <str key="search_universe_url">Enllaç permanent</str>
+  <str key="search_segment_id">Identificador</str>
+  <str key="search_segment_url">Enllaç permanent</str>
+  <str key="adresse_resa_concerne">Reserva(es) de %s</str>
+  <str key="dsi_flux_form_format_flux_items">Format de les notícies presents dins del fil</str>
+  <str key="dsi_flux_form_format_flux_item_title">Títol</str>
+  <str key="dsi_flux_form_format_flux_item_description">Descripció</str>
+  <str key="acquisition_action_check_line_increase_rate">Aplica un increment de : </str>
+  <str key="acquisition_action_check_line_increase_rate_percent">%</str>
+  <str key="empr_resp_group_location">Localització del responsable</str>
+  <str key="mails_relance_groupe">Envia totes les cartes de seguiment dels grups seleccionats</str>
+  <str key="imprimer_envoyer_liste_prets_groupes">Imprimeix / envia la llista de préstecs dels grups seleccionats</str>
+  <str key="envoyer_liste_prets_groupes">Envia la llista de préstecs dels grups seleccionats</str>
+  <str key="acquisition_invoices_select_unselect">Selecciona-ho tot / Desselecciona-ho tot</str>
+  <str key="list_ui_sort_by_then">Llavors per</str>
+  <str js="list" key="list_ui_sort_by_max_reached">Ha aconseguit el límit autoritzat.</str>
+  <str key="deflt_scan_request_explnum_status">Estat predeterminat en la creació de documents electrònics en una sol·licitud de digitalització </str>
+  <str key="group_lettre_resa">Voleu enviar cartes de reserva individuals al responsable d'aquest grup? </str>
+  <str key="group_lettre_resa_show_nomgroup">Imprimeix el nom d'aquest grup en cartes de reserva individuals? </str>
+  <str key="group_mail_resa">Envia correus electrònics de reserva individual al responsable del grup?</str>
+  <str key="combine_expl_explnum">Exemplars / Documents electrònics</str>
+  <str key="combine_expl_explnum_location">Localització</str>
+  <str key="combine_expl_explnum_lender">Nom del propietari</str>
+  <str key="mail_retard_unknown_mail">No hi ha adreça de correu electrònic de referència per al lector %s </str>
+  <str key="acquisition_affect_fou_to_all_etab">Associa aquest proveïdor a tots els establiments </str>
+  <str key="acquisition_coord_all_in_parenthesis"> (Tots els establiments)</str>
+  <str key="bulletin_move_bouton">Mou</str>
+  <str key="bulletin_move">Mou un butlletí</str>
+  <str key="bulletin_move_sel_perio">Selecció publicació periòdica</str>
+  <str key="bulletin_move_sel_perio_choose">Seleccioneu una publicació periòdica</str>
+  <str key="list_titre_uniforme_author_function">Autors, funció</str>
+  <str key="list_titre_uniforme_interpreter_function">Intèrprets, funció</str>
+  <str key="list_titre_uniforme_concept">Temàtiques</str>
+  <str key="list_author_concept">Temàtiques</str>
+  <str key="pnb_no_order">No s'ha registrat cap ordre de préstec de document electrònic</str>
+  <str key="pnb_dilicom_no_response">El servei no està disponible</str>
+  <str key="pnb_unknown_order">Ordre de préstec de document electrònic desconeguda</str>
+  <str key="pnb_loan_already_borrowed">Ja ha amprat aquest document</str>
+  <str key="pnb_loanid">Id de préstec PNB</str>
+  <str key="pnb_requestid">Id de sol·licitud PNB</str>
+  <str key="pnb_alert_threshold_tokens">Nombre de tokens restants </str>
+  <str key="pnb_loan_no_token">No hi ha més préstecs disponibles </str>
+  <str key="admin_opac_contact_form_recipients_save_error">S'ha produït un error en guardar els destinataris </str>
+  <str key="admin_opac_contact_form_recipients_save_success">El destinatari s'ha guardat correctament</str>
+  <str key="is_numeric_loan">Préstec electrònic</str>
+  <str key="empr_allow_pnb">Autoritzar el préstec electrònic (PNB)</str>
+  <str key="empr_short_no_allow_pnb">PNB</str>
+  <str key="unknown_user_id">L'usuari amb el nom d'usuari %s és desconegut. </str>
+  <str key="is_required">Camp obligatori</str>
+  <str key="relance_export_csv">Exporta CSV</str>
+  <str key="empr_chang_statut_confirm">Segur que voleu modificar l'estat dels lectors seleccionats?</str>
+  <str key="search_segment_sort">Ordena</str>
+  <str key="circ_print_ticket">Imprimeix un tiquet de préstec</str>
+  <str key="avis_bt_deselectionner">Desselecciona-ho tot</str>
+  <str key="cms_document_url_copy_success">L'URL ja s'ha copiat.</str>
+  <str key="dom_empr_cms_section">Prestataris - Seccions </str>
+  <str key="dom_empr_cms_article">Prestataris - Articles</str>
+  <str js="semantic" key="synonym_mutual_link">Sinònim recíproc si està marcat </str>
+  <str key="print_thes_num_aut">Imprimeix el número d'autoritat</str>
+  <str key="thesaurus_printing_num_aut">AUTORITAT</str>
+  <str key="admin_mailtpl_attachments_menu">Gestió de les peces unides</str>
+  <str key="admin_files_gestion_error_param_attachments_folder">Verifiqueu el paràmetre attachments_folder (en paràmetres generals) </str>
+  <str key="loan_trust_warning_only">Un exemplar d'aquest document ja ha sigut prestat o aquest usuari l'ha amprat en els últims %s dies. </str>
+  <str key="planificateur_catalog_access_rights">Permisos d'accés</str>
+  <str js="pointage" key="pointage_expl_sections_refresh">La secció seleccionada no està visible per a aquesta localització. Voleu continuar?</str>
+  <str key="quotas_initialization">Reinicia</str>
+  <str js="quotas" key="quotas_initialization_confirm">Voleu reiniciar les quotes?</str>
+  <str key="list_ui_settings_columns">Formata columnes</str>
+  <str key="list_ui_settings_columns_align">Alineació</str>
+  <str key="list_ui_settings_columns_align_left">Esquerra</str>
+  <str key="list_ui_settings_columns_align_center">Centre</str>
+  <str key="list_ui_settings_columns_align_right">Dreta</str>
+  <str key="list_ui_settings_columns_text">Text</str>
+  <str key="list_ui_settings_columns_text_bold">Negreta</str>
+  <str key="list_ui_settings_columns_text_underline">Subratllat</str>
+  <str key="list_ui_settings_columns_text_color">Color del text</str>
+  <str key="list_ui_settings_columns_level">Afig</str>
+  <str key="list_ui_settings_columns_level_0">Horitzontal</str>
+  <str key="list_ui_settings_columns_level_1">Vertical</str>
+  <str key="has_resa_available">Reserves disponibles per a aquest lector</str>
+  <str key="cms_build_frbr_cadres_in_page">Marcs de la pàgina FRBR:</str>
+  <str key="list_ui_frbr_page_id">Identificador de la pàgina FRBR</str>
+  <str key="notification_sphinx_service_off">El servei Sphinx està desactivat </str>
+  <str key="onto_contribution_fonction_author">Seleccioneu una funció</str>
+  <str key="admin_disabled_module_checkbox">El paràmetre !!parametre!! està desactivat</str>
+  <str key="collectivites_search">Col·lectius</str>
+  <str key="personnes_physiques_search">Persones físiques</str>
+  <str key="congres_search">Congrés</str>
+  <str key="serials_query">Publicacions periòdiques</str>
+  <str key="documents_query">Documents</str>
+  <str js="contribution_area" key="contribution_area_editing_form">Edita un formulari</str>
+  <str js="contribution_area" key="contribution_area_response">Resposta</str>
+  <str js="contribution_area" key="contribution_area_edit_form">Edita el formulari</str>
+  <str key="contribution_resize_button">Redimensiona</str>
+  <str key="contribution_zoom_in_button">Augmenta el zoom</str>
+  <str key="contribution_zoom_out_button">Disminueix el zoom</str>
+  <str key="contribution_area_repo_template_authorities">Repertori de plantilles d'autoritats</str>
+  <str key="contribution_area_repo_template_records">Repertori de plantilles de registres</str>
+  <str key="faq_err_par">Definiu els paràmetres per a utilitzar el mòdul FAQ.</str>
+  <str key="acquisition_lig_frais_annexes">&lt;sup&gt;&lt;span class='act_typ_lig_3'&gt;Línia de despeses addicionals&lt;/span&gt;&lt;/sup&gt;</str>
+  <str js="cms" key="storage_method_not_selected">Seleccioneu un mètode d'emmagatzematge.</str>
+  <str key="connecteurs_source_available_in_line">Disponible en línia</str>
+  <str key="admin_acces_empr_surlocations">Sublocalitzacions</str>
+  <str key="admin_acces_empr_statuts">Estats</str>
+  <str key="procs_options_text_type">Tipus de camp</str>
+  <str key="procs_options_text_type_text">Text</str>
+  <str key="procs_options_text_type_textarea">Àrea de text</str>
+  <str key="contribution_scenario_select">Selecciona un escenari :</str>
+  <str key="emplacement_label_already_used"> : l'etiqueta ja està sent utilitzada !</str>
+  <str key="support_label_already_used"> : l'etiqueta ja està sent utilitzada !</str>
+  <str js="contribution_area" key="contribution_area_computed_fields_confirm_delete">Voleu suprimir aquest camp calculat ?</str>
+  <str js="contribution_area" key="contribution_area_computed_fields_deleted">S'ha eliminat el camp calculat.</str>
+  <str key="list_ui_settings">Configuració avançada</str>
+  <str key="list_ui_settings_filters">Configuració dels filtres</str>
+  <str key="list_ui_settings_columns_visible">Visible</str>
+  <str key="list_ui_settings_columns_visible_1">Sí</str>
+  <str key="list_ui_settings_filters_visible">Visible</str>
+  <str key="list_ui_settings_filters_visible_1">Sí</str>
+  <str key="list_ui_remove_filter">Lleva el filtre</str>
+  <str js="contribution_area" key="contribution_area_copy">Copia</str>
+  <str key="list_ui_settings_filters_label">Etiqueta</str>
+  <str key="contribution_audit_comment">Contribucions</str>
+  <str js="contribution_area" key="contribution_area_paste_and_adapt">Enganxa per a modificar</str>
+  <str key="contribution_area_form_duplicated">Còpia de</str>
+  <str js="contribution_area" key="contribution_area_paste">Enganxa de forma idèntica</str>
+  <str key="admin_contribution_area_accordion_result">Mostra els resultats en acordió </str>
+  <str key="stat_remove_data_interval">Elimina les dades ja consolidades entre el !! remove_data_interval_dona't_deb !! (data inclosa) i !! remove_data_interval_dona't_fi !! (data no inclosa) </str>
+  <str js="contribution_area" key="contribution_area_paste_to_other_contribution_area">Copia a un altre espai</str>
+  <str js="contribution_area" key="contribution_area_list_area">Llista d'espais</str>
+  <str js="contribution_area" key="contribution_area_duplicate_forms">Duplica els formularis</str>
+  <str js="contribution_area" key="contribution_area_validate_and_go">Valida l'accés a l'espai</str>
+  <str js="contribution_area" key="contribution_area_paste_clipboard">Enganxa des d'un altre espai</str>
+  <str js="contribution_area" key="admin_contribution_area_form_name">Nom del formulari</str>
+  <str js="contribution_area" key="admin_contribution_area_edit_form_fields">Edita els camps del formulari</str>
+  <str js="contribution_area" key="admin_contribution_area_name_form_fields_opac">Nom del formulari en OPAC</str>
+  <str key="contribution_scenario_name">Nom del formulari </str>
+  <str key="contribution_scenario_list">Aquest formulari ja s'usa dins de %s escenari(s) i dins de %a espai(s) de contribució</str>
+  <str key="deflt_type_abts">Tipus d'abonament de lector per defecte</str>
+  <str js="search_universes" key="search_universes_univers">Univers de cerca</str>
+  <str js="search_universes" key="search_universes_search">Cerques</str>
+  <str js="search_universes" key="search_universes_add">Afig</str>
+  <str key="admin_opac_contact_forms">Formularis de contacte</str>
+  <str key="admin_opac_contact_form_id">Nom d'usuari o usuària</str>
+  <str key="admin_opac_contact_form_desc">Descripció</str>
+  <str key="admin_opac_contact_form_add">Afig un formulari de contacte</str>
+  <str key="admin_opac_contact_form_edit">Edita un formulari de contacte</str>
+  <str js="contribution_area" key="contribution_area_editing_attachment">Edita una propietat</str>
+  <str js="contribution_area" key="contribution_area_equation">Equacions</str>
+  <str js="contribution_area" key="contribution_area_no_equation">Cap equació</str>
+  <str key="misc_file_operators">Operadors</str>
+  <str key="contribution_has_draft">No podeu modificar aquest formulari perquè els esborranys depenen d'aquest </str>
+  <str js="contribution_area" key="contribution_has_draft_popup">No podeu modificar aquest formulari perquè els esborranys depenen d'aquest </str>
+  <str key="contribution_has_draft_hover">No podeu eliminar aquest formulari perquè els esborranys depenen d'aquest </str>
+  <str key="contribution_auto_save_draft">Guarda automàticament els esborranys</str>
+  <str key="contribution_area_graph_legend">Llegenda de colors :</str>
+  <str js="contribution_area" key="node_type_start_scenario">Escenari d'inici</str>
+  <str js="contribution_area" key="node_type_scenario">Escenari</str>
+  <str js="contribution_area" key="node_type_form">Formulari</str>
+  <str js="contribution_area" key="node_type_attachment">Enllaç inicial per als escenaris</str>
+  <str js="contribution_area" key="information_duplication_form">Els formularis duplicats li permeten personalitzar-los sense afectar els formularis originals .</str>
+  <str js="contribution_area" key="contribution_area_delete">Suprimeix</str>
+  <str js="chat" key="chat_dragable">Mou missatges en la pantalla </str>
+  <str key="deflt_docwatch_watch_filter_deleted">Mostra els elements del rellotge eliminats de manera predeterminada en la visualització? </str>
+  <str key="selvars_empr_last_loan_date">Data de l'últim préstec</str>
+  <str key="loans_archives">Préstecs arxivats</str>
+  <str key="contribution_moderation_list_display_label">Nom de la contribució</str>
+  <str key="contribution_moderation_list_contributor">Nom del contribuïdor</str>
+  <str key="contribution_moderation_list_entity_type">Tipus de contribució</str>
+  <str key="contribution_moderation_list_last_edit">Data de l'última contribució</str>
+  <str key="sub_form">Oculta subformularis </str>
+  <str key="cms_editorial_form_size_limit">límit de caràcters aconseguit</str>
+  <str key="alert_sphinx_restart_needed">Reinicia el servei Sphinx </str>
+  <str key="admin_responsability_authperso_yes">Activa responsabilitats per a aquesta autoritat </str>
+  <str key="aut_responsability_form_responsability_authperso">Responsabilitats</str>
+  <str key="etagere_caddie_filters">Filtres?</str>
+  <str key="aut_responsability_authors">Autoritats: Responsabilitats</str>
+  <str key="notice_basket_remove">Retirar de la vostra cistella</str>
+  <str key="searcher_coll">Col·lecció</str>
+  <str key="searcher_subcoll">Subcol·lecció</str>
+  <str key="dsi_priv_diffusion">Voleu difondre després de guardar?</str>
+  <str key="search_segment">Segment de cerca</str>
+  <str js="cart" key="show_cart_check_all">Selecciona-ho tot</str>
+  <str js="cart" key="show_cart_uncheck_all">Desselecciona-ho tot</str>
+  <str key="search_segment_back_to_universe">Torna a l'univers</str>
+  <str key="extended_search_authorities">Cerca multicriteri autoritats</str>
+  <str key="search_extended_authors">Autors</str>
+  <str key="search_extended_author_type">Tipus d'autor/a</str>
+  <str key="search_extended_author_name">Nom de l'autor/a</str>
+  <str key="search_extended_author_rejete">Rebutjat per l'autor/a</str>
+  <str key="search_extended_author_date">Data de l'autor/a</str>
+  <str key="search_extended_author_lieu">Lloc de l'autor/a</str>
+  <str key="search_extended_author_ville">Municipi de l'autor/a</str>
+  <str key="search_extended_author_pays">País de l'autor/a</str>
+  <str key="search_extended_author_subdivision">Subdivisió de l'autor/a</str>
+  <str key="search_extended_author_numero">Número d'autor/a</str>
+  <str key="search_extended_author_site_web">Lloc web de l'autor/a</str>
+  <str key="search_extended_author_comment">Comentari de l'autor/a</str>
+  <str key="search_extended_author_concepts">Conceptes de l'autor/a</str>
+  <str key="search_extended_author_aut_link">Autoritats relacionades de l'autor/a</str>
+  <str key="search_extended_author_statut">Estat de l'autor/a</str>
+  <str key="search_extended_categories">Categories</str>
+  <str key="search_extended_category_label">Etiqueta de la categoria</str>
+  <str key="search_extended_category_na">Nota d'aplicació de la categoria</str>
+  <str key="search_extended_category_cm">Comentari de la categoria</str>
+  <str key="search_segment_new_search">Cerca</str>
+  <str key="search_extended_category_parent">Categoria pare de la categoria</str>
+  <str key="search_extended_category_concepts">Conceptes de la categoria</str>
+  <str key="search_extended_category_aut_link">Autoritats relacionades de la categoria</str>
+  <str key="search_extended_category_statut">Estat de la categoria</str>
+  <str key="search_extended_publisher_name">Nom de l'editorial</str>
+  <str key="search_extended_publisher_adr">Adreça de l'editorial</str>
+  <str key="search_extended_publisher_cp">CP de l'editorial</str>
+  <str key="search_extended_publisher_ville">Municipi de l'editorial</str>
+  <str key="search_extended_publisher_pays">País de l'editorial</str>
+  <str key="search_extended_publisher_site_web">Lloc web de l'editorial</str>
+  <str key="search_extended_publisher_comment">Comentari de l'editorial</str>
+  <str key="search_extended_publisher_concepts">Conceptes de l'editorial</str>
+  <str key="search_extended_publisher_aut_link">Autoritats relacionades de l'editorial</str>
+  <str key="search_extended_publisher_statut">Estat de l'editorial</str>
+  <str key="search_extended_collections">Col·leccions</str>
+  <str key="search_extended_collection_name">Nom de la col·lecció</str>
+  <str key="search_extended_collection_issn">ISSN de la col·lecció</str>
+  <str key="search_extended_collection_publisher">Editorial de la col·lecció</str>
+  <str key="search_extended_collection_site_web">Lloc web de la col·lecció</str>
+  <str key="search_extended_collection_comment">Comentari de la col·lecció</str>
+  <str key="search_extended_collection_concepts">Conceptes de la col·lecció</str>
+  <str key="search_extended_collection_aut_link">Autoritats relacionades de la col·lecció</str>
+  <str key="search_extended_collection_statut">Estat de la col·lecció</str>
+  <str key="search_extended_subcollections">Subcol·leccions</str>
+  <str key="search_extended_subcollection_name">Nom de la subcol·lecció</str>
+  <str key="search_extended_subcollection_issn">ISSN de la subcol·lecció</str>
+  <str key="search_extended_subcollection_parent">Subcol·lecció de</str>
+  <str key="search_extended_subcollection_parent_publisher">Editorial pare de la subcol·lecció</str>
+  <str key="search_extended_subcollection_site_web">Lloc web de la subcol·lecció</str>
+  <str key="search_extended_subcollection_comment">Comentari de la subcol·lecció</str>
+  <str key="search_extended_subcollection_concepts">Conceptes de la subcol·lecció</str>
+  <str key="search_extended_subcollection_aut_link">Autoritats relacionades de la subcol·lecció</str>
+  <str key="search_extended_subcollection_statut">Estat de la subcol·lecció</str>
+  <str key="search_extended_series">Sèries</str>
+  <str key="search_extended_serie_label">Títol de la sèrie</str>
+  <str key="search_extended_serie_concepts">Conceptes de la sèrie</str>
+  <str key="search_extended_serie_aut_link">Autoritats relacionades amb la sèrie</str>
+  <str key="search_extended_serie_statut">Estat de la sèrie</str>
+  <str key="search_extended_titres_uniformes">Títols uniformes </str>
+  <str key="search_extended_titre_uniforme_oeuvre_type">Tipus d'obra</str>
+  <str key="search_extended_titre_uniforme_oeuvre_nature">Naturalesa de l'obra</str>
+  <str key="search_extended_titre_uniforme_name">Nom de l'obra</str>
+  <str key="search_extended_titre_uniforme_expression">Expressió de</str>
+  <str key="search_extended_titre_uniforme_others_link">Altres vincles</str>
+  <str key="search_extended_titre_uniforme_author">Autor de l'obra</str>
+  <str key="search_extended_titre_uniforme_forme">Forma de l'obra (entrada lliure)</str>
+  <str key="search_extended_titre_uniforme_forme_marclist">Forma de l'obra (llista)</str>
+  <str key="search_extended_titre_uniforme_date">Data de l'obra</str>
+  <str key="search_extended_titre_uniforme_lieu">Lloc d'origen de l'obra</str>
+  <str key="search_extended_titre_uniforme_sujet">Subjecte de l'obra</str>
+  <str key="search_extended_titre_uniforme_completude">Integritat de l'obra</str>
+  <str key="search_extended_titre_uniforme_public">Públic objectiu de l'obra</str>
+  <str key="search_extended_titre_uniforme_histoire">Història de l'obra</str>
+  <str key="search_extended_titre_uniforme_contexte">Context de l'obra</str>
+  <str key="search_extended_titre_uniforme_distrib">Distribució instrumental i vocal de l'obra</str>
+  <str key="search_extended_titre_uniforme_ref_num">Referència numèrica de l'obra</str>
+  <str key="search_extended_titre_uniforme_tonalite">Tonalitat (entrada lliure) de l'obra</str>
+  <str key="search_extended_titre_uniforme_tonalite_marclist">Tonalitat (lista) de l'obra</str>
+  <str key="search_extended_titre_uniforme_coords">Coordenades (obra cartogràfica)</str>
+  <str key="search_extended_titre_uniforme_equinoxe">Equinocci (obra cartogràfica)</str>
+  <str key="search_extended_titre_uniforme_subdiv_forme">Subdivisió de forma (obra)</str>
+  <str key="search_extended_titre_uniforme_caracteristiques">Característiques de l'obra</str>
+  <str key="search_extended_titre_uniforme_comment">Comentari de l'obra</str>
+  <str key="search_extended_titre_uniforme_concepts">Conceptes de l'obra</str>
+  <str key="search_extended_titre_uniforme_aut_link">Autoritats relacionades de l'obra</str>
+  <str key="search_extended_titre_uniforme_statut">Estat de l'obra</str>
+  <str key="search_extended_indexint">Indexacions decimals</str>
+  <str key="search_extended_indexint_label">Etiqueta de l'índex decimal</str>
+  <str key="search_extended_indexint_comment">Comentari índex decimal</str>
+  <str key="search_extended_indexint_concepts">Conceptes de l'índex decimal</str>
+  <str key="search_extended_indexint_aut_link">Autoritats relacionades de l'índex decimal</str>
+  <str key="search_extended_indexint_statut">Estat de l'índex decimal</str>
+  <str key="search_custom_author">Personalitzats d'autors</str>
+  <str key="search_custom_categ">Personalitzats de les categories</str>
+  <str key="search_custom_publisher">Personalitzats de les editorials</str>
+  <str key="search_custom_collection">Personalitzats de les col·leccions</str>
+  <str key="search_custom_subcollection">Personalitzats de les subcol·leccions</str>
+  <str key="search_custom_serie">Personalitzats de les sèries</str>
+  <str key="search_custom_tu">Personalitzats dels títols uniformes</str>
+  <str key="search_custom_indexint">Personalitzats de les indexacions decimals</str>
+  <str key="search_extended_skos_concepts_notation">Notació</str>
+  <str key="search_extended_skos_concepts_definition">Definició</str>
+  <str key="search_extended_skos_concepts_change_note">Nota modificada</str>
+  <str key="search_extended_skos_concepts_example">Exemple</str>
+  <str key="search_extended_skos_concepts_history_note">Nota històrica</str>
+  <str key="search_extended_skos_concepts_scope_note">Nota d'aplicació</str>
+  <str key="search_extended_author_concepts_autopostage">Publicació automàtica de conceptes de l'autor </str>
+  <str key="search_extended_category_concepts_autopostage">Publicació automàtica de conceptes de la categoria</str>
+  <str key="search_extended_publisher_concepts_autopostage">Publicació automàtica de conceptes de l'editorial</str>
+  <str key="search_extended_collection_concepts_autopostage">Publicació automàtica de conceptes de la col·lecció</str>
+  <str key="search_extended_subcollection_concepts_autopostage">Publicació automàtica de conceptes de la subcol·lecció</str>
+  <str key="search_extended_titre_uniforme_concepts_autopostage">Publicació automàtica de conceptes del títol uniforme</str>
+  <str key="search_extended_serie_concepts_autopostage">Publicació automàtica de conceptes de la sèrie</str>
+  <str key="search_extended_indexint_concepts_autopostage">Publicació automàtica de conceptes de la indexació decimal</str>
+  <str key="search_extended_skos_concepts_autoposted">Conceptes autopublicats</str>
+  <str key="search_extended_subcollection_publisher">Editorial de les subcol·lecció</str>
+  <str key="search_extended_skos_concept">Conceptes</str>
+  <str key="search_extended_skos_concepts_preflabel">Etiqueta del concepte</str>
+  <str key="search_extended_skos_concepts_scheme">Esquema del concepte</str>
+  <str key="search_extended_common">Comuns</str>
+  <str key="search_extended_common_statut">Estat de l'autoritat</str>
+  <str key="search_extended_titre_uniforme_responsability_qualification">Qualificació de l'autor de l'obra </str>
+  <str key="search_extended_titre_uniforme_qualified_author">Autor/a qualificat de l'obra </str>
+  <str key="search_extended_titre_uniforme_qualified_interpreter">Intèrpret qualificat de l'obra</str>
+  <str key="search_extended_publisher_supplier">Proveïdor vinculat a l'editor/a </str>
+  <str key="search_extended_lonely_fields">Altres</str>
+  <str key="search_extended_titre_uniforme_interpreter">Intèrpret de l'obra</str>
+  <str key="search_extended_category_thesaurus">Tesaurus</str>
+  <str key="search_extended_concept_statut">Estat del concepte</str>
+  <str key="search_extended_indexint_pclassement">Pla de classificació d'indexació decimal</str>
+  <str key="search_extended_authorities_found"> autoritat(s) trobada(es).</str>
+  <str key="authorities_found">autoritat(s) trobada(es) per la cerca</str>
+  <str key="search_autority_contributor">Contribuïdor de l'autoritat</str>
+  <str key="search_item_creator">Creador de l'exemple</str>
+  <str key="search_author_creator">Creador de l'autor/a</str>
+  <str key="search_category_creator">Creador de la categoria</str>
+  <str key="search_publisher_creator">Creador de l'editorial</str>
+  <str key="search_coll_creator">Creador de la col·lecció</str>
+  <str key="search_subcoll_creator">Creador de la subcol·lecció</str>
+  <str key="search_serie_creator">Creador de la sèrie</str>
+  <str key="search_tu_creator">Creador del títol uniforme</str>
+  <str key="search_indexint_creator">Creador de la indexació decimal</str>
+  <str key="search_extended_authorities_all_fields">Tots els camps</str>
+  <str key="bannette_unsubscribe_confirm">Feu clic en aquest enllaç per a confirmar la cancel·lació de subscripció. .</str>
+  <str key="bannette_unsubscribe_confirmed">La cancel·lació de la subscripció està confirmada.</str>
+  <str key="facette_reset_all">Desselecciona tots els criteris</str>
+  <str key="facette_reset">Desmarca totes les facetes</str>
+  <str key="empr_menu_pnb_loan">Els meus préstecs electrònics</str>
+  <str key="empr_menu_pnb_loan_list">Els meus préstecs en curs</str>
+  <str key="empr_menu_pnb_devices">Els meus perifèrics de lectura</str>
+  <str key="empr_pnb_loan_not_activate">El préstec electrònic ja està activat</str>
+  <str key="empr_pnb_devices_list">Perifèrics disponibles</str>
+  <str key="126">Masculí</str>
+  <str key="127">Femení</str>
+  <str key="128">No indicat</str>
+  <str key="empr_pnb_current_loans_list">Préstecs electrònics en curs</str>
+  <str key="empr_pnb_no_current_loans">Cap préstec electrònic en curs</str>
+  <str js="search" key="results">resultat(s)</str>
+  <str key="empr_menu_pnb_parameters">Paràmetres</str>
+  <str key="empr_pnb_parameters_hint">Pista de la contrasenya</str>
+  <str key="empr_pnb_parameters_password">Contrasenya</str>
+  <str key="pnb_digital_expl">Exemplar electrònic</str>
+  <str key="empr_pnb_choose_device">Trieu un perifèric de lectura</str>
+  <str key="dsi_priv_form_date_used_to_calc">Data de registre utilitzada per a calcular la novetat </str>
+  <str key="dsi_ban_update_type_c">Data de creació</str>
+  <str key="dsi_ban_update_type_u">Data d'actualització </str>
+  <str key="dsi_bannette_gerer_date_used_to_calc">Data d'ús</str>
+  <str key="search_history_combine">Combina les cerques seleccionades</str>
+  <str key="empr_pnb_loan_extend">Prolonga</str>
+  <str key="empr_pnb_loan_redownload">Descarrega de nou</str>
+  <str key="ontology_skos_concept">Conceptes</str>
+  <str js="history" key="show_history_check_all">Selecciona-ho tot</str>
+  <str js="history" key="show_history_uncheck_all">Desselecciona-ho tot</str>
+  <str js="sort" key="show_sort_check_all">Selecciona-ho tot</str>
+  <str js="sort" key="show_sort_uncheck_all">Desselecciona-ho tot</str>
+  <str key="search_universe_history">Univers "%s" : Cerca "%s"</str>
+  <str key="search_segment_history">Segment "%s" : %s</str>
+  <str key="search_segment_all_fields">Tots els camps del segment</str>
+  <str key="perso_select">Selecció %s</str>
+  <str key="reset">Reinicia</str>
+  <str key="facette_reset_one">Desselecciona el criteri</str>
+  <str key="notice_preview_close">Tanca la finestra</str>
+  <str key="close">Finestra</str>
+  <str key="disable_this_filter">Desselecciona el filtre</str>
+  <str key="writing_area">Zona de notes</str>
+  <str key="expand">Expandeix</str>
+  <str key="expandall">Expandeix-ho tot</str>
+  <str key="collapse">Replega</str>
+  <str key="collapseall">Replega-ho tot</str>
+  <str key="onto_contribution_mandatory_field">Camp obligatori</str>
+  <str key="search_universe_new_search">Nova cerca dins: </str>
+  <str key="search_segment_refine_search">Afina</str>
+  <str key="aut_link_concept">[Concepte] %1s</str>
+  <str key="search_perso_title">Cerca predefinida &gt; Totes les cerques</str>
+  <str key="search_perso_list_title">Totes les cerques</str>
+  <str key="search_perso_list">Llista de cerques predefinides</str>
+  <str key="search_perso_table_preflink">Drecera</str>
+  <str key="search_perso_table_name">Nom</str>
+  <str key="search_perso_table_shortname">Nom curt</str>
+  <str key="search_perso_table_humanquery">Cerca</str>
+  <str key="search_perso_table_edit">Edita</str>
+  <str key="search_perso_add">Afig</str>
+  <str key="search_perso_save">Emmagatzematge en cerca predefinida </str>
+  <str key="search_perso_modifier">Modifica</str>
+  <str key="search_perso_form_title">Cerca predefinida</str>
+  <str key="search_perso_form_add">Afig la cerca predefinida </str>
+  <str key="search_perso_form_edit">Edita la cerca predefinida</str>
+  <str key="search_perso_form_annuler">Cancel·la</str>
+  <str key="search_perso_form_save">Guarda</str>
+  <str key="search_perso_form_delete">Suprimeix</str>
+  <str key="search_perso_form_name_empty">El nom de la cerca està buit.</str>
+  <str key="search_perso_form_name">Nom</str>
+  <str key="search_perso_form_shortname">Drecera de nom</str>
+  <str key="search_perso_form_direct_search">Actiu en la barra de cerca </str>
+  <str key="search_perso_form_add_error">S'ha produït un error en guardar la cerca</str>
+  <str key="confirm_suppr">Voleu confirmar l'eliminació?  </str>
+  <str key="search_perso_form_autorisations">Autoritzacions concedides a:</str>
+  <str key="search_perso_form_comment">Comentari</str>
+  <str key="tout_cocher_checkbox">Selecciona-ho tot</str>
+  <str key="tout_decocher_checkbox">Desselecciona-ho tot</str>
+  <str key="message_unload_page">En tancar aquesta pàgina, perdreu els canvis realitzats. </str>
+  <str key="155">La vostra entrada també pot ser una </str>
+  <str key="1900">Ajuda</str>
+  <str key="1901"> : </str>
+  <str key="1902">Expressions booleanes </str>
+  <str key="1550">Expressió booleana.</str>
+  <str key="authorities">Autoritats</str>
+  <str key="authorities_statut_label">Estat</str>
+  <str key="searcher_all_status">Tots els estats</str>
+  <str key="searcher_results">%s resultat(s)</str>
+  <str key="48">Pàgina anterior</str>
+  <str key="49">Pàgina següent</str>
+  <str key="searcher_all_types">Tots els tipus</str>
+  <str key="search_authorities">Totes les autoritats</str>
+  <str key="333">Títols de sèrie</str>
+  <str key="354">Autor/títol</str>
+  <str key="356">Editorial/col·lecció</str>
+  <str key="search_categorie_title">Categoria</str>
+  <str key="17">Tipus de document</str>
+  <str key="noti_statut_noti">Estat del registre</str>
+  <str key="notice_id_libelle">Identificador del registre:</str>
+  <str key="searcher_all_schemes">Tots els esquemes</str>
+  <str key="resa_loc_retrait">Lloc de recollida</str>
+  <str key="resa_empr_location">Localització del lector</str>
+  <str key="authentification_page_mandatory">Heu d'autenticar-vos per a accedir a aquesta pàgina: </str>
+  <str key="serialcirc_ask_saved_success">La vostra sol·licitud s'ha registrat.</str>
+  <str key="serialcirc_ask_saved_failed">S'ha produït un error en registrar la vostra sol·licitud.</str>
+  <str key="scan_request_location">Localització</str>
+  <str key="print_validate">Valida</str>
+  <str key="list_lecture_add_list">Crea una nova llista</str>
+  <str key="list_lecture_no_classement">--</str>
+  <str key="173">Col·leccions trobades sota la clau</str>
+  <str key="empr_sugg_verifcode">Codi de verificació:</str>
+  <str key="empr_sugg_wrongcode">El codi de verificació no és vàlid!</str>
+  <str key="entrepot_notice_docnum">Documents electrònics</str>
+  <str key="dsi_bannette_priv">Les meues alertes personalitzades</str>
+  <str key="dsi_bannette_priv_no_alerts">No heu creat cap alerta personalitzada.</str>
+  <str key="dsi_bannette_pub_no_alerts">No hi ha cap alerta disponible.</str>
+  <str key="dsi_bannette_no_newrecord">No hi ha cap novetat a afegir.</str>
+  <str key="subs_pb_tags">&lt;h3&gt; No és possible validar la vostra inscripció !&lt;/h3&gt;&lt;br /&gt;&lt;span class='erreur'&gt;Els *champs de *saisie *ne *doivent *pas *contenir de *tags HTML&lt;/*span&gt;</str>
+  <str key="selector_keyword">Selecciona una etiqueta</str>
+  <str key="empr_change_profil">Modifica el perfil</str>
+  <str key="profil_id_empr">Nom d'usuari o usuària</str>
+  <str key="profil_empr_nom">Cognom</str>
+  <str key="profil_empr_prenom">Nom</str>
+  <str key="profil_empr_adr1">Adreça (línia 1)</str>
+  <str key="profil_empr_adr2">Adreça (línia 2)</str>
+  <str key="profil_empr_cp">CP</str>
+  <str key="profil_empr_ville">Municipi</str>
+  <str key="profil_empr_pays">País</str>
+  <str key="profil_empr_mail">Correu electrònic</str>
+  <str key="profil_empr_tel1">Telèfon</str>
+  <str key="profil_empr_tel2">Un altre telèfon</str>
+  <str key="profil_empr_prof">Professió</str>
+  <str key="profil_empr_year">Data de naixement</str>
+  <str key="profil_empr_categ">Categoria</str>
+  <str key="profil_empr_codestat">Codi estadístic</str>
+  <str key="profil_empr_sexe">Sexe</str>
+  <str key="profil_empr_location">Localització</str>
+  <str key="profil_empr_sexe_m">Masculí</str>
+  <str key="profil_empr_sexe_f">Femení</str>
+  <str key="profil_empr_sexe_o">No especificat</str>
+  <str key="sauv_misc_running">S'estan guardant els canvis...</str>
+  <str key="onto_error_too_long_value_small_text">%s : Aquest camp no pot superar els 512 caràcters.</str>
+  <str key="empr_renewal">Subscriure's de nou</str>
+  <str key="profil_empr_lang">Idioma OPAC</str>
+  <str key="empr_renewal_success">La vostra subscripció s'ha estés fins a %s</str>
+  <str key="empr_delete_account">Elimina el compte</str>
+  <str key="delete_account_running">S'està eliminant el compte...</str>
+  <str key="empr_confirm_deleting_account">Voleu suprimir el vostre compte?</str>
+  <str key="autorite_suppr_categ_forcage_button">Força la supressió</str>
+  <str key="liste_lecture_create_date">Data de creació</str>
+  <str key="subs_f_consent_message">Accepte l'emmagatzematge i ús amb finalitats no comercials de les meues dades personals. </str>
+  <str key="empr_account_recall_activation">Encara no ha confirmat el vostre registre. Valideu el vostre compte utilitzant el correu electrònic de confirmació. Reenvia el correu electrònic? </str>
+  <str key="dsi_bannette_no_equation">Cap equació de cerca associada</str>
+  <str key="nomenclature_search_nomenclature_abbreviation">Tots els instruments</str>
+  <str key="nomenclature_search_nomenclature_abbreviation_bois">Totes les fustes</str>
+  <str key="nomenclature_search_nomenclature_abbreviation_cuivres">Tot el metall</str>
+  <str key="nomenclature_search_nomenclature_abbreviation_percussions">Tota la percussió</str>
+  <str key="nomenclature_search_nomenclature_abbreviation_cordes">Totes les cordes</str>
+  <str key="nomenclature_search_instruments_no_standard">Instruments no estàndard</str>
+  <str key="nomenclature_search_instruments_workshop">Instruments de taller</str>
+  <str key="nomenclature_search_formations">Formació</str>
+  <str key="nomenclature_search_types">Tipus de formació</str>
+  <str key="nomenclature_search_formation_label">Nom de formació</str>
+  <str key="nomenclature_search_workshop_label">Nom del taller</str>
+  <str key="nomenclature_search_nomenclature_notes">Notes</str>
+  <str key="error_template">S'ha produït un error en la plantilla</str>
+  <str key="facette_delete_one">Suprimeix</str>
+  <str key="authperso_sel_title">Selecció de l'autoritat</str>
+  <str key="script_analytics_button_dnt_confirm">Accepta</str>
+  <str key="notice_vedette_composee_author">Qualificació</str>
+  <str key="tu_authors_list">Autors/res</str>
+  <str key="empr_no_loan_old">Cap préstec anterior</str>
+  <str key="contact_form_object_other">Entrada lliure de l'assumpte</str>
+  <str key="contact_form_object_free_entry">Introduïu l'assumpte del vostre missatge:</str>
+  <str key="contact_form_parameter_attachments">Unir-se :</str>
+  <str key="empr_view_sugg_detail">Detall del suggeriment</str>
+  <str key="empr_change_password_form_empty">La contrasenya no pot estar buida.</str>
+  <str key="empr_password_bad_security">La contrasenya no és prou segura.</str>
+  <str key="scan_request_nb_scanned_pages">Nombre de pàgines escanejades </str>
+  <str key="empr_old_password">Introduïu la vostra contrasenya actual:</str>
+  <str js="opac" key="list_lecture_no_ck">Seleccioneu almenys un registre</str>
+  <str key="subs_pb_invalid_login"></str>
+  <str key="empr_old_password_wrong">La contrasenya actual no és correcta.</str>
+  <str key="pnb_not_allowed">El préstec electrònic no està autoritzat per a aquest lector.</str>
+  <str key="show_cart_more_actions">Altres accions</str>
+  <str key="contact_form_error_email_adress">Introduïu una adreça de correu electrònic vàlida. </str>
+  <str key="articles">articles</str>
+  <str key="bulletin_nb_articles">Nombre d'articles</str>
+  <str key="list_lecture_allow_add_records">Autoritza la creació de registres </str>
+  <str key="list_lecture_allow_remove_records">Autoritza la supressió de registres </str>
+  <str key="dsi_bannette_cancel">Cancel·la</str>
+  <str key="dsi_bannette_edit_cancel">Cancel·la la modificació en curs</str>
+  <str key="search_custom_explnum">Personalitzats de documents electrònics</str>
+  <str key="ontology_p_edit_button">Modifica</str>
+  <str key="print_email_sender_mandatory">Es requereix introduir l'adreça del remitent.</str>
+  <str key="ontology_p_find_button">Busca</str>
+  <str key="tous_types_docs">Tots els tipus de documents</str>
+  <str key="tous_statuts_notice">Tots els estats</str>
+  <str key="select_search_tab_contribution">les meues contribucions proposades </str>
+  <str key="select_search_tab_fond">fons validats</str>
+  <str key="select_search_tab_title">Mostra la cerca en: </str>
+  <str js="contribution" key="search_result_tab_fond">Resultats en el fons validat (%s resultat (s)) </str>
+  <str js="contribution" key="search_result_tab_title">Resultats en les meues contribucions proposades (%s resultat (s)) </str>
+  <str js="contribution" key="onto_contribution_push_confirm_multiple">Segur que voleu validar aquestes contribucions? </str>
+  <str js="contribution" key="onto_contribution_delete_confirm_multiple">Segur que voleu eliminar aquestes contribucions? </str>
+  <str js="contribution" key="onto_contribution_not_selected">No s'ha seleccionat cap contribució </str>
+  <str js="selector" key="selector_tab_edit">Modifica</str>
+  <str js="contribution" key="onto_contribution_input_title">Podeu copiar el text seleccionant-lo, però no podeu editar-lo.</str>
+  <str js="contribution" key="onto_contribution_form_inprogress">Formulari només en consulta. S'està modificant un subformulari </str>
+  <str key="onto_contribution_thanks">Gràcies per les vostres aportacions.</str>
+  <str js="contribution" key="onto_contribution_group_action_impossible">No es pot realitzar l'acció sol·licitada </str>
+  <str key="onto_contribution_check_information">L'acció sol·licitada no es va poder realitzar en algunes contribucions </str>
+  <str js="contribution" key="onto_contribution_draft_editing">en procés d'edició</str>
+  <str js="contribution" key="onto_contribution_error_delete">No es pot eliminar. S'ha produït un error. </str>
+  <str key="searcher_all_natures">Totes les naturaleses </str>
+  <str js="contribution" key="onto_contribution_last_file">Arxiu actual: %s</str>
+  <str key="profil_login_too_short_error">L'identificador ha de tindre almenys 2 caràcters.</str>
+  <str key="profil_login_pattern_error">L'identificador ha d'estar en minúscules, només pot contindre caràcters alfanumèrics així com els caràcters "-", "_" i "@". </str>
+  <str key="profil_login_allready_used_error">Aquest identificador ja està en ús. </str>
+  <str key="profil_login_disconnect_after_change">El nom d'usuari ha canviat, haurà d'iniciar sessió novament després de registrar-se. </str>
+  <str key="subs_mail_allready_used_error">Aquest correu electrònic ja està en ús. </str>
+  <str js="opac" key="list_lecture_delete_subscriber">Segur que voleu eliminar l'accés a la llista d'aquest usuari? </str>
+  <str key="subs_mail_error">Correu electrònic no vàlid.</str>
+  <str js="contribution" key="save_in_progress">Registre en curs</str>
 </root>
