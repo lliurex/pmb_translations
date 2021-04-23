@@ -6,8 +6,8 @@
   <str key="list_ui_settings_columns_visible_0">No</str>
   <str key="list_ui_settings_filters_visible_0">No</str>
   <str key="profil_empr_login">Identificador OPAC</str>
-  <str key="chklnk_choix_caddie_autaut">Afig els autors amb l'enllaç trencat a la cistella: </str>
-  <str key="chklnk_choix_caddie_autsco">Afigr les subcol·leccions amb l'enllaç trencat a la cistella: </str>
+  <str key="chklnk_choix_caddie_autaut">Afig els autors i autores amb l'enllaç trencat a la cistella: </str>
+  <str key="chklnk_choix_caddie_autsco">Afig les subcol·leccions amb l'enllaç trencat a la cistella: </str>
   <str key="template_content">Plantilla</str>
   <str key="empr_group_responsable"> (Responsable)</str>
   <str key="list_label">Etiqueta </str>
@@ -67,8 +67,8 @@ Segur que voleu continuar? </str>
   <str key="cms_clean_cache_img">Neteja la memòria cau d'imatges</str>
   <str key="cms_clean_cache_confirm_img">Segur que voleu netejar la memòria cau d'imatges del portal?</str>
   <str key="import_authorities_type_concept">Conceptes</str>
-  <str key="import_authorities_scheme">Selecciona l'esquema a utilitzar per als conceptes</str>
-  <str key="import_authorities_category_or_concept">Importació en categories o conceptes?</str>
+  <str key="import_authorities_scheme">Selecció de l'esquema a utilitzar per als conceptes</str>
+  <str key="import_authorities_category_or_concept">Voleu fer la importació en categories o conceptes?</str>
   <str key="import_authorities_grammar">Selecció de la gramàtica a utilitzar per als conceptes</str>
   <str key="import_authorities_scheme_undefine">Detecció automàtica (recomanat per a RAMEAU)</str>
   <str key="caddie_menu_action_transfert_to_location">Genera una transferència</str>
@@ -244,13 +244,13 @@ Segur que voleu continuar? </str>
   <str key="search_segment_add_set">Creació / modificació del conjunt de dades</str>
   <str key="search_segment_set">Conjunt de dades</str>
   <str js="search_universes" key="search_universes_empty_label">Per favor, completeu la redacció. </str>
-  <str js="search_universes" key="search_segment_set_not_save">S'ha produït un problema en guardar el conjunt de dades</str>
+  <str js="search_universes" key="search_segment_set_not_save">Ha sorgit un problema en guardar el conjunt de dades</str>
   <str js="search_universes" key="search_segment_confirm_delete">Voleu suprimir aquest segment de cerca?</str>
   <str js="search_universes" key="search_universe_confirm_delete">Segur que voleu eliminar aquest univers de cerca? </str>
   <str js="search_universes" key="search_segment_advanced_search">Cerca avançada</str>
   <str key="index_concept_label_autopostage">Conceptes autopublicats</str>
   <str js="search_universes" key="search_segment_search_perso">Cerca predefinida</str>
-  <str js="search_universes" key="search_segment_facet_not_save">S'ha produït un problema en registrar la faceta</str>
+  <str js="search_universes" key="search_segment_facet_not_save">Ha sorgit un problema en registrar la faceta</str>
   <str key="mails_waiting_attachments">Directori que s'utilitzarà per a emmagatzemar arxius adjunts </str>
   <str key="mails_waiting_max_by_send">Nombre màxim de correus electrònics per enviament</str>
   <str key="list_ui_search">Filtres / Ordenació</str>
@@ -272,7 +272,7 @@ Segur que voleu continuar? </str>
   <str key="titres_uniformes">Títols uniformes</str>
   <str key="indexint">Índex. decimals</str>
   <str key="caddie_de_AUTHPERSO">Cistella d'autoritats personalitzades</str>
-  <str key="admin_opac_contact_form_parameter_permalink">Enllaç permanent OPAC :</str>
+  <str key="admin_opac_contact_form_parameter_permalink">Enllaç permanent OPAC:</str>
   <str key="nettoyage_operations_reindex">Reindexa</str>
   <str key="nettoyage_operations_delete">Suprimeix</str>
   <str key="nettoyage_operations_clean">Neteja</str>
@@ -383,11 +383,11 @@ Segur que voleu continuar? </str>
   <str js="misc" key="misc_subst_file_cancel">Anul·la</str>
   <str js="misc" key="misc_subst_file_save">Guarda</str>
   <str js="misc" key="misc_subst_file_save_success">Confirmació de guardar l'arxiu</str>
-  <str js="misc" key="misc_subst_file_save_error">És impossible guardar l'arxiu :</str>
+  <str js="misc" key="misc_subst_file_save_error">És impossible guardar l'arxiu:</str>
   <str js="misc" key="misc_subst_file_delete">Suprimeix</str>
   <str js="misc" key="misc_subst_file_confirm_delete">Voleu eliminar l'arxiu substituït?</str>
   <str js="misc" key="misc_subst_file_delete_success">Confirmació de l'eliminació de l'arxiu :</str>
-  <str js="misc" key="misc_subst_file_delete_error">És impossible eliminar l'arxiu :</str>
+  <str js="misc" key="misc_subst_file_delete_error">És impossible eliminar l'arxiu:</str>
   <str key="substituate">Substitueix</str>
   <str key="search_segment_default">Segment per defecte</str>
   <str key="deflt3type_produit">Tipus de producte predeterminat</str>
@@ -495,7 +495,7 @@ Segur que voleu continuar? </str>
   <str key="explnum_url_associated_already">Un document ja està associat.</str>
   <str js="misc" key="misc_file_initialization_success">Reinicialització realitzada</str>
   <str js="misc" key="misc_file_initialization_error">S'ha produït un error durant la reinicialització</str>
-  <str key="admin_menu_composed_vedettes">Encapçalats compostos</str>
+  <str key="admin_menu_composed_vedettes">Encapçalaments compostos</str>
   <str key="composed_vedettes_grammar">Gramàtica</str>
   <str key="composed_vedettes_grammars_by_entity">Definició de les gramàtiques disponibles segons la mena d'entitat PMB </str>
   <str js="misc" key="misc_subst_file_create">Creació</str>
@@ -528,8 +528,8 @@ Segur que voleu continuar? </str>
   <str key="import_notice_existing_replace">En cas d'ISBN duplicat, reemplace el registre existent amb el registre de l'arxiu d'importació </str>
   <str key="import_notice_existing_replace_message">Atenció: tots els camps del registre existent seran reemplaçats pels del registre importat. </str>
   <str key="import_notice_replace_only_one">&lt;br /&gt;(%s registres ja presents en la base de dades han sigut reemplaçats des de l'inici del tractament. )</str>
-  <str key="import_notice_replace_many">&lt;br /&gt;(%s registres ja presents en la base de dades no han sigut reemplaçades des de l'inici del tractament. )</str>
-  <str key="import_notice_replaced">Registre : substituït</str>
+  <str key="import_notice_replace_many">&lt;br /&gt;(%s registres ja presents en la base de dades no han sigut reemplaçats des de l'inici del tractament. )</str>
+  <str key="import_notice_replaced">Registre: substituït</str>
   <str key="print_concepts">Imprimeix un esquema</str>
   <str key="print_concepts_title">Impressió de conceptes</str>
   <str key="print_concepts_titre_arbo">Llista ramificada</str>
@@ -541,19 +541,19 @@ Segur que voleu continuar? </str>
   <str key="print_concepts_option_detail">Imprimeix el detall</str>
   <str key="calendrier_initialization">Reinicia</str>
   <str key="import_advanced_form">Opcions avançades</str>
-  <str key="import_choix_caddie_noti">Afig els registres importats a la cistella :</str>
+  <str key="import_choix_caddie_noti">Afig els registres importats a la cistella:</str>
   <str key="import_choix_caddie_expl">Afig els registres importats a la cistella :</str>
-  <str key="import_choix_caddie_bull">Afig els butlletins importats a la cistella :</str>
-  <str key="import_added_caddie_noti">Enllaç a la cistella d'instruccions :</str>
-  <str key="import_added_caddie_expl">Enllaç a la cistella d'exemplars :</str>
-  <str key="import_added_caddie_bull">Enllaç a la cistella de butlletins :</str>
+  <str key="import_choix_caddie_bull">Afig els butlletins importats a la cistella:</str>
+  <str key="import_added_caddie_noti">Enllaç a la cistella d'instruccions:</str>
+  <str key="import_added_caddie_expl">Enllaç a la cistella d'exemplars:</str>
+  <str key="import_added_caddie_bull">Enllaç a la cistella de butlletins:</str>
   <str key="onto_contribution_delete_in_progress">L'eliminació està en curs...</str>
   <str key="cashdesk_edition_transac_payment_method">Mètode de pagament</str>
   <str key="list_ui_add_filter">Afig un filtre</str>
   <str key="list_ui_filter_date_start">Després de</str>
   <str key="list_ui_filter_date_end">Abans de</str>
   <str key="dsi_flux_link">Vincula un flux</str>
-  <str key="pclassement_locations">Visible dins de les localitzacions :</str>
+  <str key="pclassement_locations">Visible dins de les localitzacions:</str>
   <str key="dsi_ban_senders">Remitent (opció predeterminada = usuari que activa el lliurament) </str>
   <str key="dsi_ban_senders_default">Marcat per defecte</str>
   <str key="caddie_autorisations_all">Visible per tots</str>
@@ -566,8 +566,8 @@ Segur que voleu continuar? </str>
   <str key="acquisition_action_transfer_not_all_lines">No és possible transferir totes les línies! </str>
   <str key="expl_price">Preu</str>
   <str key="print_concepts_option_alter_hidden">Imprimir etiquetes alternatives i ocultes </str>
-  <str key="acquisition_act_apply_budget_to_checked">Assigna el pressupost :</str>
-  <str key="acquisition_act_apply_type_to_checked">Assigna el tipus de producte : </str>
+  <str key="acquisition_act_apply_budget_to_checked">Assigna el pressupost:</str>
+  <str key="acquisition_act_apply_type_to_checked">Assigna el tipus de producte: </str>
   <str key="readerlist_dateexpiration_days">Nombre de dies des del final de la subscripció</str>
   <str key="selvars_empr_nb_days_before_expiration">Nombre de dies abans del final de la subscripció</str>
   <str key="selvars_empr_auth_opac_subscribe_link">Enllaç de renovació </str>
@@ -707,7 +707,7 @@ Segur que voleu continuar? </str>
   <str key="groupe_comment_opac">Comentari OPAC</str>
   <str key="alerte_transferts_depart">Eixida</str>
   <str key="empr_groups_comments">Missatge de grup</str>
-  <str key="admin_opac_contact_form_parameter_attachments">Peça(ces) junta(es) :</str>
+  <str key="admin_opac_contact_form_parameter_attachments">Peça(ces) junta(es):</str>
   <str key="empr_subscribe_form">Formulari d'inscripció</str>
   <str key="empr_account">Compte de lector</str>
   <str key="search_universe_id">Identificador</str>
@@ -718,7 +718,7 @@ Segur que voleu continuar? </str>
   <str key="dsi_flux_form_format_flux_items">Format de les notícies presents dins del fil</str>
   <str key="dsi_flux_form_format_flux_item_title">Títol</str>
   <str key="dsi_flux_form_format_flux_item_description">Descripció</str>
-  <str key="acquisition_action_check_line_increase_rate">Aplica un increment de : </str>
+  <str key="acquisition_action_check_line_increase_rate">Aplica un increment de: </str>
   <str key="acquisition_action_check_line_increase_rate_percent">%</str>
   <str key="empr_resp_group_location">Localització del responsable</str>
   <str key="mails_relance_groupe">Envia totes les cartes de seguiment dels grups seleccionats</str>
@@ -818,7 +818,7 @@ Segur que voleu continuar? </str>
   <str key="procs_options_text_type">Tipus de camp</str>
   <str key="procs_options_text_type_text">Text</str>
   <str key="procs_options_text_type_textarea">Àrea de text</str>
-  <str key="contribution_scenario_select">Selecciona un escenari :</str>
+  <str key="contribution_scenario_select">Selecciona un escenari:</str>
   <str key="emplacement_label_already_used"> : l'etiqueta ja està sent utilitzada !</str>
   <str key="support_label_already_used"> : l'etiqueta ja està sent utilitzada !</str>
   <str js="contribution_area" key="contribution_area_computed_fields_confirm_delete">Voleu suprimir aquest camp calculat ?</str>
@@ -1212,14 +1212,14 @@ Segur que voleu continuar? </str>
   <str key="empr_no_loan_old">Cap préstec anterior</str>
   <str key="contact_form_object_other">Entrada lliure de l'assumpte</str>
   <str key="contact_form_object_free_entry">Introduïu l'assumpte del vostre missatge:</str>
-  <str key="contact_form_parameter_attachments">Unir-se :</str>
+  <str key="contact_form_parameter_attachments">Unir-se:</str>
   <str key="empr_view_sugg_detail">Detall del suggeriment</str>
   <str key="empr_change_password_form_empty">La contrasenya no pot estar buida.</str>
   <str key="empr_password_bad_security">La contrasenya no és prou segura.</str>
   <str key="scan_request_nb_scanned_pages">Nombre de pàgines escanejades </str>
   <str key="empr_old_password">Introduïu la vostra contrasenya actual:</str>
   <str js="opac" key="list_lecture_no_ck">Seleccioneu almenys un registre</str>
-  <str key="subs_pb_invalid_login"></str>
+  <str key="subs_pb_invalid_login"/>
   <str key="empr_old_password_wrong">La contrasenya actual no és correcta.</str>
   <str key="pnb_not_allowed">El préstec electrònic no està autoritzat per a aquest lector.</str>
   <str key="show_cart_more_actions">Altres accions</str>
